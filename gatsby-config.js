@@ -3,24 +3,25 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `blog`,
-    siteUrl: `https://diversnotes.com/`,
+    title: 'blog',
+    siteUrl: 'https://diversnotes.com/'
   },
   plugins: [
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
+        // eslint-disable-next-line n/no-path-concat
         path: `${__dirname}/locales`,
-        name: `locale`
+        name: 'locale'
       }
     },
     {
-      resolve: `gatsby-plugin-react-i18next`,
+      resolve: 'gatsby-plugin-react-i18next',
       options: {
-        localeJsonSourceName: `locale`, // name given to `gatsby-source-filesystem` plugin.
-        languages: [`ru`, 'en'],
-        defaultLanguage: `ru`,
-        siteUrl: `https://diversnotes.com`,
+        localeJsonSourceName: 'locale', // name given to `gatsby-source-filesystem` plugin.
+        languages: ['ru', 'en'],
+        defaultLanguage: 'ru',
+        siteUrl: 'https://diversnotes.com',
         // if you are using trailingSlash gatsby config include it here, as well (the default is 'always')
         trailingSlash: 'always',
         // you can pass any i18next options
@@ -45,5 +46,5 @@ module.exports = {
         ]
       }
     }
-  ],
+  ]
 }
