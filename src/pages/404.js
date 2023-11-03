@@ -1,6 +1,7 @@
 import * as React from 'react'
 import { graphql, Link } from 'gatsby'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
+import SEO from '../components/SEO'
 
 const NotFoundPage = () => {
   const { t } = useTranslation('404')
@@ -29,4 +30,10 @@ export const query = graphql`
 
 export default NotFoundPage
 
-export const Head = () => <title>{useTranslation().t('title')}</title>
+export const Head = () => {
+  return (
+    <SEO title={'404. Страница не найдена'}
+         description={'Блог о дайвинге и около того'}
+         previewLink ={'https://i.pinimg.com/originals/c0/22/fc/c022fc54ca44c613ee935d1206b11af5.jpg'} />
+  )
+}

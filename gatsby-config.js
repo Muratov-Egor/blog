@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: 'blog',
+    title: 'Divers Notes',
     siteUrl: 'https://diversnotes.com/'
   },
   plugins: [
