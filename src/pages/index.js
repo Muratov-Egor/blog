@@ -2,13 +2,13 @@ import * as React from 'react'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
 import { graphql } from 'gatsby'
 import SEO from '../components/SEO'
+import '../styles/global.css'
 
 const IndexPage = () => {
   const { t } = useTranslation('mainPage')
   return (
     <>
       <main>
-        hello
         <h1>{t('title')}</h1>
         <p>{t('description')}</p>
       </main>
