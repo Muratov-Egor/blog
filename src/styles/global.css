@@ -6,6 +6,14 @@
     font-weight: normal;
 }
 
+:root {
+    --white: #fff;
+    --black: #000;
+    --brown: #b09a81;
+    --blue: #72cbfd;
+    --grey: #818181;
+}
+
 body {
     font-family: 'Merriweather', serif;
     font-size: 20px;
@@ -13,7 +21,7 @@ body {
     font-weight: 400;
     letter-spacing: .5px;
     line-height: 33px;
-    color: #2A2626;
+    color: var(--black), #000;
 
     display: flex;
     flex-direction: column;
@@ -23,9 +31,23 @@ body {
     margin: 0 auto;
 }
 
-main {
-    width: 1200px;
+#___gatsby, #gatsby-focus-wrapper {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
 
+a {
+    color: var(--black), #000;
+    text-decoration: none;
+    transition: text-shadow 0.3s;
+}
+
+a:hover {
+    text-shadow: 1px 1px 0 var(--grey, #818181);
+}
+
+main {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -35,3 +57,29 @@ main {
     height: 100vh;
     justify-content: center;
 }
+
+.flex {
+    display: flex;
+}
+
+.flex-colum {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-space-between {
+    justify-content: space-between;
+}
+
