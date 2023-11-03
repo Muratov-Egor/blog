@@ -6,7 +6,7 @@ import SEO from '../components/SEO'
 const NotFoundPage = () => {
   const { t } = useTranslation('404')
   return (
-    <main>
+    <main className={'page404'}>
       <h1>{t('title')}</h1>
       <p>{t('description')}</p>
       <Link to="/">{t('goHome')}</Link>
