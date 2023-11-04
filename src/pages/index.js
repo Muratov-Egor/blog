@@ -11,8 +11,8 @@ const IndexPage = () => {
     <>
       <Header />
       <main>
-        <h1>{t('title1')}</h1>
-        <p>{t('description1')}</p>
+        <h1>{t('title')}</h1>
+        <p>{t('description')}</p>
       </main>
     </>
   )

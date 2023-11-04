@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-    text-shadow: 1px 1px 0 var(--grey, #818181);
+    text-shadow: 1px 0 0 var(--grey, #818181);
 }
 
 main {
