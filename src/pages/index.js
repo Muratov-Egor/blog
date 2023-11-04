@@ -1,18 +1,16 @@
 import * as React from 'react'
-import { useTranslation } from 'gatsby-plugin-react-i18next'
 import { graphql } from 'gatsby'
 import SEO from '../components/SEO'
 import '../styles/global.css'
 import Header from '../components/Header/Header'
+import Preview from '../components/Preview/Preview'
 
 const IndexPage = () => {
-  const { t } = useTranslation('mainPage')
   return (
     <>
       <Header />
+      <Preview />
       <main>
-        <h1>{t('title')}</h1>
-        <p>{t('description')}</p>
       </main>
     </>
   )
