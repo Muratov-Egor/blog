@@ -3,14 +3,13 @@ import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import SEO from '../components/SEO'
 import Header from '../components/Header/Header'
-import CardList from '../components/CardList/CardList'
 
 const BlogPage = ({ data }) => {
   const posts = data.allMdx.nodes
+  console.log(posts)
   return (
     <>
       <Header />
-      <CardList posts={posts} />
     </>
   )
 }
