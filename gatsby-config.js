@@ -7,12 +7,21 @@ module.exports = {
     siteUrl: 'https://diversnotes.com/'
   },
   plugins: [
+    'gatsby-plugin-mdx',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         // eslint-disable-next-line n/no-path-concat
         path: `${__dirname}/locales`,
         name: 'locale'
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        // eslint-disable-next-line n/no-path-concat
+        path: `${__dirname}/blog`,
+        name: 'blog'
       }
     },
     {
