@@ -4,7 +4,7 @@ import { useTranslation } from 'gatsby-plugin-react-i18next'
 import { logoWrapper, logo, navbar } from './Header.module.css'
 
 const Header = () => {
-  const { t } = useTranslation('mainPage')
+  const { t } = useTranslation('header')
 
   return (
 		<header className={'flex flex-wrap justify-content-space-between align-items-center'}>
