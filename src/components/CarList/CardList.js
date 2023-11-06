@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
-import Image from '../Image'
+import * as styles from './CardList.module.css'
+import Card from './Card/Card'
 
 const CardList = () => {
   const data = useStaticQuery(graphql`
@@ -8,7 +9,7 @@ const CardList = () => {
 	    allMdx(sort: { frontmatter: { date: DESC }}) {
 	      nodes {
 	        frontmatter {
-	          date(formatString: "MMMM D, YYYY")
+	          date
 	          title
 	          slug
 	          description
@@ -23,20 +24,8 @@ const CardList = () => {
   const posts = data.allMdx.nodes
 
   return (
-		<div>
-			{posts.map(post => {
-			  const { preview, title } = post.frontmatter
-			  return (
-					<div key={post.id}>
-						<p>{title}</p>
-						 <Image
-						  src={preview}
-						  className="mx-auto shadow-xl"
-						  alt="Sunset Image"
-						 />
-					</div>
-			  )
-			})}
+		<div className={`flex flex-wrap justify-content-space-between ${styles.cardListWrapper}`}>
+			{posts.map(post => <Card key={post.id} post={post.frontmatter} />)}
 		</div>
   )
 }

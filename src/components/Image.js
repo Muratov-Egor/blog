@@ -13,7 +13,7 @@ const Image = ({ src, ...rest }) => {
             extension
             publicURL
             childImageSharp {
-              fluid {
+            fluid {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -22,8 +22,6 @@ const Image = ({ src, ...rest }) => {
       }
     }
   `)
-
-  console.log(data.images)
 
   const match = useMemo(() => data.images.edges.find(({ node }) => src === node.relativePath), [data, src])
 
