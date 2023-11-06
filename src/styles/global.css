@@ -8,6 +8,7 @@
 
 :root {
     --white: #fff;
+    --bright: #f5f5f5;
     --black: #000;
     --brown: #b09a81;
     --blue: #72cbfd;
@@ -89,6 +90,21 @@ main {
 
 .text-align-center {
     text-align: center;
+}
+
+.button {
+    margin-top: 50px;
+    padding: 15px 30px;
+    border-radius: 15px;
+    background: var(--bright);
+    transition: padding-right 0.3s, padding-left 0.3s;
+    color: black;
+}
+
+.button:hover {
+    padding: 15px 45px;
+    color: black;
+    text-decoration: underline;
 }
 
 @media (max-width: 768px) {

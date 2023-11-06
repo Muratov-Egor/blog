@@ -14,7 +14,7 @@ const IndexPage = () => {
       <Preview />
       <main>
         <CardList limit={3} />
-        <Link to={'/blog'}>
+        <Link to={'/blog'} className={'button'}>
           Читать всё
         </Link>
       </main>
