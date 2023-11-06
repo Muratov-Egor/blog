@@ -2,14 +2,14 @@ import * as React from 'react'
 import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import SEO from '../components/SEO'
-import Header from '../components/Header/Header'
+import { StaticImage } from 'gatsby-plugin-image'
 
 const BlogPage = ({ data }) => {
   const posts = data.allMdx.nodes
   console.log(posts)
   return (
     <>
-      <Header />
+      {/* <Header /> */}
     </>
   )
 }

@@ -7,6 +7,17 @@ module.exports = {
     siteUrl: 'https://diversnotes.com/'
   },
   plugins: [
+    'gatsby-plugin-image',
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'images',
+        // eslint-disable-next-line n/no-path-concat
+        path: `${__dirname}/images/`
+      }
+    },
     'gatsby-plugin-mdx',
     {
       resolve: 'gatsby-source-filesystem',
