@@ -4,6 +4,7 @@ import PropTypes from 'prop-types'
 import SEO from '../components/SEO'
 import Header from '../components/Header/Header'
 import CardList from '../components/CarList/CardList'
+import Footer from '../components/Footer/Footer'
 
 const BlogPage = ({ data }) => {
   return (
@@ -11,6 +12,7 @@ const BlogPage = ({ data }) => {
        <Header />
         <h1 className={'text-align-center'}>Все статьи</h1>
        <CardList />
+      <Footer />
     </>
   )
 }

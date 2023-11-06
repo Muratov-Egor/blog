@@ -1,10 +1,11 @@
 import * as React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import SEO from '../components/SEO'
 import '../styles/global.css'
 import Header from '../components/Header/Header'
 import Preview from '../components/Preview/Preview'
 import CardList from '../components/CarList/CardList'
+import Footer from '../components/Footer/Footer'
 
 const IndexPage = () => {
   return (
@@ -13,7 +14,11 @@ const IndexPage = () => {
       <Preview />
       <main>
         <CardList limit={3} />
+        <Link to={'/blog'}>
+          Читать всё
+        </Link>
       </main>
+      <Footer />
     </>
   )
 }

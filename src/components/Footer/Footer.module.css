@@ -1,0 +1,20 @@
+.footerWrapper {
+    border-top: 1px solid var(--grey);
+    margin-top: 4rem;
+}
+
+.socialWrapper {
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.socialLink {
+    font-size: 30px;
+    color: black;
+}
+
+.copyright {
+    font-size: 14px;
+    text-align: center;
+    padding: 1rem;
+}
