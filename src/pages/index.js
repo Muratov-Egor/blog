@@ -4,6 +4,7 @@ import SEO from '../components/SEO'
 import '../styles/global.css'
 import Header from '../components/Header/Header'
 import Preview from '../components/Preview/Preview'
+import CardList from '../components/CarList/CardList'
 
 const IndexPage = () => {
   return (
@@ -11,6 +12,7 @@ const IndexPage = () => {
       <Header />
       <Preview />
       <main>
+        <CardList limit={3} />
       </main>
     </>
   )
