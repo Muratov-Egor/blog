@@ -15,7 +15,7 @@ module.exports = {
       options: {
         name: 'images',
         // eslint-disable-next-line n/no-path-concat
-        path: `${__dirname}/images/`
+        path: `${__dirname}/src/images/`
       }
     },
     'gatsby-plugin-mdx',

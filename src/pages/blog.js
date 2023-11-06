@@ -10,6 +10,11 @@ const BlogPage = ({ data }) => {
   return (
     <>
        <Header />
+      {/* <Image */}
+      {/*  src="deepDiving/preview.jpg" */}
+      {/*  className="mx-auto shadow-xl" */}
+      {/*  alt="Sunset Image" */}
+      {/* /> */}
     </>
   )
 }
