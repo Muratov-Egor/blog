@@ -3,10 +3,9 @@ import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import SEO from '../components/SEO'
 import Header from '../components/Header/Header'
+import CardList from '../components/CarList/CardList'
 
 const BlogPage = ({ data }) => {
-  const posts = data.allMdx.nodes
-  console.log(posts)
   return (
     <>
        <Header />
@@ -15,6 +14,7 @@ const BlogPage = ({ data }) => {
       {/*  className="mx-auto shadow-xl" */}
       {/*  alt="Sunset Image" */}
       {/* /> */}
+       <CardList />
     </>
   )
 }
@@ -28,18 +28,6 @@ export const query = graphql`
           data
           language
         }
-      }
-    }
-    allMdx(sort: { frontmatter: { date: DESC }}) {
-      nodes {
-        frontmatter {
-          date(formatString: "MMMM D, YYYY")
-          title
-          slug
-          description
-          preview
-        }
-        id
       }
     }
   }
