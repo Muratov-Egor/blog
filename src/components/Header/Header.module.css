@@ -1,5 +1,7 @@
 header {
     padding: 50px;
+    border-bottom: 1px solid var(--black);
+    margin-bottom: 50px;
 }
 
 .logoWrapper h1 {
