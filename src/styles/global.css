@@ -40,11 +40,11 @@ body {
 a {
     color: var(--black), #000;
     text-decoration: none;
-    transition: text-shadow 0.3s;
+    transition: font-size 0.3s;
 }
 
 a:hover {
-    text-shadow: 1px 0 0 var(--grey, #818181);
+    font-size: 21px;
 }
 
 main {
@@ -95,5 +95,9 @@ main {
     body {
         font-size: 16px;
         line-height: 26px;
+    }
+
+    a:hover {
+        font-size: 17px;
     }
 }
