@@ -41,11 +41,10 @@ body {
 a {
     color: var(--black), #000;
     text-decoration: none;
-    transition: color 0.3s;
 }
 
 a:hover {
-    color: var(--grey);
+    text-decoration: underline;
 }
 
 main {

@@ -6,6 +6,7 @@ import Header from '../../components/Header/Header'
 import Footer from '../../components/Footer/Footer'
 import Image from '../../components/Image'
 import Date from '../../components/Date'
+import SEO from '../../components/SEO'
 
 const BlogPost = ({ data, children }) => {
   const { title, preview, date } = data.mdx.frontmatter
@@ -56,6 +57,14 @@ BlogPost.propTypes = {
   children: PropTypes.object
 }
 
-export const Head = () => <title>dasd</title>
+export const Head = ({ data }) => {
+  const { title, preview, date, description } = data.mdx.frontmatter
+
+  return (
+    <SEO title={title}
+         description={description}
+         previewLink ={preview} />
+  )
+}
 
 export default BlogPost

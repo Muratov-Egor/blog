@@ -7,6 +7,7 @@
 
 .title {
     text-align: center;
+    font-size: 51px;
 }
 
 .date {
@@ -25,4 +26,10 @@ blockquote {
     padding: 10px 40px;
     background: var(--grey);
     text-align: center;
+}
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 30px;
+    }
 }
