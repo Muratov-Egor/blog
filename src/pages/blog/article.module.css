@@ -29,8 +29,29 @@ blockquote {
     text-align: center;
 }
 
+.youtube {
+    width: 100%;
+    height: 480px;
+    max-height: 580px;
+    border-radius: 20px;
+}
+
+@media (max-width: 1024px) {
+    .title {
+        font-size: 30px;
+    }
+
+    .youtube {
+        height: 400px;
+    }
+}
+
 @media (max-width: 768px) {
     .title {
         font-size: 30px;
+    }
+
+    .youtube {
+        height: 250px;
     }
 }
