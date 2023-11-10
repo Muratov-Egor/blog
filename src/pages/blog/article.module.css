@@ -5,6 +5,10 @@
     background: var(--bright);
 }
 
+.article h1 {
+    margin: 50px 0;
+}
+
 .title {
     text-align: center;
     font-size: 51px;
