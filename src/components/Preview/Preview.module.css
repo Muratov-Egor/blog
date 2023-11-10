@@ -5,7 +5,6 @@
 .info {
     display: block;
     flex: 1;
-    min-width: 400px;
     text-align: center;
     padding: 10px;
     margin-right: 30px;
