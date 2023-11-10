@@ -8,7 +8,7 @@ const Preview = () => {
 	  <div className={`flex flex-wrap-reverse align-items-center justify-content-center ${wrapper}`}>
 		  <div className={info}>
 			  <h3>{t('hello')}</h3>
-			  <p>{t('first_paragraph', { count: 126 })}</p>
+			  <p>{t('first_paragraph', { count: 140 })}</p>
 			  <p>{t('second_paragraph')}</p>
 		  </div>
 		  <img src={'https://i.pinimg.com/originals/86/41/c4/8641c4366d7212f113665886700af50a.jpg'} className={img} />
