@@ -8,7 +8,7 @@ import { Link } from 'gatsby'
 const Card = ({ post }) => {
   const { preview, title, description, date, slug } = post
   return (
-		<Link to={slug} className={`flex flex-colum align-items-center ${styles.cardWrapper} ${styles.link}`} key={post.id}>
+		<Link to={`/blog/${slug}`} className={`flex flex-colum align-items-center ${styles.cardWrapper} ${styles.link}`} key={post.id}>
 			<h3>{title}</h3>
 			<Image
 				src={preview}
