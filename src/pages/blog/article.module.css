@@ -41,6 +41,14 @@ blockquote {
 }
 
 @media (max-width: 1024px) {
+    blockquote {
+        padding: 5px;
+    }
+
+    .article {
+        padding: 10px;
+    }
+
     .title {
         font-size: 30px;
     }
@@ -51,6 +59,11 @@ blockquote {
 }
 
 @media (max-width: 768px) {
+    blockquote {
+        margin: 0;
+        padding: 5px;
+    }
+
     .title {
         font-size: 30px;
     }
