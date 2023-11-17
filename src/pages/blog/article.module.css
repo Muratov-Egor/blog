@@ -1,5 +1,6 @@
 .article {
-    margin: 30px;
+    max-width: 900px;
+    margin: 30px auto;
     padding: 30px;
     border-radius: 30px;
     background: var(--bright);
