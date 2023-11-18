@@ -17,6 +17,8 @@ const SEO = ({ title, description, previewLink, url }) => {
   const titleInfo = `${title} | ${data.site.siteMetadata.title}`
   const href = `${data.site.siteMetadata.siteUrl}${url}`
   const img = previewLink
+
+  console.log(img)
   return (
     <>
 
@@ -44,13 +46,13 @@ const SEO = ({ title, description, previewLink, url }) => {
             content={img}/>
       <meta name="twitter:image:alt" content={titleInfo}/>
       <link rel="icon" type="image/png" sizes="16x16"
-            href="https://raw.githubusercontent.com/Muratov-Egor/divers-notes/master/src/images/favicon-16x16.png"/>
+            href="https://i.pinimg.com/originals/dd/6e/27/dd6e27bf96eebe1fb3de32b88bcb1558.png"/>
       <link rel="icon" type="image/png" sizes="32x32"
-            href="https://raw.githubusercontent.com/Muratov-Egor/divers-notes/master/src/images/favicon-32x32.png"/>
+            href="https://i.pinimg.com/originals/dd/6e/27/dd6e27bf96eebe1fb3de32b88bcb1558.png"/>
       <link rel="icon" type="image/ico" sizes="48x48"
-            href="https://raw.githubusercontent.com/Muratov-Egor/divers-notes/master/src/images/favicon.ico"/>
+            href="https://i.pinimg.com/originals/dd/6e/27/dd6e27bf96eebe1fb3de32b88bcb1558.png"/>
       <link rel="apple-touch-icon" sizes="180x180"
-            href="https://raw.githubusercontent.com/Muratov-Egor/divers-notes/master/src/images/apple-touch-icon.png"/>
+            href="https://i.pinimg.com/originals/dd/6e/27/dd6e27bf96eebe1fb3de32b88bcb1558.png"/>
       <meta name="lang" content="ru"/>
     </>
   )

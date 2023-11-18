@@ -38,6 +38,7 @@ export const query = graphql`
         slug
         description
         preview
+        previewLink
       }
     }
     locales: allLocale(filter: {language: {eq: $language}}) {
@@ -58,12 +59,12 @@ BlogPost.propTypes = {
 }
 
 export const Head = ({ data }) => {
-  const { title, preview, date, description } = data.mdx.frontmatter
+  const { title, description, previewLink } = data.mdx.frontmatter
 
   return (
     <SEO title={title}
          description={description}
-         previewLink ={preview} />
+         previewLink ={previewLink} />
   )
 }
 
