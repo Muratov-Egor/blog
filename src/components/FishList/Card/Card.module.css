@@ -30,3 +30,7 @@
 .cardWrapper span {
     font-size: 14px;
 }
+
+.cardWrapper h3 {
+    text-align: center;
+}

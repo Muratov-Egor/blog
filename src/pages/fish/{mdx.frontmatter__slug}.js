@@ -2,16 +2,26 @@ import * as React from 'react'
 import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import * as style from './article.module.css'
+import Header from '../../components/Header/Header'
+import Footer from '../../components/Footer/Footer'
+import Image from '../../components/Image'
 
 const FishPost = ({ data, children }) => {
-  const { title } = data.mdx.frontmatter
+  const { title, preview } = data.mdx.frontmatter
 
   return (
     <>
+      <Header />
       <article className={style.article}>
         <h1 className={style.title}>{title}</h1>
+        <Image
+          src={preview}
+          alt={title}
+          className={style.img}
+        />
         {children}
       </article>
+      <Footer />
     </>
   )
 }

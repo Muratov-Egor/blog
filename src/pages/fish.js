@@ -4,13 +4,13 @@ import SEO from '../components/SEO'
 import { graphql } from 'gatsby'
 import FishList from '../components/FishList/FishList'
 
-const FishDatabase = () => {
+const Fish = () => {
   return <>
 	  <FishList />
   </>
 }
 
-export default FishDatabase
+export default Fish
 
 export const query = graphql`
   query ($language: String!) {
