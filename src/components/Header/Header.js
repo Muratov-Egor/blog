@@ -15,7 +15,7 @@ const Header = () => {
 			<nav className={`${navbar} flex flex-wrap `}>
 				<Link to={'/'}>{t('navbarHome')}</Link>
 				<Link to={'/blog'}>{t('navbarBlog')}</Link>
-				{/* <Link to={'/'}>{t('navbarDatabase')}</Link> */}
+				 <Link to={'/fishDatabase'}>{t('navbarDatabase')}</Link>
 			</nav>
 		</header>
   )
