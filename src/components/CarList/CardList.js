@@ -7,7 +7,10 @@ import PropTypes from 'prop-types'
 const CardList = ({ limit }) => {
   const data = useStaticQuery(graphql`
     query {
-	    allMdx(sort: { frontmatter: { date: DESC }}) {
+	    allMdx(
+	      sort: { frontmatter: { date: DESC }}
+        filter: {fields: {source: {eq: "blog"}}}
+      ) {
 	      nodes {
 	        frontmatter {
 	          date

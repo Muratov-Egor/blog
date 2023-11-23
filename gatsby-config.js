@@ -18,6 +18,7 @@ module.exports = {
         path: `${__dirname}/src/images/`
       }
     },
+    'gatsby-plugin-mdx-source-name',
     'gatsby-plugin-mdx',
     {
       resolve: 'gatsby-source-filesystem',
@@ -33,6 +34,14 @@ module.exports = {
         // eslint-disable-next-line n/no-path-concat
         path: `${__dirname}/blog`,
         name: 'blog'
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        // eslint-disable-next-line n/no-path-concat
+        path: `${__dirname}/fish`,
+        name: 'fish'
       }
     },
     {
