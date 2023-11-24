@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
-import * as style from './article.module.css'
+import * as style from '../../styles/article.module.css'
 import Header from '../../components/Header/Header'
 import Footer from '../../components/Footer/Footer'
 import Image from '../../components/Image'
