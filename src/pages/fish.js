@@ -3,10 +3,14 @@ import SEO from '../components/SEO'
 
 import { graphql } from 'gatsby'
 import FishList from '../components/FishList/FishList'
+import Header from '../components/Header/Header'
+import Footer from '../components/Footer/Footer'
 
 const Fish = () => {
   return <>
+	  <Header />
 	  <FishList />
+	  <Footer />
   </>
 }
 
