@@ -7,13 +7,14 @@ import Footer from '../../components/Footer/Footer'
 import Image from '../../components/Image'
 
 const FishPost = ({ data, children }) => {
-  const { title, preview } = data.mdx.frontmatter
+  const { title, title_en, preview } = data.mdx.frontmatter
 
   return (
     <>
       <Header />
       <article className={style.article}>
         <h1 className={style.title}>{title}</h1>
+        <span className={style.subtitle}>{title_en}</span>
         <Image
           src={preview}
           alt={title}
@@ -31,6 +32,7 @@ export const query = graphql`
     mdx(id: {eq: $id}) {
       frontmatter {
         title
+        title_en
         slug
         description
         preview

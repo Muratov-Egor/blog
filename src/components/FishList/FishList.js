@@ -14,6 +14,7 @@ const FishList = () => {
 	        frontmatter {
 	          date
 	          title
+	          title_en
 	          slug
 	          description
 	          preview
