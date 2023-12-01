@@ -6,7 +6,7 @@ import Header from '../components/Header/Header'
 import CardList from '../components/CarList/CardList'
 import Footer from '../components/Footer/Footer'
 
-const BlogPage = ({ data }) => {
+const BlogPage = () => {
   return (
     <>
        <Header />
@@ -35,6 +35,6 @@ BlogPage.propTypes = {
   data: PropTypes.object
 }
 
-export const Head = () => <SEO title="Блог" />
+export const Head = () => <SEO title="Блог" description={'Все статьи о дайвинге'} />
 
 export default BlogPage

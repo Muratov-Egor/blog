@@ -5,7 +5,7 @@ import * as style from '../../styles/article.module.css'
 import Header from '../../components/Header/Header'
 import Footer from '../../components/Footer/Footer'
 import Image from '../../components/Image'
-import SEO from '../../components/SEO';
+import SEO from '../../components/SEO'
 
 const FishPost = ({ data, children }) => {
   const { title, title_en, preview } = data.mdx.frontmatter
@@ -57,6 +57,7 @@ FishPost.propTypes = {
   children: PropTypes.object
 }
 
+// eslint-disable-next-line react/prop-types
 export const Head = ({ data }) => {
   // eslint-disable-next-line react/prop-types
   const { title, description, previewLink } = data.mdx.frontmatter
