@@ -5,6 +5,7 @@ import * as style from '../../styles/article.module.css'
 import Header from '../../components/Header/Header'
 import Footer from '../../components/Footer/Footer'
 import Image from '../../components/Image'
+import SEO from '../../components/SEO';
 
 const FishPost = ({ data, children }) => {
   const { title, title_en, preview } = data.mdx.frontmatter
@@ -54,6 +55,16 @@ export const query = graphql`
 FishPost.propTypes = {
   data: PropTypes.object,
   children: PropTypes.object
+}
+
+export const Head = ({ data }) => {
+  const { title, description, previewLink } = data.mdx.frontmatter
+
+  return (
+    <SEO title={title}
+         description={description}
+         previewLink ={previewLink} />
+  )
 }
 
 export default FishPost
