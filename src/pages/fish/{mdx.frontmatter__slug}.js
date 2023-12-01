@@ -58,6 +58,7 @@ FishPost.propTypes = {
 }
 
 export const Head = ({ data }) => {
+  // eslint-disable-next-line react/prop-types
   const { title, description, previewLink } = data.mdx.frontmatter
 
   return (
