@@ -1,7 +1,7 @@
 import * as React from 'react'
-import { Link } from 'gatsby'
-import { useTranslation } from 'gatsby-plugin-react-i18next'
-import { logoWrapper, logo, navbar } from './Header.module.css'
+import {Link} from 'gatsby'
+import {useTranslation} from 'gatsby-plugin-react-i18next'
+import {logo, logoWrapper, navbar} from './Header.module.css'
 
 const Header = () => {
   const { t } = useTranslation('header')
@@ -15,7 +15,7 @@ const Header = () => {
 			<nav className={`${navbar} flex flex-wrap `}>
 				<Link to={'/'}>{t('navbarHome')}</Link>
 				<Link to={'/blog'}>{t('navbarBlog')}</Link>
-				 <Link to={'/fish'}>{t('navbarDatabase')}</Link>
+				<Link to={'/fish'}>{t('navbarDatabase')}</Link>
 			</nav>
 		</header>
   )
