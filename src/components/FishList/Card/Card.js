@@ -8,7 +8,7 @@ const Card = ({ post }) => {
   const { preview, title, slug, title_en } = post
   return (
 		<Link to={`/fish/${slug}`} className={`flex flex-colum align-items-center ${styles.cardWrapper} ${styles.link}`} key={post.id}>
-			<h3>{title}</h3>
+			<h1>{title}</h1>
 			<Image
 				src={preview}
 				alt={title}
