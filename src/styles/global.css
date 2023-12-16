@@ -92,7 +92,6 @@ main {
 }
 
 .button {
-    margin-top: 50px;
     padding: 15px 30px;
     border-radius: 15px;
     background: var(--bright);
@@ -105,6 +104,15 @@ main {
     color: black;
     text-decoration: underline;
 }
+
+.mb-30 {
+   margin-bottom: 30px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
 
 @media (max-width: 768px) {
     body {

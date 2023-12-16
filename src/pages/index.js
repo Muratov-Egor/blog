@@ -6,6 +6,7 @@ import Header from '../components/Header/Header'
 import Preview from '../components/Preview/Preview'
 import CardList from '../components/CarList/CardList'
 import Footer from '../components/Footer/Footer'
+import FishList from '../components/FishList/FishList'
 
 const IndexPage = () => {
   return (
@@ -13,10 +14,21 @@ const IndexPage = () => {
       <Header />
       <Preview />
       <main>
-        <CardList limit={3} />
-        <Link to={'/blog'} className={'button'}>
-          Читать всё
-        </Link>
+        <div className={'flex-colum align-items-center justify-content-center mb-30 border-bottom'}>
+          <h2>Последние статьи</h2>
+          <CardList limit={3} />
+          <Link to={'/blog'} className={'button mt-30 mb-30'}>
+            Читать все статьи
+          </Link>
+        </div>
+
+        <div className={'flex-colum align-items-center justify-content-center'}>
+          <h2>Новые рыбки</h2>
+          <FishList limit={6} />
+          <Link to={'/fishbase'} className={'button mt-30'}>
+            База данных рыб
+          </Link>
+        </div>
       </main>
       <Footer />
     </>
