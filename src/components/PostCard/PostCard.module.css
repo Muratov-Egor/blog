@@ -13,6 +13,7 @@
     flex: 1 1 400px;
     padding: 10px;
     height: 400px;
+    text-align: center;
 }
 
 .card:hover {
