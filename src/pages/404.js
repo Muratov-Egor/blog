@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { graphql, Link } from 'gatsby'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
-import { SEO } from '../components/SEO'
+import SEO from '../components/SEO'
 
 const NotFoundPage = () => {
   const { t } = useTranslation('404')

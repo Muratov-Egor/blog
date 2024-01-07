@@ -1,6 +1,6 @@
 import * as React from 'react'
 import '../styles/global.css'
-import { SEO } from '../components/SEO'
+import SEO from '../components/SEO'
 import Header from '../components/Header/Header'
 import Footer from '../components/Footer/Footer'
 import { graphql, Link } from 'gatsby'
