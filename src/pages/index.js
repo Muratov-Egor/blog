@@ -7,6 +7,7 @@ import { graphql, Link } from 'gatsby'
 import Preview from '../components/Preview/Preview'
 import { useTranslation } from 'gatsby-plugin-react-i18next'
 import PostList from '../components/PostList/PostList'
+import FishList from '../components/FishList/FishList'
 const IndexPage = () => {
   const { t } = useTranslation('mainPage')
   return (
@@ -21,6 +22,7 @@ const IndexPage = () => {
         </Link>
 
         <h1>{t('fishTitle')}</h1>
+        <FishList limit={6} />
         <Link to={'/fish'} className={'button'}>
           {t('fishButton')}
         </Link>
