@@ -107,11 +107,7 @@ main {
 
 @media (max-width: 376px) {
     body {
-        font-size: 14px;
-    }
-
-    main {
-        padding: 0;
+        font-size: 12px;
     }
 }
 
