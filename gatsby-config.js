@@ -4,7 +4,9 @@
 module.exports = {
   siteMetadata: {
     title: 'Divers Notes',
-    siteUrl: 'https://diversnotes.com/'
+    siteUrl: 'https://diversnotes.com/',
+    description: 'Blog about scuba diving',
+    image: '/logo.jpg'
   },
   plugins: [
     'gatsby-plugin-image',

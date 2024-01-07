@@ -1,15 +1,12 @@
-import React from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
-import * as styles from './CardList.module.css'
-import Card from './Card/Card'
-import PropTypes from 'prop-types'
 
-const CardList = ({ limit }) => {
+export const usePosts = (limit) => {
   const data = useStaticQuery(graphql`
-    query {
+    query($limit: Int) {
 	    allMdx(
 	      sort: { frontmatter: { date: DESC }}
         filter: {fields: {source: {eq: "blog"}}}
+        limit: $limit
       ) {
 	      nodes {
 	        frontmatter {
@@ -23,20 +20,11 @@ const CardList = ({ limit }) => {
 	      }
 	    }
 	  }
-	`)
+  `)
 
+  // todo разобраться как передавать лимит как variables в запрос
   const allPosts = data.allMdx.nodes
   const posts = limit ? allPosts.slice(0, limit) : allPosts
 
-  return (
-		<div className={`flex flex-wrap justify-content-space-between ${styles.cardListWrapper}`}>
-			{posts.map(post => <Card key={post.id} post={post.frontmatter} />)}
-		</div>
-  )
+  return posts
 }
-
-CardList.propTypes = {
-  limit: PropTypes.number
-}
-
-export default CardList

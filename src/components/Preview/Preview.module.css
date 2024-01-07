@@ -1,5 +1,9 @@
 .wrapper {
-    margin: 50px;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+    padding: 25px;
+    background: var(--bright);
+    border-radius: 10px;
 }
 
 .info {
@@ -17,6 +21,10 @@
 }
 
 @media (max-width: 768px) {
+    .wrapper {
+        flex-direction: column-reverse;
+    }
+
     .img {
         max-width: 300px;
         max-height: 300px;

@@ -1,3 +1,6 @@
 {
-  "description": "Дайвинг блог"
+  "articlesTitle": "Последние статьи",
+  "articleButton": "Читать все статьи",
+  "fishTitle": "Новые рыбки",
+  "fishButton": "База данных рыб"
 }

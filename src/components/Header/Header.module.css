@@ -1,59 +1,74 @@
 header {
-    padding: 50px;
+    width: 100%;
+    padding: 50px 0;
+    justify-content: space-between;
     border-bottom: 1px solid var(--black);
     margin-bottom: 50px;
 }
 
-.logoWrapper h1 {
-    margin: 0 20px;
-    line-height: 1.2;
-}
-
-.logoWrapper:hover {
+header > a {
     text-decoration: none;
+    color: black;
 }
 
-.logo {
+header img {
     width: 100px;
     border-radius: 50%;
 }
 
-.navbar {
-    display: flex;
+.logo {
+    margin-left: 25px;
+    flex: 1;
 }
 
-.navbar a {
-    padding: 10px;
+.logo > h1 {
+    padding-left: 25px;
 }
 
-@media (max-width: 990px) {
-    header {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        padding: 0;
-        margin-top: 50px;
-    }
+header > nav {
+    justify-content: space-around;
+    margin-right: 25px;
+}
 
-    .logoWrapper {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-bottom: 20px;
-    }
+nav > a {
+    flex: 1 1 auto;
+    margin: 0 10px;
+    color: black;
+}
 
-    .logoWrapper h1 {
-        margin: 10px;
-        font-size: 20px;
-    }
-
+@media (max-width: 768px) {
     .logo {
-        flex: 0 1;
-        width: 100px;
+        margin: 0;
     }
 
-    .navbar {
-        font-size: 16px;
+    .logo > h1 {
+        padding-left: 0;
+    }
+
+    header, .logo {
+        flex-direction: column;
+    }
+
+    header {
+        padding: 25px 0;
+    }
+
+    header a h1 {
+        padding: 0;
+    }
+
+    header > nav {
+        margin-right: 0;
+    }
+
+    nav {
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    nav > a {
+        font-size: 18px;
     }
 }
+
+

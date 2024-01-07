@@ -58,14 +58,6 @@ BlogPost.propTypes = {
   children: PropTypes.object
 }
 
-export const Head = ({ data }) => {
-  const { title, description, previewLink } = data.mdx.frontmatter
-
-  return (
-    <SEO title={title}
-         description={description}
-         previewLink ={previewLink} />
-  )
-}
+export const Head = () => <title>dasd</title>
 
 export default BlogPost

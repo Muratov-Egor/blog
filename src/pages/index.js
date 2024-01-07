@@ -1,39 +1,36 @@
 import * as React from 'react'
-import { graphql, Link } from 'gatsby'
-import SEO from '../components/SEO'
 import '../styles/global.css'
+import { SEO } from '../components/SEO'
 import Header from '../components/Header/Header'
-import Preview from '../components/Preview/Preview'
-import CardList from '../components/CarList/CardList'
 import Footer from '../components/Footer/Footer'
-import FishList from '../components/FishList/FishList'
-
+import { graphql, Link } from 'gatsby'
+import Preview from '../components/Preview/Preview'
+import { useTranslation } from 'gatsby-plugin-react-i18next'
+import PostList from '../components/PostList/PostList'
 const IndexPage = () => {
+  const { t } = useTranslation('mainPage')
   return (
     <>
       <Header />
       <Preview />
       <main>
-        <div className={'flex-colum align-items-center justify-content-center mb-30 border-bottom'}>
-          <h2>Последние статьи</h2>
-          <CardList limit={3} />
-          <Link to={'/blog'} className={'button mt-30 mb-30'}>
-            Читать все статьи
-          </Link>
-        </div>
+        <h1>{t('articlesTitle')}</h1>
+        <PostList postCount={3} />
+        <Link to={'/blog'} className={'button'}>
+          {t('articleButton')}
+        </Link>
 
-        <div className={'flex-colum align-items-center justify-content-center'}>
-          <h2>Новые рыбки</h2>
-          <FishList limit={6} />
-          <Link to={'/fishbase'} className={'button mt-30'}>
-            База данных рыб
-          </Link>
-        </div>
+        <h1>{t('fishTitle')}</h1>
+        <Link to={'/fish'} className={'button'}>
+          {t('fishButton')}
+        </Link>
       </main>
-      <Footer />
+       <Footer />
     </>
   )
 }
+
+export default IndexPage
 
 export const query = graphql`
   query ($language: String!) {
@@ -49,12 +46,5 @@ export const query = graphql`
   }
 `
 
-export default IndexPage
-
-export const Head = () => {
-  return (
-    <SEO title={'Главная'}
-         description={'Блог о дайвинге и около того'}
-         previewLink ={'https://i.pinimg.com/originals/c0/22/fc/c022fc54ca44c613ee935d1206b11af5.jpg'} />
-  )
-}
+// todo разобраться как не хардкодить текст
+export const Head = () => <SEO title="Главная" description={'Блок о дайвинге'} />

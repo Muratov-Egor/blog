@@ -1,3 +1,6 @@
 {
-  "description": "Scuba diving blog"
+  "articlesTitle": "articlesTitle",
+  "articleButton": "articleButton",
+  "fishTitle": "fishTitle",
+  "fishButton": "fishButton"
 }
