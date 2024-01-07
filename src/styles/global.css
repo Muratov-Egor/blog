@@ -105,3 +105,13 @@ main {
     }
 }
 
+@media (max-width: 356px) {
+    body {
+        font-size: 14px;
+    }
+
+    main {
+        padding: 0;
+    }
+}
+
