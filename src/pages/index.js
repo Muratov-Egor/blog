@@ -23,7 +23,7 @@ const IndexPage = () => {
 
         <h1>{t('fishTitle')}</h1>
         <FishList limit={6} />
-        <Link to={'/fish'} className={'button'}>
+        <Link to={'/fishbase'} className={'button'}>
           {t('fishButton')}
         </Link>
       </main>
