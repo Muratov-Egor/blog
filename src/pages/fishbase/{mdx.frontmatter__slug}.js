@@ -60,11 +60,11 @@ FishPost.propTypes = {
 // eslint-disable-next-line react/prop-types
 export const Head = ({ data }) => {
   // eslint-disable-next-line react/prop-types
-  const { title, description, previewLink } = data.mdx.frontmatter
+  const { title, title_en, previewLink } = data.mdx.frontmatter
 
   return (
     <SEO title={title}
-         description={description}
+         description={title_en}
          image ={previewLink} />
   )
 }
