@@ -34,7 +34,7 @@ export const Head = () => {
   return (
 		<SEO title={'База данных рыб'}
 		     description={'Все рыбы, которых я встречал...'}
-		     previewLink ={'https://raw.githubusercontent.com/Muratov-Egor/blog/master/src/images/databasepreview.png'}
+		     image ={'https://raw.githubusercontent.com/Muratov-Egor/blog/master/src/images/databasepreview.png'}
 		/>
   )
 }

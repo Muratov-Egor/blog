@@ -65,7 +65,7 @@ export const Head = ({ data }) => {
   return (
     <SEO title={title}
          description={description}
-         previewLink ={previewLink} />
+         image ={previewLink} />
   )
 }
 
