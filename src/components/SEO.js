@@ -3,12 +3,12 @@ import { useSiteMetadata } from '../hooks/use-site-metadata'
 import PropTypes from 'prop-types'
 
 const SEO = ({ title, description, pathname, children }) => {
-  const { title: defaultTitle, description: defaultDescription, image, siteUrl } = useSiteMetadata()
+  const { title: defaultTitle, description: defaultDescription, image: defaultImage, siteUrl } = useSiteMetadata()
 
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
-    image: `${image}`,
+    image: image || defaultImage,
     url: `${siteUrl}${pathname || ''}`
   }
 
