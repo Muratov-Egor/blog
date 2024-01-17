@@ -5,7 +5,7 @@ import { PiInstagramLogoDuotone, PiTelegramLogoDuotone, PiYoutubeLogoDuotone } f
 const Footer = () => {
   return (
     <footer className={`${footerWrapper} flex align-items-center justify-content-space-between`}>
-      <div className={copyright}>Copyright © 2023 Egor Muratov</div>
+      <div className={copyright}>Copyright © 2023-2024 Egor Muratov</div>
       <div className={`${socialWrapper} flex justify-content-center`}>
         <a href="https://www.youtube.com/@diversnotes" target="_blank" aria-label="Youtube" className={socialLink} rel="noreferrer">
           <PiYoutubeLogoDuotone/>
