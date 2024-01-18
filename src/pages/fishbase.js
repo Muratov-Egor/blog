@@ -8,6 +8,7 @@ import Footer from '../components/Footer/Footer'
 const Fishbase = () => {
   return <>
 	  <Header />
+	  <h1 className={'text-align-center'}>Рыбы Андаманского море</h1>
 	  <FishList />
 	  <p className={'text-align-center'}>Список дополняется...</p>
 	  <Footer />
