@@ -4,13 +4,15 @@ import { graphql } from 'gatsby'
 import FishList from '../components/FishList/FishList'
 import Header from '../components/Header/Header'
 import Footer from '../components/Footer/Footer'
+import { useTranslation } from 'gatsby-plugin-react-i18next'
 
 const Fishbase = () => {
+  const { t } = useTranslation('fishBase')
   return <>
 	  <Header />
-	  <h1 className={'text-align-center'}>Рыбы Андаманского море</h1>
+	  <h1 className={'text-align-center'}>{t('title')}</h1>
 	  <FishList />
-	  <p className={'text-align-center'}>Список дополняется...</p>
+	  <p className={'text-align-center'}>{t('bottom')}</p>
 	  <Footer />
   </>
 }
