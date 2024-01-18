@@ -2,7 +2,7 @@ import React from 'react'
 import { useSiteMetadata } from '../hooks/use-site-metadata'
 import PropTypes from 'prop-types'
 
-const SEO = ({ title, description, pathname, children }) => {
+const SEO = ({ title, description, image, pathname, children }) => {
   const { title: defaultTitle, description: defaultDescription, image: defaultImage, siteUrl } = useSiteMetadata()
 
   const seo = {
@@ -44,6 +44,7 @@ const SEO = ({ title, description, pathname, children }) => {
 SEO.propTypes = {
   title: PropTypes.string,
   description: PropTypes.string,
+  image: PropTypes.string,
   pathname: PropTypes.string,
   children: PropTypes.any
 }
