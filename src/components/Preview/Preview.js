@@ -8,7 +8,7 @@ const Preview = () => {
 		<div className={`flex align-items-center ${wrapper}`}>
 			<div className={info}>
 				<h3>{t('hello')}</h3>
-				<p>{t('first_paragraph', { count: 178 })}</p>
+				<p>{t('first_paragraph', { count: 180 })}</p>
 				<p>{t('second_paragraph')}</p>
 			</div>
 			<img src={'https://i.pinimg.com/originals/86/41/c4/8641c4366d7212f113665886700af50a.jpg'} className={img} alt={'logo'}/>
