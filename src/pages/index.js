@@ -49,4 +49,4 @@ export const query = graphql`
 `
 
 // todo разобраться как не хардкодить текст
-export const Head = () => <SEO title="Главная" description={'Блок о дайвинге'} image={'https://i.pinimg.com/originals/f2/eb/22/f2eb2215e4d82727fb518e462393c1b0.png'}/>
+export const Head = () => <SEO title="Главная" description={'Персональный блог о дайвинге. Статьи о теории дайвинга местах погружений. А так же база подводных обитателей которых я встретил под водой.'} image={'https://i.pinimg.com/originals/f2/eb/22/f2eb2215e4d82727fb518e462393c1b0.png'}/>

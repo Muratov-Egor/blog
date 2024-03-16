@@ -36,7 +36,7 @@ export const query = graphql`
 export const Head = () => {
   return (
 		<SEO title={'База данных рыб'}
-		     description={'Все рыбы, которых я встречал...'}
+		     description={'База данных рыб которых я встретил за время погружения в Андаманском море.'}
 		     image ={'https://raw.githubusercontent.com/Muratov-Egor/blog/master/src/images/databasepreview.png'}
 		/>
   )

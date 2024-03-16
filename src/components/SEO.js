@@ -16,6 +16,7 @@ const SEO = ({ title, description, image, pathname, children }) => {
 		<>
 			<title>{`${seo.title} | ${defaultTitle}`}</title>
 			<meta charSet="utf-8"/>
+			<meta httpEquiv = "content-language" content = "en" />
 			<meta name="viewport" content="width=device-width,initial-scale=1"/>
 			<meta name="robots" content="index, follow"/>
 			<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
