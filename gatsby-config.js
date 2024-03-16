@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: 'Divers Notes',
+    title: 'Заметки дайвера',
     siteUrl: 'https://diversnotes.com/',
     description: 'Blog about scuba diving',
     image: '/logo.jpg'
