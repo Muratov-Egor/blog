@@ -23,6 +23,39 @@ module.exports = {
     'gatsby-plugin-mdx-source-name',
     'gatsby-plugin-mdx',
     {
+      resolve: 'gatsby-plugin-sitemap',
+      options: {
+        output: '/sitemap.xml', // обязательная опция, указывающая местоположение основного sitemap файла
+        exclude: ['/404', '/404.html'], // опционально, исключить страницы из sitemap
+        query: `
+          {
+            site {
+              siteMetadata {
+                siteUrl
+              }
+            }
+
+            allSitePage {
+              nodes {
+                path
+              }
+            }
+          }`,
+        resolveSiteUrl: ({ site, allSitePage }) => {
+          // Опционально, функция для динамической генерации siteUrl
+          return site.siteMetadata.siteUrl
+        }
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://diversnotes.com',
+        sitemap: 'https://diversnotes.com/sitemap/sitemap-index.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         // eslint-disable-next-line n/no-path-concat
