@@ -1,6 +1,7 @@
 import { Locale } from "@/i18n-config";
 import Link from 'next/link';
 import { getMarineLifeArticles } from '@/lib/marine-life';
+import Header from "@/app/components/Header";
 
 export default async function MarineLifePage({
   params,
@@ -12,6 +13,7 @@ export default async function MarineLifePage({
 
   return (
     <div>
+      <Header lang={lang} />
       <h1>Marine Life</h1>
       <ul>
         {articles.map(article => (

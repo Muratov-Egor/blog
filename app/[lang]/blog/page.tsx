@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Locale } from "@/i18n-config";
 import { getBlogArticles } from "@/lib/blog";
-
+import Header from "@/app/components/Header";
 export default async function IndexPage({
   params,
 }: {
@@ -12,6 +12,7 @@ export default async function IndexPage({
 
   return (
     <div>
+      <Header lang={lang} />
       <h1>Blog</h1>
       <ul>
         {articles.map(article => (

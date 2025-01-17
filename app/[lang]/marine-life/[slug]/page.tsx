@@ -2,7 +2,7 @@ import { Locale } from "@/i18n-config";
 import { getMarineLifeArticle } from "@/lib/marine-life";
 import { notFound } from "next/navigation";
 import Markdown from 'markdown-to-jsx';
-
+import Header from "@/app/components/Header";
 export default async function MarineLifePage({
   params,
 }: {
@@ -16,26 +16,29 @@ export default async function MarineLifePage({
   }
 
   return (
-    <article className="marine-life-article">
-      <header>
-        <h1>{article.title}</h1>
-        {article.image && (
-          <img src={article.image} alt={article.title} />
+    <>
+      <Header lang={lang} />
+      <article className="marine-life-article">
+        <div>
+          <h1>{article.title}</h1>
+          {article.image && (
+            <img src={article.image} alt={article.title} />
+          )}
+        </div>
+        <div className="markdown-content">
+          <Markdown>{article.content}</Markdown>
+        </div>
+        {article.tags && (
+          <footer>
+            <div className="tags">
+              {article.tags.map(tag => (
+                <span key={tag} className="tag">{tag}</span>
+              ))}
+            </div>
+          </footer>
         )}
-      </header>
-      <div className="markdown-content">
-        <Markdown>{article.content}</Markdown>
-      </div>
-      {article.tags && (
-        <footer>
-          <div className="tags">
-            {article.tags.map(tag => (
-              <span key={tag} className="tag">{tag}</span>
-            ))}
-          </div>
-        </footer>
-      )}
-    </article>
+      </article>
+    </>
   );
 }
   
