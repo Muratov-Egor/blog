@@ -10,7 +10,7 @@ export default async function IndexPage(props: {
 
   return (
     <div>
-      <h1>{t.hero.title}</h1>
+      <h1>{t.home.hero.title}</h1>
     </div>
   );
 }
