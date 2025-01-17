@@ -1,0 +1,23 @@
+{
+  "home": {
+    "title": "Diver's Notes - A Blog About Scuba Diving, Underwater Adventures and Marine Life",
+    "description": "Personal diving blog and resource for scuba enthusiasts. Explore dive logs, diving theory, dive site reviews, and discover fascinating marine creatures."
+  },
+  "blog": {
+    "title": "Blog - Diver's Notes",
+    "description": "Read articles about scuba diving theory, tips, and detailed dive site reviews."
+    
+  },
+  "marine-life": {
+    "title": "Marine Life Database - Diver's Notes",
+    "description": "Explore underwater creatures I've encountered during my diving adventures."
+  },
+  "about": {
+    "title": "About - Diver's Notes",
+    "description": "Learn more about me and my diving journey."
+  },
+  "map": {
+    "title": "Dive sites I've visited",
+    "description": "List of all diving locations I've visited"
+  }
+}

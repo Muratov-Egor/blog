@@ -1,0 +1,15 @@
+{
+    "title": "Dive sites I've visited",
+    "description": "List of all diving locations I've visited",
+    "legend": {
+      "title": "Legend:",
+      "🪸": "Reef",
+      "🪨": "Wall",
+      "🏝️": "Bay",
+      "⚓️": "Wreck",
+      "🗻": "Pinnacle",
+      "🌿": "Garden",
+      "🏞️": "Lake",
+      "🤿": "Base"
+    }
+  }

@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Hi! 👋",
+    "subtitle": "I'm Egor — a certified PADI instructor and underwater photographer with {{dives}} open water dives. On my website, you'll find diving notes, detailed reviews of dive sites I've visited, and practical tips for divers of all levels. The unique database contains original photos and descriptions of marine creatures encountered during my dives."
+  },
+  "sections": {
+    "blog": {
+      "title": "Blog",
+      "description": "I share my personal diving experiences and reviews of dive sites I've visited. I break down diving theory in simple terms and share my underwater adventures.",
+      "button": "Read"
+    },
+    "database": {
+      "title": "Underwater World",
+      "description": "A collection of marine creatures I've encountered and photographed during my dives. Learn more about the amazing inhabitants of the underwater world!",
+      "button": "Explore"
+    }
+  }
+}

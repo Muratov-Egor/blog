@@ -1,0 +1,10 @@
+{
+    "siteName": "Diver's Notes",
+    "nav": {
+      "home": "Home",
+      "blog": "Blog",
+      "marineLife": "Marine Life"
+    },
+    "searchPlaceholder": "Search..."
+  }
+  

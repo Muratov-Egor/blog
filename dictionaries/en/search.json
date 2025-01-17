@@ -1,0 +1,9 @@
+{
+  "title": "Search results",
+  "noResults": "Nothing found",
+  "foundResults": "Found results: {count}",
+  "categories": {
+    "blog": "Blog",
+    "marine-life": "Marine life"
+  }
+}

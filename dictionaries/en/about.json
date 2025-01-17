@@ -1,0 +1,19 @@
+{
+  "title": "Hello! 👋🏼",
+  "intro": {
+    "name": "I'm Egor, a certified",
+    "certification": "PADI Assistant Instructor",
+    "dives": "with {{dives}} open water dives 🤿"
+  },
+  "description": {
+    "main": "This is my blog about the world of diving and everything related to it. Here you'll find articles about diving theory, descriptions of dive sites I've visited, and a database of underwater creatures I've encountered during my dives.",
+    "firstPost": "In my very first post on this site, I shared how I was first introduced to diving.",
+    "passion": "Diving has captivated me so much that I dedicate most of my time to it. When I'm not diving, I read books and articles on the subject, process videos and photos from dives, write notes about my adventures, or at least try to do so 😀."
+  },
+  "social": {
+    "title": "Follow me on social media:",
+    "youtube": "YouTube - 4K Videos from my dives.",
+    "instagram": "Instagram - Short Reels from my dives.",
+    "telegram": "Telegram - Short notes and thoughts about diving."
+  }
+} 

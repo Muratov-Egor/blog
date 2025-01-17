@@ -1,0 +1,9 @@
+{
+  "title": "Результаты поиска",
+  "noResults": "Ничего не найдено",
+  "foundResults": "Найдено результатов: {count}",
+  "categories": {
+    "blog": "Блог",
+    "marine-life": "Подводный мир"
+  }
+}
