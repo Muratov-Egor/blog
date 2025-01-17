@@ -1,7 +1,7 @@
 ---
 title: "Cинепятнистая флейта"
-meta_title: "Cинепятнистая флейта. Bluespotted сornetfish"
 title_en: "Bluespotted сornetfish"
+meta_title: "Cинепятнистая флейта. Bluespotted сornetfish"
 image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355219/bluespotted-%D1%81ornetfish_qqjfle.png"
 date: 2024-05-27
 tags: ["Рача Яй", "Ко Бида Нок", "Шарк Поинт"]
