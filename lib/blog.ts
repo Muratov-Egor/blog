@@ -3,17 +3,19 @@ import path from 'path';
 import matter from 'gray-matter';
 import { Locale } from '../i18n-config';
 
-interface MarineLifeArticle {
+interface BlogArticle {
   slug: string;
   title: string;
+  title_en?: string;
+  description: string;
   content: string;
   meta_title: string;
   image?: string;
-  tags?: string[];
+  date: string;
 }
 
-export async function getMarineLifeArticles(locale: Locale): Promise<MarineLifeArticle[]> {
-  const folder = path.join(process.cwd(), 'content/marine-life', locale);
+export async function getBlogArticles(locale: Locale): Promise<BlogArticle[]> {
+  const folder = path.join(process.cwd(), 'content/blog', locale);
   const files = fs.readdirSync(folder);
   
   const articles = files.map(filename => {
@@ -29,11 +31,11 @@ export async function getMarineLifeArticles(locale: Locale): Promise<MarineLifeA
     };
   });
 
-  return articles as MarineLifeArticle[];
+  return articles as BlogArticle[];
 }
 
-export async function getMarineLifeArticle(locale: Locale, slug: string): Promise<MarineLifeArticle | null> {
-  const folder = path.join(process.cwd(), 'content/marine-life', locale);
+export async function getBlogArticle(locale: Locale, slug: string): Promise<BlogArticle | null> {
+  const folder = path.join(process.cwd(), 'content/blog', locale);
   const filePath = path.join(folder, `${slug}.md`);
   
   try {
@@ -43,10 +45,11 @@ export async function getMarineLifeArticle(locale: Locale, slug: string): Promis
     return {
       slug,
       title: data.title,
+      description: data.description,
       content,
       meta_title: data.meta_title,
       image: data.image,
-      tags: data.tags,
+      date: data.date,
     };
   } catch (error) {
     return null;

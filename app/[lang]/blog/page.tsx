@@ -1,5 +1,7 @@
+import Link from "next/link";
 import { getDictionary } from "../../../get-dictionary";
 import { Locale } from "../../../i18n-config";
+import { getBlogArticles } from "../../../lib/blog";
 
 export default async function IndexPage({
   params,
@@ -8,10 +10,20 @@ export default async function IndexPage({
 }) {
   const { lang } = await params;
   const t = await getDictionary(lang);
+  const articles = await getBlogArticles(lang);
 
   return (
     <div>
       <h1>Blog</h1>
+      <ul>
+        {articles.map(article => (
+          <li key={article.slug}>
+            <Link href={`/${lang}/blog/${article.slug}`}>
+              {article.title}
+            </Link>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
