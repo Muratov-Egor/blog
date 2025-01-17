@@ -10,6 +10,7 @@ interface MarineLifeArticle {
   meta_title: string;
   image?: string;
   tags?: string[];
+  date: string;
 }
 
 export async function getMarineLifeArticles(locale: Locale): Promise<MarineLifeArticle[]> {
@@ -25,11 +26,14 @@ export async function getMarineLifeArticles(locale: Locale): Promise<MarineLifeA
     
     return {
       slug: filename.replace('.md', ''),
-      title: data.title
+      title: data.title,
+      date: data.date
     };
   });
 
-  return articles as MarineLifeArticle[];
+  return articles.sort((a, b) => 
+    new Date(b.date).getTime() - new Date(a.date).getTime()
+  ) as MarineLifeArticle[];
 }
 
 export async function getMarineLifeArticle(locale: Locale, slug: string): Promise<MarineLifeArticle | null> {
@@ -43,6 +47,7 @@ export async function getMarineLifeArticle(locale: Locale, slug: string): Promis
     return {
       slug,
       title: data.title,
+      date: data.date,
       content,
       meta_title: data.meta_title,
       image: data.image,

@@ -27,11 +27,15 @@ export async function getBlogArticles(locale: Locale): Promise<BlogArticle[]> {
     
     return {
       slug: filename.replace('.md', ''),
-      title: data.title
+      title: data.title,
+      date: data.date
     };
   });
 
-  return articles as BlogArticle[];
+  // Сортируем статьи по дате (от новых к старым)
+  return articles.sort((a, b) => 
+    new Date(b.date).getTime() - new Date(a.date).getTime()
+  ) as BlogArticle[];
 }
 
 export async function getBlogArticle(locale: Locale, slug: string): Promise<BlogArticle | null> {
