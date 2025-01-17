@@ -1,4 +1,5 @@
 import { i18n, type Locale } from "@/i18n-config";
+import '@/app/globals.css';
 
 export const metadata = {
   title: "i18n within app router - Vercel Examples",
@@ -25,7 +26,9 @@ export default async function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </head>
       <body suppressHydrationWarning={true}>
-        {children}
+        <main>
+          {children}
+        </main>
       </body>
     </html>
   );
