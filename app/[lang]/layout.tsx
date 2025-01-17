@@ -9,17 +9,24 @@ export async function generateStaticParams() {
   return i18n.locales.map((locale) => ({ lang: locale }));
 }
 
-export default async function Root(props: {
+export default async function RootLayout({
+  children,
+  params,
+}: {
   children: React.ReactNode;
   params: Promise<{ lang: Locale }>;
 }) {
-  const params = await props.params;
-
-  const { children } = props;
+  const { lang } = await params;
 
   return (
-    <html lang={params.lang}>
-      <body>{children}</body>
+    <html lang={lang}>
+      <head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </head>
+      <body suppressHydrationWarning={true}>
+        {children}
+      </body>
     </html>
   );
 }
