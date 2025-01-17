@@ -1,7 +1,6 @@
 import Link from "next/link";
-import { getDictionary } from "../../../get-dictionary";
-import { Locale } from "../../../i18n-config";
-import { getBlogArticles } from "../../../lib/blog";
+import { Locale } from "@/i18n-config";
+import { getBlogArticles } from "@/lib/blog";
 
 export default async function IndexPage({
   params,
@@ -9,7 +8,6 @@ export default async function IndexPage({
   params: Promise<{ lang: Locale }>;
 }) {
   const { lang } = await params;
-  const t = await getDictionary(lang);
   const articles = await getBlogArticles(lang);
 
   return (

@@ -1,5 +1,5 @@
-import { Locale } from "../../../../i18n-config";
-import { getMarineLifeArticle } from "../../../../lib/marine-life";
+import { Locale } from "@/i18n-config";
+import { getMarineLifeArticle } from "@/lib/marine-life";
 import { notFound } from "next/navigation";
 import Markdown from 'markdown-to-jsx';
 

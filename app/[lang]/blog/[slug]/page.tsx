@@ -1,5 +1,5 @@
-import { Locale } from "../../../../i18n-config";
-import { getBlogArticle } from "../../../../lib/blog";
+import { Locale } from "@/i18n-config";
+import { getBlogArticle } from "@/lib/blog";
 import { notFound } from "next/navigation";
 import Markdown from 'markdown-to-jsx';
 

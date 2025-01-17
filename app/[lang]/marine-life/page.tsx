@@ -1,7 +1,6 @@
-import { getDictionary } from "../../../get-dictionary";
-import { Locale } from "../../../i18n-config";
+import { Locale } from "@/i18n-config";
 import Link from 'next/link';
-import { getMarineLifeArticles } from '../../../lib/marine-life';
+import { getMarineLifeArticles } from '@/lib/marine-life';
 
 export default async function MarineLifePage({
   params,
