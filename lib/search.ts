@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { Locale } from '../i18n-config';
+import { cleanText } from '@/utils/textUtils';
 
 interface SearchResult {
   title: string;
@@ -14,8 +15,8 @@ export function searchContent(query: string, locale: Locale): SearchResult[] {
   if (!query) return [];
 
   const results: SearchResult[] = [];
+  const cleanedQuery = cleanText(query);
   
-  // Определяем категории для поиска
   const categories = ['blog', 'marine-life'] as const;
 
   categories.forEach(category => {
@@ -32,9 +33,12 @@ export function searchContent(query: string, locale: Locale): SearchResult[] {
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const { data, content } = matter(fileContents);
 
-      const searchableContent = `${data.title} ${content}`.toLowerCase();
+      const cleanedContent = cleanText(content);
+      const cleanedTitle = cleanText(data.title);
       
-      if (searchableContent.includes(query.toLowerCase())) {
+      const searchableContent = `${cleanedTitle} ${cleanedContent}`;
+      
+      if (searchableContent.includes(cleanedQuery)) {
         results.push({
           title: data.title,
           path: file.replace('.md', ''),
