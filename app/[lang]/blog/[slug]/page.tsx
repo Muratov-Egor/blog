@@ -2,7 +2,7 @@ import { Locale } from "@/i18n-config";
 import { getBlogArticle } from "@/lib/blog";
 import { notFound } from "next/navigation";
 import Markdown from 'markdown-to-jsx';
-import Header from "@/app/components/Header/Header";
+
 export default async function BlogPage({
   params,
 }: {
@@ -17,7 +17,6 @@ export default async function BlogPage({
 
   return (
     <>
-      <Header lang={lang} />
       <article className="blog-article">
         <div>
           <h1>{article.title}</h1>

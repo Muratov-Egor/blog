@@ -1,6 +1,8 @@
 import { i18n, type Locale } from "@/i18n-config";
 import { ThemeProvider } from 'next-themes';
 import '@/app/globals.css';
+import Footer from "../components/Footer/Footer";
+import Header from "../components/Header/Header";
 
 export const metadata = {
   title: "i18n within app router - Vercel Examples",
@@ -32,7 +34,9 @@ export default async function RootLayout({
       </head>
       <body className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-200">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+          <Header lang={lang} />
           {children}
+          <Footer lang={lang} />
         </ThemeProvider>
       </body>
     </html>
