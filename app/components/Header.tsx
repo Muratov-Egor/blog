@@ -11,7 +11,7 @@ export default async function Header({ lang }: { lang: Locale }) {
   const t = await getDictionary(lang);
 
   return (
-    <header className="flex flex-col lg:flex-row justify-between items-center gap-4 p-4">
+    <header className="flex flex-col lg:flex-row justify-between items-center gap-4 p-4 bg-white dark:bg-gray-900 transition-colors duration-200">
       <Logo siteName={t.header.siteName} lang={lang} />
       <NavBar nav={t.header.nav} lang={lang} />
       <SearchBar placeholder={t.header.searchPlaceholder} />
@@ -20,5 +20,5 @@ export default async function Header({ lang }: { lang: Locale }) {
         <ThemeSwitcher />
       </div>
     </header>
-  )
+  );
 }

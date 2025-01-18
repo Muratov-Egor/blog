@@ -12,7 +12,14 @@ const ThemeSwitcher = () => {
   }, []);
 
   if (!mounted) {
-    return null;
+    return (
+      <button
+        className="px-3 py-1 rounded-full bg-gray-200 dark:bg-gray-700 
+                  text-gray-700 dark:text-gray-200 transition-colors duration-200"
+      >
+        <span className="opacity-0">🌙</span>
+      </button>
+    );
   }
 
   return (
