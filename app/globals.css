@@ -48,7 +48,7 @@
 
   /* Ссылки */
   a {
-    @apply text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 
+    @apply text-gray-700 dark:text-gray-300 hover:text-gray-600 dark:hover:text-gray-400 
            transition-colors duration-200;
   }
 }
