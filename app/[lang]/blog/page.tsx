@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Locale } from "@/i18n-config";
 import { getBlogArticles } from "@/lib/blog";
-import Header from "@/app/components/Header";
+import Header from "@/app/components/Header/Header";
 export default async function IndexPage({
   params,
 }: {

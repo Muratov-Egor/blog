@@ -2,7 +2,7 @@ import { Locale } from "@/i18n-config";
 import { getMarineLifeArticle } from "@/lib/marine-life";
 import { notFound } from "next/navigation";
 import Markdown from 'markdown-to-jsx';
-import Header from "@/app/components/Header";
+import Header from "@/app/components/Header/Header";
 export default async function MarineLifePage({
   params,
 }: {

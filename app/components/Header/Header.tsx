@@ -1,9 +1,9 @@
 import React from 'react';
+import { getDictionary } from "@/get-dictionary";
+import { Locale } from "@/i18n-config";
 import Logo from './Logo';
 import NavBar from './NavBar';
 import SearchBar from './SearchBar';
-import { getDictionary } from "@/get-dictionary";
-import { Locale } from "@/i18n-config";
 import LanguageSwitcher from './LanguageSwitcher';
 import ThemeSwitcher from './ThemeSwitcher';
 

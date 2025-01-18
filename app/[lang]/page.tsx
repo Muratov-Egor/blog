@@ -1,6 +1,6 @@
 import { getDictionary } from "@/get-dictionary";
 import { Locale } from "@/i18n-config";
-import Header from "@/app/components/Header";
+import Header from "@/app/components/Header/Header";
 
 export default async function IndexPage(props: {
   params: Promise<{ lang: Locale }>;

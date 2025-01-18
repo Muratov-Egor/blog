@@ -1,7 +1,7 @@
 import { Locale } from "@/i18n-config";
 import Link from 'next/link';
 import { getMarineLifeArticles } from '@/lib/marine-life';
-import Header from "@/app/components/Header";
+import Header from "@/app/components/Header/Header";
 
 export default async function MarineLifePage({
   params,
