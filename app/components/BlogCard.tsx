@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Locale } from "@/i18n-config";
 
-interface ArticleCardProps {
+interface BlogCardProps {
   article: {
     slug: string;
     title: string;
@@ -13,7 +13,7 @@ interface ArticleCardProps {
   lang: Locale;
 }
 
-export function ArticleCard({ article, isFeature = false, lang }: ArticleCardProps) {
+export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
   return (
     <Link 
       href={`/${lang}/blog/${article.slug}`}

@@ -2,7 +2,7 @@ import { Locale } from "@/i18n-config";
 import { getBlogArticles } from "@/lib/blog";
 import { getDictionary } from "@/get-dictionary";
 import { calculatePagination } from "@/app/utils/pagination";
-import { ArticleCard } from "@/app/components/blog/ArticleCard";
+import { BlogCard } from "@/app/components/BlogCard";
 import { Pagination } from "@/app/components/Pagination";
 
 export default async function IndexPage({
@@ -34,7 +34,7 @@ export default async function IndexPage({
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {articles.map((article, index) => (
-          <ArticleCard
+          <BlogCard
             key={article.slug}
             article={article}
             isFeature={currentPage === 1 && index === 0}
