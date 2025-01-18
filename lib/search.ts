@@ -17,10 +17,23 @@ export interface SearchResult {
   };
 }
 
-function findSearchSnippet(text: string, query: string): { before: string; match: string; after: string } {
+function findSearchSnippet(
+  text: string,
+  query: string,
+  title: string,
+  titleEn: string
+): { before: string; match: string; after: string } {
   const words = text.split(' ');
   const queryWords = query.split(' ');
-  
+
+  if (title.includes(query) || titleEn.includes(query)) {
+    return {
+      before: '',
+      match: title.includes(query) ? title : titleEn,
+      after: ''
+    };
+  }
+
   for (let i = 0; i < words.length; i++) {
     const slice = words.slice(i, i + queryWords.length).join(' ');
     if (slice.includes(query)) {
@@ -31,7 +44,7 @@ function findSearchSnippet(text: string, query: string): { before: string; match
       };
     }
   }
-  
+
   return {
     before: '',
     match: query,
@@ -63,11 +76,12 @@ export function searchContent(query: string, locale: Locale): SearchResult[] {
 
       const cleanedContent = cleanText(content);
       const cleanedTitle = cleanText(data.title);
-      
-      const searchableContent = `${cleanedTitle} ${cleanedContent}`;
+      const cleanedTitleEn = cleanText(data.title_en || '');
+
+      const searchableContent = `${cleanedTitle} ${cleanedTitleEn} ${cleanedContent}`;
       
       if (searchableContent.includes(cleanedQuery)) {
-        const snippet = findSearchSnippet(cleanedContent, cleanedQuery);
+        const snippet = findSearchSnippet(cleanedContent, cleanedQuery, data.title, data.title_en || '');
         
         results.push({
           title: data.title,
