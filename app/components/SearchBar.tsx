@@ -1,65 +1,27 @@
 'use client';
 
-import { useState, useEffect, useRef } from 'react';
+import { useState, useRef } from 'react';
 import { FiSearch } from 'react-icons/fi';
 import { usePathname } from 'next/navigation';
-import Link from 'next/link';
-
-interface SearchBarProps {
-  placeholder: string;
-}
-
-interface SearchResult {
-  title: string;
-  path: string;
-  category: 'blog' | 'marine-life';
-}
+import { SearchBarProps } from '@/types/search';
+import { useSearch } from '@/hooks/useSearch';
+import { SearchResults } from './SearchResults';
+import { useClickOutside } from '@/hooks/useClickOutside';
 
 export default function SearchBar({ placeholder }: SearchBarProps) {
   const [query, setQuery] = useState('');
-  const [results, setResults] = useState<SearchResult[]>([]);
-  const [isOpen, setIsOpen] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
   const searchRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
-  
   const lang = pathname.split('/')[1] as 'ru' | 'en';
+  
+  const { results, isLoading, isOpen, setIsOpen } = useSearch(query, lang);
+  
+  useClickOutside(searchRef, () => setIsOpen(false));
 
-  useEffect(() => {
-    const handleClickOutside = (event: MouseEvent) => {
-      if (searchRef.current && !searchRef.current.contains(event.target as Node)) {
-        setIsOpen(false);
-      }
-    };
-
-    document.addEventListener('mousedown', handleClickOutside);
-    return () => document.removeEventListener('mousedown', handleClickOutside);
-  }, []);
-
-  // Добавляем debounce для поисковых запросов
-  useEffect(() => {
-    const timer = setTimeout(async () => {
-      if (query.length >= 2) {
-        setIsLoading(true);
-        try {
-          const response = await fetch(`/api/search?q=${encodeURIComponent(query)}&lang=${lang}`);
-          const data = await response.json();
-          setResults(data.results);
-          setIsOpen(true);
-        } catch (error) {
-          console.error('Search error:', error);
-          setResults([]);
-        } finally {
-          setIsLoading(false);
-        }
-      } else {
-        setResults([]);
-        setIsOpen(false);
-      }
-    }, 300); // Задержка в 300мс
-
-    return () => clearTimeout(timer);
-  }, [query, lang]);
+  const handleResultClick = () => {
+    setIsOpen(false);
+    setQuery('');
+  };
 
   return (
     <div className="relative" ref={searchRef}>
@@ -77,28 +39,12 @@ export default function SearchBar({ placeholder }: SearchBarProps) {
       <FiSearch className={`absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5
                           ${isLoading ? 'text-blue-500 animate-spin' : 'text-gray-400'}`} />
 
-      {isOpen && results.length > 0 && (
-        <div className="absolute z-50 w-full mt-2 bg-white dark:bg-gray-800 rounded-lg shadow-lg 
-                      border border-gray-200 dark:border-gray-700 max-h-60 overflow-y-auto">
-          <ul className="py-1">
-            {results.map((result, index) => (
-              <li key={index}>
-                <Link 
-                  href={`/${lang}/${result.category}/${result.path}`}
-                  className="block px-4 py-2 text-sm text-gray-700 dark:text-gray-200 
-                           hover:bg-gray-100 dark:hover:bg-gray-700"
-                  onClick={() => {
-                    setIsOpen(false);
-                    setQuery('');
-                  }}
-                >
-                  {result.title}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-      )}
+      <SearchResults 
+        results={results}
+        lang={lang}
+        onResultClick={handleResultClick}
+        isOpen={isOpen}
+      />
     </div>
   );
 } 
