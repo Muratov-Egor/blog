@@ -42,7 +42,7 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
             onLoadingComplete={() => setIsLoading(false)}
           />
         </div>
-        <div className="p-6 h-[200px] flex flex-col">
+        <div className="p-6 h-[200px] flex flex-col text-center">
           <h2 className={`font-semibold mb-3 group-hover:text-gray-600 dark:group-hover:text-gray-400 transition-colors duration-200 line-clamp-2 ${
             isFeature ? 'text-2xl' : 'text-xl'
           }`}>
