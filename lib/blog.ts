@@ -28,7 +28,9 @@ export async function getBlogArticles(locale: Locale): Promise<BlogArticle[]> {
     return {
       slug: filename.replace('.md', ''),
       title: data.title,
-      date: data.date
+      date: data.date,
+      image: data.image,
+      description: data.description
     };
   });
 
