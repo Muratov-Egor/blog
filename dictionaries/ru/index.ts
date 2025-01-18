@@ -7,7 +7,7 @@ import map from './map.json';
 import marineLife from './marine-life-page.json';
 import metadata from './metadata.json';
 import search from './search.json';
-import notFound from './404.json';
+import articleNotFound from './articleNotFound.json';
 
 const ru = {
   about,
@@ -19,7 +19,7 @@ const ru = {
   marineLife,
   metadata,
   search,
-  notFound,
+  articleNotFound,
 } as const;
 
 export default ru; 

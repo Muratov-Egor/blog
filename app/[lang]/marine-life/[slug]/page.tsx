@@ -1,7 +1,7 @@
 import { Locale } from "@/i18n-config";
 import { getMarineLifeArticle } from "@/lib/marine-life";
-import { notFound } from "next/navigation";
 import ArticleContent from "@/app/components/ArticleContent";
+import ArticleNotFound from "@/app/components/ArticleNotFound";
 
 export default async function MarineLifePage({
     params,
@@ -13,7 +13,7 @@ export default async function MarineLifePage({
   
 
   if (!article) {
-    return <div className="container mx-auto px-4 py-8">Article not found</div>;
+    return <ArticleNotFound lang={lang} />;
   }
 
   return (

@@ -1,6 +1,7 @@
 import { Locale } from "@/i18n-config";
 import { getBlogArticle } from "@/lib/blog";
 import ArticleContent from "@/app/components/ArticleContent";
+import ArticleNotFound from "@/app/components/ArticleNotFound";
 
 export default async function BlogArticlePage({
   params,
@@ -11,7 +12,7 @@ export default async function BlogArticlePage({
   const article = await getBlogArticle(lang, slug);
 
   if (!article) {
-    return <div className="container mx-auto px-4 py-8">Article not found</div>;
+    return <ArticleNotFound lang={lang} />;
   }
 
   return (
