@@ -14,13 +14,13 @@ export default function NavBar({ nav, lang }: NavBarProps) {
     <nav className="flex items-center">
       <ul className="flex flex-col sm:flex-row items-center gap-4 text-center">
         <li>
-          <a href={`/${lang}`} className="hover:text-blue-200">{nav.home}</a>
+          <a href={`/${lang}`} className="hover:underline">{nav.home}</a>
         </li>
         <li>
-          <a href={`/${lang}/blog`} className="hover:text-blue-200">{nav.blog}</a>  
+          <a href={`/${lang}/blog`} className="hover:underline">{nav.blog}</a>  
         </li>
         <li>
-          <a href={`/${lang}/marine-life`} className="hover:text-blue-200">{nav.marineLife}</a>
+          <a href={`/${lang}/marine-life`} className="hover:underline">{nav.marineLife}</a>
         </li>
       </ul>
     </nav>

@@ -11,9 +11,9 @@ export default async function Footer({ lang }: { lang: Locale }) {
         <footer className="flex flex-col text-center gap-6 p-4 bg-white dark:bg-gray-900 transition-colors duration-200 text-sm lg:flex-row lg:justify-around border-t border-gray-200 dark:border-gray-800 mt-auto">
             <p>{t.footer.copyright}</p>
             <div className="flex flex-raw gap-4 justify-center whitespace-nowrap">
-                <Link href={`/${lang}/blog`}>{t.footer.links.blog}</Link>
-                <Link href={`/${lang}/marine-life`}>{t.footer.links.marineLife}</Link>
-                <Link href={`/${lang}/map`}>{t.footer.links.map}</Link>
+                <Link href={`/${lang}/blog`} className="hover:underline">{t.footer.links.blog}</Link>
+                <Link href={`/${lang}/marine-life`} className="hover:underline">{t.footer.links.marineLife}</Link>
+                <Link href={`/${lang}/map`} className="hover:underline">{t.footer.links.map}</Link>
             </div>
             <div className="flex flex-raw gap-4 justify-center">
                 <a href="https://instagram.com/diver_egor" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
