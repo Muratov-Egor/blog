@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import Markdown from 'markdown-to-jsx';
 import ImageModal from './ImageModal';
+import ArticleImage from './ArticleImage';
 import { Locale } from '@/i18n-config';
 
 interface ArticleContentProps {
@@ -32,7 +33,7 @@ export default function ArticleContent({ title, date, content, image, lang }: Ar
           </div>
           {image && (
             <div className="relative aspect-[16/9] mb-8">
-              <img
+              <ArticleImage
                 src={image}
                 alt={title}
                 className="rounded-lg shadow-lg object-cover w-full"
@@ -47,19 +48,13 @@ export default function ArticleContent({ title, date, content, image, lang }: Ar
               overrides: {
                 img: {
                   component: ({ alt, src, title }) => (
-                    <figure className="my-8">
-                      <img
-                        src={src}
-                        alt={alt}
-                        className="rounded-lg shadow-lg w-full cursor-pointer hover:opacity-90 transition-opacity"
-                        onClick={() => setSelectedImage({ src, alt })}
-                      />
-                      {title && (
-                        <figcaption className="text-center text-gray-600 mt-2">
-                          {title}
-                        </figcaption>
-                      )}
-                    </figure>
+                    <ArticleImage
+                      src={src}
+                      alt={alt}
+                      title={title}
+                      className="rounded-lg shadow-lg w-full cursor-pointer hover:opacity-90 transition-opacity"
+                      onClick={() => setSelectedImage({ src, alt })}
+                    />
                   )
                 },
                 blockquote: {
