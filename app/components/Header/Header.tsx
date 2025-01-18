@@ -11,7 +11,7 @@ export default async function Header({ lang }: { lang: Locale }) {
   const t = await getDictionary(lang);
 
   return (
-    <header className="flex flex-col gap-4 p-4 bg-white dark:bg-gray-900 transition-colors duration-200">
+    <header className="flex flex-col gap-4 p-4 bg-white dark:bg-gray-900 transition-colors duration-200 mx-auto">
       {/* Контейнер для всего содержимого */}
       <div className="flex flex-col items-center gap-6 lg:flex-row lg:items-center lg:justify-between lg:gap-8">
         {/* Logo */}
@@ -25,14 +25,14 @@ export default async function Header({ lang }: { lang: Locale }) {
         </div>
 
         {/* Контейнер для SearchBar и переключателей */}
-        <div className="flex flex-col gap-4 md:flex-row md:justify-end lg:flex-row lg:items-center lg:gap-8">
+        <div className="flex flex-col gap-4 md:flex-row md:justify-end lg:flex-row lg:items-center lg:gap-6">
           {/* SearchBar */}
           <div className="w-full order-2 sm:order-2 md:order-1 md:w-auto">
             <SearchBar placeholder={t.header.searchPlaceholder} />
           </div>
 
           {/* Переключатели */}
-          <div className="flex justify-center gap-4 order-1 sm:order-1 md:order-2">
+          <div className="flex justify-center gap-2 order-1 sm:order-1 md:order-2">
             <LanguageSwitcher initialLang={lang} />
             <ThemeSwitcher />
           </div>

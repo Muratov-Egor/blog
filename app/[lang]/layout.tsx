@@ -34,9 +34,13 @@ export default async function RootLayout({
       </head>
       <body className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-200">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          <Header lang={lang} />
-          {children}
-          <Footer lang={lang} />
+          <div className="flex flex-col min-h-screen">
+            <Header lang={lang} />
+            <main className="flex-1">
+              {children}
+            </main>
+            <Footer lang={lang} />
+          </div>
         </ThemeProvider>
       </body>
     </html>
