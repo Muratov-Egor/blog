@@ -20,7 +20,7 @@ export function ArticleCard({ article, isFeature = false, lang }: ArticleCardPro
       className={`group block ${isFeature ? 'md:col-span-2' : ''}`}
     >
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-transform duration-200 hover:translate-y-[-4px]">
-        <div className={`relative ${isFeature ? 'h-72' : 'h-48'} w-full`}>
+        <div className={`relative ${isFeature ? 'h-96' : 'h-64'} w-full`}>
           <Image
             src={article.image || '/images/default-image.jpg'}
             alt={article.title}
