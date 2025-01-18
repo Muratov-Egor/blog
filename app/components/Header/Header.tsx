@@ -11,7 +11,7 @@ export default async function Header({ lang }: { lang: Locale }) {
   const t = await getDictionary(lang);
 
   return (
-    <header className="flex flex-col gap-4 p-4 bg-white dark:bg-gray-900 transition-colors duration-200 mx-auto">
+    <header className="flex flex-col gap-4 p-4 m-4 bg-white dark:bg-gray-900 transition-colors duration-200 mx-auto">
       {/* Контейнер для всего содержимого */}
       <div className="flex flex-col items-center gap-6 lg:flex-row lg:items-center lg:justify-between lg:gap-8">
         {/* Logo */}
