@@ -5,6 +5,7 @@ import SearchBar from './SearchBar';
 import { getDictionary } from "@/get-dictionary";
 import { Locale } from "@/i18n-config";
 import LanguageSwitcher from './LanguageSwitcher';
+import ThemeSwitcher from './ThemeSwitcher';
 
 export default async function Header({ lang }: { lang: Locale }) {
   const t = await getDictionary(lang);
@@ -14,7 +15,10 @@ export default async function Header({ lang }: { lang: Locale }) {
       <Logo siteName={t.header.siteName} lang={lang} />
       <NavBar nav={t.header.nav} lang={lang} />
       <SearchBar placeholder={t.header.searchPlaceholder} />
-      <LanguageSwitcher initialLang={lang} />
+      <div className="flex items-center gap-4">
+        <LanguageSwitcher initialLang={lang} />
+        <ThemeSwitcher />
+      </div>
     </header>
   )
 }

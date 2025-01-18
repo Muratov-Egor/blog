@@ -12,7 +12,6 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ initialLang }) => {
   const router = useRouter();
   const [currentLang, setCurrentLang] = useState<Locale>(initialLang);
 
-  // Определяем альтернативный язык и его отображаемый текст
   const alternativeLang: Locale = currentLang === 'ru' ? 'en' : 'ru';
   const buttonText = currentLang === 'ru' ? 'EN' : 'РУ';
 
@@ -29,7 +28,7 @@ const LanguageSwitcher: React.FC<LanguageSwitcherProps> = ({ initialLang }) => {
     <div className="flex items-center">
       <button
         onClick={handleLanguageChange}
-        className=""
+        className="hover:text-blue-200"
       >
         {buttonText}
       </button>

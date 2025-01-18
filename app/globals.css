@@ -7,11 +7,6 @@
     /* Базовые размеры */
     --max-width: 1280px;
     --page-padding: 1rem;
-    
-    /* Цвета */
-    --background: #f9f9f9;
-    --foreground: #333;
-    --link-color: #4dabf7;
   }
 
   /* Базовый сброс */
@@ -23,29 +18,14 @@
   }
 
   html {
-    font-family:  sans-serif;
+    font-family: sans-serif;
     font-size: 20px;
     line-height: 1.5;
   }
 
-  @media (min-width: 768px) {
-    html {
-      font-size: 22px;
-      line-height: 1.6;
-    }
-  }
-
-  @media (min-width: 1280px) {
-    html {
-      font-size: 24px;
-      line-height: 1.7;
-    }
-  }
-
   body {
-    background: var(--background);
-    color: var(--foreground);
     min-height: 100vh;
+    @apply bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-200;
   }
 
   /* Центрирование основного контента */
@@ -58,7 +38,7 @@
 
   /* Заголовки */
   h1, h2, h3, h4 {
-    @apply font-bold text-gray-900 dark:text-gray-100 transition-colors duration-200;
+    @apply font-bold text-gray-900 dark:text-white transition-colors duration-200;
   }
 
   /* Текст */
@@ -68,24 +48,7 @@
 
   /* Ссылки */
   a {
-    @apply text-gray-500 dark:text-gray-100 hover:text-blue-800 dark:hover:text-blue-300 
+    @apply text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 
            transition-colors duration-200;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-
-  img {
-    display: block;
-    max-width: 100%;
-  }
-}
-
-/* Темная тема */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #121212;
-    --foreground: #e0e0e0;
   }
 }

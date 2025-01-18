@@ -1,4 +1,5 @@
 import { i18n, type Locale } from "@/i18n-config";
+import { ThemeProvider } from 'next-themes';
 import '@/app/globals.css';
 
 export const metadata = {
@@ -20,7 +21,7 @@ export default async function RootLayout({
   const { lang } = await params;
 
   return (
-    <html lang={lang}>
+    <html lang={lang} suppressHydrationWarning>
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -29,10 +30,10 @@ export default async function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body suppressHydrationWarning={true}>
-        <main>
+      <body className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-200">
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           {children}
-        </main>
+        </ThemeProvider>
       </body>
     </html>
   );
