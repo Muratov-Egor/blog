@@ -47,6 +47,7 @@ export default async function IndexPage({
         totalPages={totalPages}
         currentPage={currentPage}
         lang={lang}
+        basePath="/blog"
       />
     </div>
   );

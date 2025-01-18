@@ -8,6 +8,7 @@ interface MarineLifeArticle {
   title: string;
   content: string;
   meta_title: string;
+  title_en?: string;
   image?: string;
   tags?: string[];
   date: string;
@@ -27,7 +28,9 @@ export async function getMarineLifeArticles(locale: Locale): Promise<MarineLifeA
     return {
       slug: filename.replace('.md', ''),
       title: data.title,
-      date: data.date
+      date: data.date,
+      title_en: data.title_en,
+      image: data.image,
     };
   });
 

@@ -5,9 +5,10 @@ interface PaginationProps {
   totalPages: number;
   currentPage: number;
   lang: Locale;
+  basePath: string;
 }
 
-export function Pagination({ totalPages, currentPage, lang }: PaginationProps) {
+export function Pagination({ totalPages, currentPage, lang, basePath }: PaginationProps) {
   if (totalPages <= 1) return null;
 
   return (
@@ -15,7 +16,7 @@ export function Pagination({ totalPages, currentPage, lang }: PaginationProps) {
       {Array.from({ length: totalPages }, (_, i) => i + 1).map((pageNum) => (
         <Link
           key={pageNum}
-          href={`/${lang}/blog${pageNum === 1 ? '' : `?page=${pageNum}`}`}
+          href={`/${lang}${basePath}${pageNum === 1 ? '' : `?page=${pageNum}`}`}
           className={`px-4 py-2 rounded ${
             currentPage === pageNum
               ? 'bg-blue-600 text-white'
