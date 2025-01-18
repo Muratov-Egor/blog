@@ -6,13 +6,11 @@
   "sections": {
     "blog": {
       "title": "Blog",
-      "description": "I share my personal diving experiences and reviews of dive sites I've visited. I break down diving theory in simple terms and share my underwater adventures.",
-      "button": "Read"
+      "description": "I share my personal diving experiences and reviews of dive sites I've visited. I break down diving theory in simple terms and share my underwater adventures."
     },
-    "database": {
+    "marineLife": {
       "title": "Underwater World",
-      "description": "A collection of marine creatures I've encountered and photographed during my dives. Learn more about the amazing inhabitants of the underwater world!",
-      "button": "Explore"
+      "description": "A collection of marine creatures I've encountered and photographed during my dives. Learn more about the amazing inhabitants of the underwater world!"
     }
   }
 }
