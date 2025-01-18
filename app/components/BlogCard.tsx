@@ -1,6 +1,9 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 import { Locale } from "@/i18n-config";
+import { useState } from "react";
 
 interface BlogCardProps {
   article: {
@@ -14,6 +17,8 @@ interface BlogCardProps {
 }
 
 export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
+  const [isLoading, setIsLoading] = useState(true);
+
   return (
     <Link 
       href={`/${lang}/blog/${article.slug}`}
@@ -21,12 +26,20 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
     >
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-transform duration-200 hover:translate-y-[-4px]">
         <div className={`relative ${isFeature ? 'h-96' : 'h-64'} w-full`}>
+          {isLoading && (
+            <div className="absolute inset-0 flex items-center justify-center bg-gray-100 dark:bg-gray-800">
+              <div className="w-8 h-8 border-4 border-gray-200 dark:border-gray-700 border-t-blue-500 rounded-full animate-spin" />
+            </div>
+          )}
           <Image
             src={article.image || '/images/default-image.jpg'}
             alt={article.title}
             fill
-            className="object-cover"
+            className={`object-cover transition-opacity duration-300 ${
+              isLoading ? 'opacity-0' : 'opacity-100'
+            }`}
             sizes={isFeature ? '100vw' : '(max-width: 768px) 100vw, 50vw'}
+            onLoadingComplete={() => setIsLoading(false)}
           />
         </div>
         <div className="p-6 h-[200px] flex flex-col">

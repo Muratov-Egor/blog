@@ -1,6 +1,9 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
 import { Locale } from "@/i18n-config";
+import { useState } from "react";
 
 interface MarineLifeCardProps {
   article: {
@@ -13,6 +16,8 @@ interface MarineLifeCardProps {
 }
 
 export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
+  const [isLoading, setIsLoading] = useState(true);
+
   return (
     <Link 
       href={`/${lang}/marine-life/${article.slug}`}
@@ -20,11 +25,19 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
     >
       <div className="bg-white rounded-lg shadow-md overflow-hidden h-full">
         <div className="relative w-full pt-[66.67%]">
+          {isLoading && (
+            <div className="absolute inset-0 flex items-center justify-center bg-gray-100">
+              <div className="w-8 h-8 border-4 border-gray-200 border-t-blue-500 rounded-full animate-spin" />
+            </div>
+          )}
           <Image
             src={article.image || '/placeholder-image.jpg'}
             alt={article.title}
             fill
-            className="object-cover"
+            className={`object-cover transition-opacity duration-300 ${
+              isLoading ? 'opacity-0' : 'opacity-100'
+            }`}
+            onLoadingComplete={() => setIsLoading(false)}
           />
         </div>
         <div className="p-4">
