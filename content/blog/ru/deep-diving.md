@@ -3,7 +3,7 @@ title: "Глубоководное погружение"
 meta_title: "Deep diving"
 description: "Что такое глубоководное погружение?"
 date: 2023-10-07
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving_preview_w1fyee.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309408/Deep_Diving_Preview_y3dv83.png"
 ---
 
 ## Введение
@@ -24,7 +24,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving
 
 В этой статье я постараюсь рассказать о том, что представляет из себя глубоководный дайвинг.
 
-![PADI Deep diving](https://res.cloudinary.com/danezbcu5/image/upload/v1729355548/deepDiving_1_cf7evb.png "PADI Deep diving")
+![PADI Deep diving course](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_1_cuytuy.png "PADI Deep diving course")
 
 ## Что такое глубокое погружение?
 
@@ -40,7 +40,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving
 
   - Чем глубже, тем темнее становится. Несмотря на то, что в прозрачной воде адекватная освещенность может оставаться даже на большей глубине, в умеренных широтах освещенность сильно падает примерно на глубине 30 метров, а подводная жизнь становится более бедной. Становится труднее рассмотреть что-то, и интересных объектов также станет меньше. В некоторых водоемах, особенно во многих пресноводных озерах, свет практически не распространяется на глубине даже менее 30 метров.
 
-![Wreck](https://res.cloudinary.com/danezbcu5/image/upload/v1729355546/deepDiving_2_sy4zdi.png "Wreck")
+![Затонувший корабль на глубине](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309406/Deep_Diving_2_xabbur.png "Затонувший корабль на глубине")
 
 ## Цели глубоководных погружений
 
@@ -98,7 +98,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving
 
 В глубоководных погружениях спуск в вертикальном положении головой вверх и ногами вниз помогает избежать головокружения и предотвращает дезориентацию. Это также облегчает выравнивание давления в ушах и поддержание правильной плавучести.
 
-![Diver](https://res.cloudinary.com/danezbcu5/image/upload/v1729355549/deepDiving_3_aeizvz.png "Diver")
+![Дайвер на спуске](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_3_sgsdrx.png "Дайвер на спуске")
 
 ### **Контролируемый спуск и всплытие**
 
@@ -122,7 +122,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving
 
 Остановки безопасности снижают образование пузырьков примерно в пять раз. Анализы с декомпрессионными моделями показывают, что даже уменьшение скорости всплытия в два раза оказывает меньший эффект на теоретический уровень азота, чем трехминутная остановка на глубине 5 метров.
 
-![Save stop](https://res.cloudinary.com/danezbcu5/image/upload/v1729355546/deepDiving_4_fpijvv.png "Save stop")
+![Остановка безопасности](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_4_n64m6t.png "Остановка безопасности")
 
 ## Типы глубоководных погружений
 
@@ -130,7 +130,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving
 
 ## Глубоководные погружения в условиях течений
 
-![Trim](https://res.cloudinary.com/danezbcu5/image/upload/v1729355553/deepDiving_5_vzvmzz.png "Trim")
+![Погружение в условиях течения](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_5_gysofi.png "Погружение в условиях течения")
 
 Погружения в условиях течений имеют ряд преимуществ, особенно в глубоководном дайвинге, поскольку они обычно не требуют значительного физического напряжения. Тем не менее, глубокие погружения с дрейфом по течению требуют хорошей координации.
 
@@ -148,7 +148,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving
 
 ## Глубоководные погружения вдоль стен
 
-![Wall](https://res.cloudinary.com/danezbcu5/image/upload/v1729355552/deepDiving_6_vxggaq.png "Wall")
+![Погружение вдоль стены](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309403/Deep_Diving_6_jgjfm7.png "Погружение вдоль стены")
 
 Глубоководные погружения вдоль стен часто вызывают восхищение, особенно в чистой воде. Однако при таких погружениях важно придерживаться трех основных правил:
 
@@ -209,7 +209,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355555/deepDiving
 
   - Так же количество погружений может быть меньше четырех. Первое погружение аналогично погружению в рамках курса PADI Advanced Open Water Diver, так что при наличии этого сертификата, первое погружение считается выполненным. Так же при наличии ряда других сертификатов можно сделать перезачет некотрых упражнений.
 
-![Blue](https://res.cloudinary.com/danezbcu5/image/upload/v1729355551/deepDiving_7_si7tom.png "Blue")
+![Красота глубоководных погружений](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309402/Deep_Diving_7_cggsud.png "Красота глубоководных погружений")
 
 ## Вывод
 
