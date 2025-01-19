@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props) {
   });
 }
 
-export default async function IndexPage({ params, searchParams }: Props) {
+export default async function BlogPage({ params, searchParams }: Props) {
   const { lang } = await params;
   const { page } = await searchParams;
   const currentPage = Number(page) || 1;

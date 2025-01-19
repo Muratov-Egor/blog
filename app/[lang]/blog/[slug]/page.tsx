@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props) {
     title: `${article.title} - Diver's Notes`,
     description: article.meta_title,
     openGraphImage: article.image,
-    keywords: article.meta_keywords?.join(', ') || 'Underwater life',
+    keywords: article.meta_keywords?.join(', ') || 'Blog, Diving, Scuba diving, Diving blog, Diving tips, Diving gear, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks',
   });
 }
 

@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: Props) {
   });
 }
 
-export default async function MarineLifePage({
+export default async function MarineLifeArticlePage({
     params,
   }: {
     params: Promise<{ lang: Locale; slug: string }>;
