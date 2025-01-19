@@ -1,23 +1,107 @@
 {
   "home": {
     "title": "Diver's Notes - A Blog About Scuba Diving, Underwater Adventures and Marine Life",
-    "description": "Personal diving blog and resource for scuba enthusiasts. Explore dive logs, diving theory, dive site reviews, and discover fascinating marine creatures."
+    "description": "Personal diving blog and resource for scuba enthusiasts. Explore dive logs, diving theory, dive site reviews, and discover fascinating marine creatures.",
+    "ogImage": "/images/hero-diving.jpg",
+    "keywords": ["scuba diving", "diving blog", "underwater adventures", "dive sites", "marine life"],
+    "openGraph": {
+      "type": "website",
+      "locale": "en_US",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/en",
+      "languages": {
+        "en": "/en",
+        "ru": "/ru"
+      }
+    }
   },
   "blog": {
     "title": "Blog - Diver's Notes",
-    "description": "Read articles about scuba diving theory, tips, and detailed dive site reviews."
-    
+    "description": "Read articles about scuba diving theory, tips, and detailed dive site reviews.",
+    "ogImage": "/images/blog-preview.jpg",
+    "keywords": ["diving blog", "scuba diving articles", "dive site reviews", "diving tips"],
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/en/blog",
+      "languages": {
+        "en": "/en/blog",
+        "ru": "/ru/blog"
+      }
+    }
   },
-  "marine-life": {
+  "marineLife": {
     "title": "Marine Life Database - Diver's Notes",
-    "description": "Explore underwater creatures I've encountered during my diving adventures."
+    "description": "Explore underwater creatures I've encountered during my diving adventures.",
+    "ogImage": "/images/database-preview.jpg",
+    "keywords": ["marine life", "underwater creatures", "sea life", "marine species", "diving encounters"],
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/en/marine-life",
+      "languages": {
+        "en": "/en/marine-life",
+        "ru": "/ru/marine-life"
+      }
+    }
   },
   "about": {
     "title": "About - Diver's Notes",
-    "description": "Learn more about me and my diving journey."
+    "description": "Learn more about me and my diving journey.",
+    "ogImage": "/images/about-preview.jpg",
+    "keywords": ["about diver", "professional diver", "diving experience", "diving journey"],
+    "openGraph": {
+      "type": "website",
+      "locale": "en_US",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/en/about",
+      "languages": {
+        "en": "/en/about",
+        "ru": "/ru/about"
+      }
+    }
   },
   "map": {
     "title": "Dive sites I've visited",
-    "description": "List of all diving locations I've visited"
+    "description": "List of all diving locations I've visited",
+    "ogImage": "/images/map-preview.jpg",
+    "keywords": ["dive sites map", "diving locations", "dive spots", "diving destinations"],
+    "openGraph": {
+      "type": "website",
+      "locale": "en_US",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/en/map",
+      "languages": {
+        "en": "/en/map",
+        "ru": "/ru/map"
+      }
+    }
   }
 }

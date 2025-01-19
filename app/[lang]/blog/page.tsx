@@ -1,3 +1,4 @@
+import { generateMeta } from "@/app/components/Meta";
 import { Locale } from "@/i18n-config";
 import { getBlogArticles } from "@/lib/blog";
 import { getDictionary } from "@/get-dictionary";
@@ -5,13 +6,25 @@ import { calculatePagination } from "@/app/utils/pagination";
 import { BlogCard } from "@/app/components/BlogCard";
 import { Pagination } from "@/app/components/Pagination";
 
-export default async function IndexPage({
-  params,
-  searchParams,
-}: {
+type Props = {
   params: Promise<{ lang: Locale }>;
   searchParams: Promise<{ page?: string }>;
-}) {
+};
+
+export async function generateMetadata({ params }: Props) {
+  const { lang } = await params;
+  const t = await getDictionary(lang);
+
+  return await generateMeta({
+    params,
+    title: t.metadata.blog.title,
+    description: t.metadata.blog.description,
+    keywords: t.metadata.blog.keywords.join(', '),
+    openGraphImage: '/images/og-blog.png',
+  });
+}
+
+export default async function IndexPage({ params, searchParams }: Props) {
   const { lang } = await params;
   const { page } = await searchParams;
   const currentPage = Number(page) || 1;

@@ -2,6 +2,26 @@ import { getDictionary } from "@/get-dictionary";
 import { Locale } from "@/i18n-config";
 import { DIVE_STATS } from "@/lib/dive-sites";
 import Image from "next/image";
+import { generateMeta } from "@/app/components/Meta";
+
+type Props = {
+  params: Promise<{ lang: Locale }>;
+  searchParams: Promise<{ page?: string }>;
+};
+
+
+export async function generateMetadata({ params }: Props) {
+  const { lang } = await params;
+  const t = await getDictionary(lang);
+
+  return await generateMeta({
+    params,
+    title: t.metadata.home.title,
+    description: t.metadata.home.description,
+    keywords: t.metadata.home.keywords.join(', '),
+    openGraphImage: '/images/og-default.jpg',
+  });
+}
 
 export default async function Home({
   params,

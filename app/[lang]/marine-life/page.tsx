@@ -5,8 +5,28 @@ import { getMarineLifeArticles } from '@/lib/marine-life';
 import { Pagination } from "@/app/components/Pagination";
 import { calculatePagination } from "@/app/utils/pagination";
 import MarineLifeCard from "@/app/components/MarineLifeCard";
+import { getDictionary } from "@/get-dictionary";
+import { generateMeta } from "@/app/components/Meta";
 
-export default async function MarineLifePage({
+type Props = {
+  params: Promise<{ lang: Locale }>;
+  searchParams: Promise<{ page?: string }>;
+};
+
+export async function generateMetadata({ params }: Props) {
+  const { lang } = await params;
+  const t = await getDictionary(lang);
+
+  return await generateMeta({
+    params,
+    title: t.metadata.marineLife.title,
+    description: t.metadata.marineLife.description,
+    keywords: t.metadata.marineLife.keywords.join(', '),
+    openGraphImage: '/images/og-marine-life.png',
+  });
+}
+
+export default async function MarineLifePage({  
   params,
   searchParams,
 }: {

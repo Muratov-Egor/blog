@@ -1,22 +1,107 @@
 {
   "home": {
     "title": "Diver's Notes - Заметки о дайвинге, погружениях и подводной жизни",
-    "description": "Личный блог и ресурс для любителей дайвинга. Читайте записи о погружениях, теории дайвинга, описания дайв-сайтов и узнавайте больше о морских существах."
+    "description": "Личный блог и ресурс для любителей дайвинга. Читайте записи о погружениях, теории дайвинга, описания дайв-сайтов и узнавайте больше о морских существах.",
+    "ogImage": "/images/og-default.jpg",
+    "keywords": ["дайвинг", "подводное плавание", "блог о дайвинге", "дайв сайты", "морская жизнь"],
+    "openGraph": {
+      "type": "website",
+      "locale": "ru_RU",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/ru",
+      "languages": {
+        "en": "/en",
+        "ru": "/ru"
+      }
+    }
   },
   "blog": {
     "title": "Блог | Diver's Notes",
-    "description": "Cтатьи о теории дайвинга, описание дайв-сайтов и истории с моих погружений."
+    "description": "Cтатьи о теории дайвинга, описание дайв-сайтов и истории с моих погружений.",
+    "ogImage": "/images/og-blog.png",
+    "keywords": ["блог о дайвинге", "дайв сайты", "обзоры погружений", "дайвинг блог"],
+    "openGraph": {
+      "type": "article",
+      "locale": "ru_RU",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/ru/blog",
+      "languages": {
+        "en": "/en/blog",
+        "ru": "/ru/blog"
+      }
+    }
   },
-  "marine-life": {
+  "marineLife": {
     "title": "Морские обитатели и подводная жизнь | Diver's Notes",
-    "description": "Описание подводных существ, которых я встретил во время своих погружений."
+    "description": "Описание подводных существ, которых я встретил во время своих погружений.",
+    "ogImage": "/images/og-marine-life.png",
+    "keywords": ["морская жизнь", "подводные существа", "морская фауна", "подводный мир"],
+    "openGraph": {
+      "type": "article",
+      "locale": "ru_RU",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/ru/marine-life",
+      "languages": {
+        "en": "/en/marine-life",
+        "ru": "/ru/marine-life"
+      }
+    }
   },
   "about": {
     "title": "Обо мне | Diver's Notes",
-    "description": "Узнайте больше о моем пути в дайвинг и о том, как я стал профессиональным дайвером."
+    "description": "Узнайте больше о моем пути в дайвинг и о том, как я стал профессиональным дайвером.",
+    "ogImage": "/images/og-default.jpg",
+    "keywords": ["о дайвере", "профессиональный дайвер", "дайвинг опыт", "дайвинг блог"],
+    "openGraph": {
+      "type": "website",
+      "locale": "ru_RU",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/ru/about",
+      "languages": {
+        "en": "/en/about",
+        "ru": "/ru/about"
+      }
+    }
   },
   "map": {
     "title": "Мои дайв-сайты на карте | Diver's Notes",
-    "description": "Интерактивная карта и список всех дайв-сайтов, где я совершал погружения."
+    "description": "Интерактивная карта и список всех дайв-сайтов, где я совершал погружения.",
+    "ogImage": "/images/og-map.png",
+    "keywords": ["карта дайв сайтов", "места для дайвинга", "дайвинг локации", "дайв споты"],
+    "openGraph": {
+      "type": "website",
+      "locale": "ru_RU",
+      "siteName": "Diver's Notes"
+    },
+    "twitter": {
+      "card": "summary_large_image"
+    },
+    "alternates": {
+      "canonical": "https://diversnotes.com/ru/map",
+      "languages": {
+        "en": "/en/map",
+        "ru": "/ru/map"
+      }
+    }
   }
 }
