@@ -1,9 +1,9 @@
 {
     "siteName": "Diver's Notes",
     "nav": {
-      "home": "Главная",
       "blog": "Блог",
-      "marineLife": "Подводный мир"
+      "marineLife": "Подводный мир",
+      "map": "Карта погружений"
     },
     "searchPlaceholder": "Поиск..."
   }
