@@ -2,7 +2,9 @@ import { generateMeta } from "@/app/components/Meta";
 import { Locale } from "@/i18n-config";
 import { getDictionary } from "@/get-dictionary";
 import { DIVE_SITES } from "@/lib/dive-sites";
-
+import { SiteType } from "@/types/diveSite";
+import SiteIcon from "@/app/components/SiteIcon";
+import Legend from "@/app/components/Legend";
 type Props = {
   params: Promise<{ lang: Locale }>;
   searchParams: Promise<{ page?: string }>;
@@ -21,54 +23,6 @@ export async function generateMetadata({ params }: Props) {
   });
 }
 
-type SiteType = 'reef' | 'bay' | 'wreck' | 'pinnacle' | 'coral_garden' | 'lake' | 'wall' | 'default';
-
-const SiteIcon = ({ type }: { type: SiteType }) => {
-  const icons: Record<SiteType, string> = {
-    reef: "/images/icons/reef.png",
-    bay: "/images/icons/bay.png",
-    wreck: "/images/icons/wreck.png",
-    pinnacle: "/images/icons/pinnacle.png",
-    coral_garden: "/images/icons/coral_garden.png",
-    lake: "/images/icons/lake.png",
-    wall: "/images/icons/wall.png",
-    default: "/images/icons/diver.png",
-  };
-
-  return (
-    <div className="bg-gray-100 p-2 inline-block ml-2 rounded">
-      <img src={icons[type]} alt={type} className="inline-block" style={{ width: '35px', height: '35px' }} />
-    </div>
-  );
-};
-
-const Legend = () => {
-  const legendItems: { type: SiteType; label: string }[] = [
-    { type: 'reef', label: 'Риф' },
-    { type: 'bay', label: 'Залив' },
-    { type: 'wreck', label: 'Кораблекрушение' },
-    { type: 'pinnacle', label: 'Пик' },
-    { type: 'coral_garden', label: 'Коралловый сад' },
-    { type: 'lake', label: 'Озеро' },
-    { type: 'wall', label: 'Стена' },
-    { type: 'default', label: 'Дайвер' },
-  ];
-
-  return (
-    <div className="legend mb-8 bg-gray-100 p-4 rounded-lg dark:bg-gray-800">
-      <h1 className="text-lg font-semibold mb-2 text-center">Легенда</h1>
-      <div className="flex flex-wrap justify-center">
-        {legendItems.map((item) => (
-          <div key={item.type} className="flex items-center mr-4 mb-2">
-            <SiteIcon type={item.type} />
-            <span className="ml-2">{item.label}</span>
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-};
-
 export default async function MapPage({ params, searchParams }: Props) {
   const { lang } = await params;
   const t = await getDictionary(lang);
@@ -77,7 +31,7 @@ export default async function MapPage({ params, searchParams }: Props) {
     <div className="container mx-auto px-4 py-8">
       <div className="flex flex-col items-center pb-2 mb-10 text-center">
         <h1 className="text-3xl font-bold mb-2">{t.map.title}</h1>
-        <span className="text-sm text-gray-500 mb-6">{t.map.description}</span>
+        <span className="text-sm text-gray-500">{t.map.description}</span>
       </div>
 
       <div className="flex flex-col items-center mb-8">
@@ -91,7 +45,7 @@ export default async function MapPage({ params, searchParams }: Props) {
 
       <Legend />
 
-      <div className="mt-8">
+      <div>
         {DIVE_SITES.map((region) => (
           <div key={region.region.en} className="mb-8 bg-gray-100 dark:bg-gray-800 p-4 rounded-lg">
             <div className="flex flex-col items-center mb-4">
@@ -107,7 +61,7 @@ export default async function MapPage({ params, searchParams }: Props) {
                         href={link}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-blue-600 hover:underline"
+                        className="text-blue-600 hover:underline cursor-pointer"
                       >
                         👀
                       </a>

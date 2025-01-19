@@ -1,0 +1,1 @@
+export type SiteType = 'reef' | 'bay' | 'wreck' | 'pinnacle' | 'coral_garden' | 'lake' | 'wall' | 'default';
