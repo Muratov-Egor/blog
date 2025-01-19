@@ -3,7 +3,7 @@ title: "Остров Рача Яй"
 meta_title: "Остров Рача Яй"
 description: "Дайв сайты на острове Рача Яй"
 date: 2023-07-05
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357133/rachaYai_preview_u52edy.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314119/Racha_Yai_Preview_bf7zih.png"
 ---
 
 Остров Рача Яй расположен примерно в 30 километрах на юг от Пхукета. За счёт того, что до острова можно добраться очень быстро, а дайв-сайты предоставляют широкий диапазон глубин, данный остров очень популярен как однодневный маршрут для новичков и профессионалов в дайвинге.
@@ -12,7 +12,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357133/rachaYai_p
 
 ## Bungalow Bay
 
-![Bungalow Bay](https://res.cloudinary.com/danezbcu5/image/upload/v1729357130/rachaYai_1_jpyy8h.png "Bungalow Bay")
+![Bungalow Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314118/rachaYai_1_nhorfd.png "Bungalow Bay")
 
 Дайв-сайт Bungalow Bay или Ao Patok - популярное место в высокий сезон с ноября по май. В бухте есть широкий белоснежный пляж и красивые каменистые скалы, на которых можно увидеть диких козлов, наблюдающих за прибывшими туристами.
 
@@ -24,11 +24,11 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357133/rachaYai_p
 
 Глубина бухты нарастает с мелководья пляжа и достигает 20-25 метров на выходе из бухты. А если продолжить движение, то можно достичь глубины более 40 метров.
 
-![Cхема Bungalow Bay](https://res.cloudinary.com/danezbcu5/image/upload/v1729357129/rachaYai_2_hwgibc.png "Cхема Bungalow Bay")
+![Cхема Bungalow Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314117/Racha_Yai_2_dyozco.png "Cхема Bungalow Bay")
 
 ## Bay 1 и Bay 2
 
-![Bay 1 и Bay 2](https://res.cloudinary.com/danezbcu5/image/upload/v1729357133/rachaYai_3_els2ro.png "Bay 1 и Bay 2")
+![Bay 1 и Bay 2](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314118/Racha_Yai_3_lknyoo.png "Bay 1 и Bay 2")
 
 Дайв-сайт Bay 1 или Ao Lah расположен на восточной стороне острова. В мелкой части, от 3 до 9 метров, располагается большой коралловый риф, в котором обитает большое количество разнообразных рыб.
 
@@ -38,7 +38,7 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357133/rachaYai_p
 
 Дальше в море находится затонувший корабль Haruby Star. Дно затонувшего судна находится на глубине около 20 метров, а верх - на глубине около 14 метров. Можно легко проплыть внутри корабля, но стоит быть очень внимательным, так как в корабле можно встретить мурен.
 
-![Схема Bay 1 и Bay](https://res.cloudinary.com/danezbcu5/image/upload/v1729357132/rachaYai_4_yl19rf.png "Схема Bay 1 и Bay")
+![Схема Bay 1 и Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314117/Racha_Yai_4_zh2uag.png "Схема Bay 1 и Bay")
 
 ## Siam Bay
 
@@ -54,5 +54,5 @@ image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357133/rachaYai_p
 
 Подводные жители не столь привыкшие к дайверам, поэтому их намного легче спугнуть, поэтому делая фото или видео нужно быть придельно аккуратным.
 
-![Siam Bay](https://res.cloudinary.com/danezbcu5/image/upload/v1729357135/rachaYai_5_ehonii.png "Siam Bay")
+![Siam Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314124/Racha_Yai_5_Ehonii_ky3gfi.png "Siam Bay")
 
