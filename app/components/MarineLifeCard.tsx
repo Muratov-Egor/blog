@@ -23,10 +23,10 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
       href={`/${lang}/marine-life/${article.slug}`}
       className="block"
     >
-      <div className="bg-white rounded-lg shadow-md overflow-hidden h-full text-center">
+      <div className="bg-white  dark:bg-gray-800  rounded-lg shadow-md overflow-hidden h-full text-center">
         <div className="relative w-full pt-[66.67%]">
           {isLoading && (
-            <div className="absolute inset-0 flex items-center justify-center bg-gray-100">
+            <div className="absolute inset-0 flex items-center justify-center bg-gray-100 dark:bg-gray-800">
               <div className="w-8 h-8 border-4 border-gray-200 border-t-blue-500 rounded-full animate-spin" />
             </div>
           )}

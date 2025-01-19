@@ -8,7 +8,7 @@ export default async function Footer({ lang }: { lang: Locale }) {
     const t = await getDictionary(lang);
 
     return (
-        <footer className="flex flex-col text-center gap-6 p-4 bg-white dark:bg-gray-900 transition-colors duration-200 text-sm lg:flex-row lg:justify-around border-t border-gray-200 dark:border-gray-800 mt-auto">
+        <footer className="flex flex-col text-center gap-6 p-10 bg-white dark:bg-gray-900 transition-colors duration-200 text-sm lg:flex-row lg:justify-around border-t border-gray-200 dark:border-gray-800 mt-auto">
             <p>{t.footer.copyright}</p>
             <div className="flex flex-raw gap-4 justify-center whitespace-nowrap">
                 <Link href={`/${lang}/blog`} className="hover:underline">{t.footer.links.blog}</Link>
