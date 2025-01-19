@@ -20,7 +20,7 @@ export default function ArticleContent({ title, date, content, image, lang }: Ar
   return (
     <article className="blog-article">
       <div className="max-w-3xl mx-auto px-4 py-8">
-        <header className="mb-8">
+        <div className="mb-8">
           <h1 className="text-4xl font-bold mb-4 text-center">{title}</h1>
           <div className="flex items-center text-gray-600 mb-8 justify-center">
             <time dateTime={date}>
@@ -36,11 +36,12 @@ export default function ArticleContent({ title, date, content, image, lang }: Ar
               <ArticleImage
                 src={image}
                 alt={title}
-                className="rounded-lg shadow-lg object-cover w-full"
+                className="rounded-lg shadow-lg object-cover w-full cursor-pointer hover:opacity-90 transition-opacity"
+                onClick={() => setSelectedImage({ src: image, alt: title })}
               />
             </div>
           )}
-        </header>
+        </div>
         
         <div className="prose prose-lg prose-slate max-w-none">
           <Markdown
