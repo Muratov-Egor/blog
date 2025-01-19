@@ -15,12 +15,12 @@ export async function generateMeta({ params, title, description, keywords, openG
   const t = await getDictionary(lang);
 
   return {
-    title: title || 'TITLE',
-    description: description || 'DESCRIPTION',
-    keywords: keywords || "KEYWORDS",
+    title: title || 'Diver\'s Notes',
+    description: description || 'Blog about scuba diving',
+    keywords: keywords || "Scuba diving",
     openGraph: {
-      title: title || 'TITLE',
-      description: description || 'DESCRIPTION',
+      title: title || 'Diver\'s Notes',
+      description: description || 'Blog about scuba diving',
       images: [openGraphImage || '/images/banner.png'],
     },
   };

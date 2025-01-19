@@ -10,6 +10,7 @@ interface BlogArticle {
   description: string;
   content: string;
   meta_title: string;
+  meta_keywords?: string[];
   image?: string;
   date: string;
 }
@@ -56,6 +57,7 @@ export async function getBlogArticle(locale: Locale, slug: string): Promise<Blog
       meta_title: data.meta_title,
       image: data.image,
       date: data.date,
+      meta_keywords: data.meta_keywords,
     };
   } catch (error) {
     return null;

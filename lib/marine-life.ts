@@ -12,6 +12,7 @@ interface MarineLifeArticle {
   image?: string;
   tags?: string[];
   date: string;
+  meta_keywords?: string[];
 }
 
 export async function getMarineLifeArticles(locale: Locale): Promise<MarineLifeArticle[]> {
@@ -55,6 +56,7 @@ export async function getMarineLifeArticle(locale: Locale, slug: string): Promis
       meta_title: data.meta_title,
       image: data.image,
       tags: data.tags,
+      meta_keywords: data.meta_keywords,
     };
   } catch (error) {
     return null;
