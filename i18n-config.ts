@@ -1,5 +1,6 @@
 export const i18n = {
   defaultLocale: "ru",
+  //todo ENGLISH
   // locales: ["ru", "en"],
   locales: ["ru"],
 } as const;
