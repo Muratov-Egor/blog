@@ -8,7 +8,7 @@ import marineLife from './marine-life-page.json';
 import metadata from './metadata.json';
 import search from './search.json';
 import articleNotFound from './articleNotFound.json';
-
+import legend from './legend.json';
 const en = {
   about,
   blog,
@@ -20,6 +20,7 @@ const en = {
   metadata,
   search,
   articleNotFound,
+  legend,
 } as const;
 
 export default en; 

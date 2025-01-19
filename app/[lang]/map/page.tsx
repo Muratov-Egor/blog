@@ -5,6 +5,7 @@ import { DIVE_SITES } from "@/lib/dive-sites";
 import { SiteType } from "@/types/diveSite";
 import SiteIcon from "@/app/components/SiteIcon";
 import Legend from "@/app/components/Legend";
+import Link from "next/link";
 type Props = {
   params: Promise<{ lang: Locale }>;
   searchParams: Promise<{ page?: string }>;
@@ -43,7 +44,7 @@ export default async function MapPage({ params, searchParams }: Props) {
         ></iframe>
       </div>
 
-      <Legend />
+      <Legend lang={lang} />
 
       <div>
         {DIVE_SITES.map((region) => (
@@ -53,37 +54,22 @@ export default async function MapPage({ params, searchParams }: Props) {
                 <h2 className="text-xl font-semibold mb-0">
                   {lang === 'ru' ? region.region.ru : region.region.en}
                 </h2>
-                {region.region.links && region.region.links.length > 0 && (
-                  <div className="ml-2 flex space-x-2">
-                    {region.region.links.map((link, index) => (
-                      <a
-                        key={index}
-                        href={link}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-blue-600 hover:underline cursor-pointer"
-                      >
-                        👀
-                      </a>
-                    ))}
-                  </div>
-                )}
               </div>
             </div>
             <div className="flex flex-wrap justify-start">
               {region.sites.map((site) => (
-                <div key={site.name} className="mb-4 w-1/2 md:w-1/3 flex justify-start">
+                <div key={site.name} className="mb-4 w-1/2 md:w-1/3 flex justify-between">
                   <div className="site-item">
-                    <p className="mb-1 text-sm flex items-center">
+                    <p className="mb-1 text-sm flex items-center cursor-pointer">
                       <SiteIcon type={site.type as SiteType} />
-                      <a
-                        href={site.googleMapsUrl}
+                      <Link
+                        href={site.googleMapsUrl || '#'}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-blue-600 hover:underline ml-2 font-semibold"
+                        className="hover:underline ml-2 font-semibold cursor-pointer underline"
                       >
                         {site.name}
-                      </a>
+                      </Link>
                     </p>
                     <span className="text-gray-500 text-xs ml-2 block">
                       ({site.coordinates?.lat}, {site.coordinates?.lng})
