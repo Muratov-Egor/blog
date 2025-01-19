@@ -6,7 +6,7 @@ interface DiveSite {
   };
   sites: Array<{
     name: string;
-    type?: 'reef' | 'wall' | 'bay' | 'wreck' | 'pinnacle' | 'garden' | 'rock' | 'lake' | 'default';
+    type?: 'reef' | 'bay' | 'wreck' | 'pinnacle' | 'coral_garden' | 'lake' | 'wall' | 'default';
     coordinates?: {
       lat: number;
       lng: number;
@@ -55,7 +55,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Siam Bay", 
-          type: "reef",
+          type: "coral_garden",
           coordinates: { lat: 7.6129776, lng: 98.3718318 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7.6129776,98.3718318"
         },
@@ -100,7 +100,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Banana Bay", 
-          type: "rock",
+          type: "reef",
           coordinates: { lat: 7.496983, lng: 98.32519 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7.496983,98.32519"
         }
@@ -115,13 +115,13 @@ export const DIVE_SITES: DiveSite[] = [
       sites: [
         { 
           name: "Koh Bida Nok", 
-          type: "reef",
+          type: "wall",
           coordinates: { lat: 7.654001, lng: 98.766189 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7.654001,98.766189"
         },
         { 
           name: "Koh Bida Nai", 
-          type: "reef",
+          type: "coral_garden",
           coordinates: { lat: 7.657468, lng: 98.766961 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7.657468,98.766961"
         },
@@ -133,7 +133,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Turtle Rock", 
-          type: "rock",
+          type: "wall",
           coordinates: { lat: 7.6855072, lng: 98.7625493 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7.6855072,98.7625493"
         },
@@ -160,13 +160,13 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Shark Point", 
-          type: "wall",
+          type: "pinnacle",
           coordinates: { lat: 7.805604, lng: 98.632593 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7.805604,98.632593"
         },
         { 
           name: "Koh Doc Mai", 
-          type: "rock",
+          type: "wall",
           coordinates: { lat: 7.797696, lng: 98.531399 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7.797696,98.531399"
         }
@@ -187,7 +187,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Eel Garden", 
-          type: "garden",
+          type: "coral_garden",
           coordinates: { lat: 8.5688, lng: 97.645648 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=8.5688,97.645648"
         },
@@ -229,7 +229,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Richelieu Rock", 
-          type: "reef",
+          type: "pinnacle",
           coordinates: { lat: 9.3642159, lng: 98.0228141 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=9.3642159,98.0228141"
         }
@@ -244,7 +244,7 @@ export const DIVE_SITES: DiveSite[] = [
       sites: [
         { 
           name: "Japanese garden", 
-          type: "garden",
+          type: "coral_garden",
           coordinates: { lat: 10.1189757, lng: 99.8150037 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=10.1189757,99.8150037"
         },
@@ -256,7 +256,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Green rock", 
-          type: "rock",
+          type: "pinnacle",
           coordinates: { lat: 10.1245525, lng: 99.810766 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=10.1245525,99.810766"
         },
@@ -268,7 +268,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "White Rock", 
-          type: "rock",
+          type: "pinnacle",
           coordinates: { lat: 10.1100219, lng: 99.8140491 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=10.1100219,99.8140491"
         },
@@ -316,7 +316,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Mango Bay", 
-          type: "rock",
+          type: "bay",
           coordinates: { lat: 10.1220013, lng: 99.8348572 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=10.1220013,99.8348572"
         },
@@ -334,7 +334,7 @@ export const DIVE_SITES: DiveSite[] = [
         },
         { 
           name: "Tanote Bay", 
-          type: "rock",
+          type: "bay",
           coordinates: { lat: 10.0840703, lng: 99.8489005 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=10.0840703,99.8489005"
         }
