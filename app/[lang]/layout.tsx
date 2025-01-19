@@ -3,6 +3,7 @@ import { ThemeProvider } from 'next-themes';
 import '@/app/globals.css';
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
+import { Analytics } from "@vercel/analytics/react"
 
 export async function generateStaticParams() {
   return i18n.locales.map((locale) => ({ lang: locale }));
@@ -33,6 +34,7 @@ export default async function RootLayout({
             <Header lang={lang} />
             <main className="flex-1">
               {children}
+              <Analytics />
             </main>
             <Footer lang={lang} />
           </div>
