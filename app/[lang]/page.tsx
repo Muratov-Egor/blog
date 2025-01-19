@@ -3,6 +3,7 @@ import { Locale } from "@/i18n-config";
 import { DIVE_STATS } from "@/lib/dive-sites";
 import Image from "next/image";
 import { generateMeta } from "@/app/components/Meta";
+import Link from "next/link";
 
 type Props = {
   params: Promise<{ lang: Locale }>;
@@ -56,7 +57,7 @@ export default async function Home({
 
       {/* Blog Section */}
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center mb-24">
-        <div className="order-2 sm:order-2 md:order-1 relative">
+        <Link href={`/${lang}/blog`} className="order-2 sm:order-2 md:order-1 relative">
           <Image
             src="/images/blog-banner.png"
             alt="Blog section"
@@ -64,12 +65,14 @@ export default async function Home({
             height={600}
             className="object-cover rounded-lg shadow-lg w-full h-auto"
           />
-        </div>
+        </Link>
         <div className="order-1 sm:order-1 md:order-2 relative flex flex-col justify-center">
-          <h2 className="text-3xl font-bold mb-4">
-            {t.home.sections.blog.title}
+          <h2 className="text-3xl font-bold mb-4 whitespace-nowrap hover:underline text-center">
+            <Link href={`/${lang}/blog`}>
+              {t.home.sections.blog.title}
+            </Link>
           </h2>
-          <p className="text-lg text-gray-600">
+          <p className="text-lg text-gray-600 text-center">
             {t.home.sections.blog.description}
           </p>
         </div>
@@ -77,7 +80,7 @@ export default async function Home({
 
       {/* Marine Life Section */}
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center mb-24">
-        <div className="order-2">
+        <Link href={`/${lang}/marine-life`} className="order-2">
           <div> 
             <Image
               src="/images/database-banner.png"
@@ -87,12 +90,14 @@ export default async function Home({
               className="object-cover rounded-lg shadow-lg w-full h-auto"
             />
           </div>
-        </div>
+        </Link>
         <div className="md:order-1">
-          <h2 className="text-3xl font-bold mb-4">
+          <h2 className="text-3xl font-bold mb-4 whitespace-nowrap hover:underline text-center">
+            <Link href={`/${lang}/marine-life`}>
             {t.home.sections.marineLife.title}
+            </Link>
           </h2>
-          <p className="text-lg text-gray-600">
+          <p className="text-lg text-gray-600 text-center">
             {t.home.sections.marineLife.description}
           </p>
         </div>
