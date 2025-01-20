@@ -49,9 +49,9 @@ export default async function Home({
           <h1 className="lg:text-5xl text-3xl font-bold lg:mb-6 mb-4 text-center">
             {t.home.hero.title}
           </h1>
-          <p className="lg:text-xl text-sm text-gray-600 mb-12 leading-loose"
+          <p className="lg:text-xl text-sm text-gray-600 lg:mb-6 mb-4 leading-loose"
              dangerouslySetInnerHTML={{ __html: t.home.hero.subtitle.replace('{{dives}}', DIVE_STATS.countDives.toString()) }} />
-          <div className="relative aspect-[16/9]">
+          <div className="relative aspect-[16/9] lg:mb-6 mb-4">
             <Image
               src="/images/banner.png"
               alt="Hero banner"
@@ -59,6 +59,9 @@ export default async function Home({
               className="object-cover rounded-lg shadow-lg"
             />
           </div>
+          <p className="lg:text-xl text-sm text-gray-600 mb-12 leading-loose">
+            {t.home.hero.description}
+          </p>
         </div>
 
         {/* Divider */}
