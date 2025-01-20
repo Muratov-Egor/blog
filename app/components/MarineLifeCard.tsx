@@ -31,13 +31,35 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
             </div>
           )}
           <Image
-            src={article.image || '/placeholder-image.jpg'}
+            src={isLoading ? '/images/placeholder-image.jpg' : article.image || '/images/placeholder-image.jpg'}
             alt={article.title}
             fill
             className={`object-cover transition-opacity duration-300 ${
               isLoading ? 'opacity-0' : 'opacity-100'
             }`}
             onLoadingComplete={() => setIsLoading(false)}
+            onError={() => {
+              const maxRetries = 5;
+              let attempts = 0;
+
+              const loadImage = async () => {
+                setIsLoading(true);
+                while (attempts < maxRetries) {
+                  try {
+                    await fetch(article.image || '/images/placeholder-image.jpg');
+                    setIsLoading(false);
+                    return;
+                  } catch (error) {
+                    attempts++;
+                    if (attempts === maxRetries) {
+                      setIsLoading(false);
+                    }
+                  }
+                }
+              };
+
+              loadImage();
+            }}
           />
         </div>
         <div className="p-4">
