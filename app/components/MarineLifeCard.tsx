@@ -31,7 +31,7 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
             </div>
           )}
           <Image
-            src={isLoading ? '/images/placeholder-image.jpg' : article.image || '/images/placeholder-image.jpg'}
+            src= {article.image || '/images/placeholder-image.jpg'}
             alt={article.title}
             fill
             className={`object-cover transition-opacity duration-300 ${
