@@ -45,11 +45,11 @@ export default async function Home({
       />
       <div className="container mx-auto px-4">
         {/* Hero Section */}
-        <div className="max-w-4xl mx-auto text-center py-16">
-          <h1 className="text-5xl font-bold mb-6">
+        <div className="max-w-4xl mx-auto text-center lg:py-16">
+          <h1 className="lg:text-5xl text-3xl font-bold lg:mb-6 mb-4 text-center">
             {t.home.hero.title}
           </h1>
-          <p className="text-xl text-gray-600 mb-12 leading-loose"
+          <p className="lg:text-xl text-sm text-gray-600 mb-12 leading-loose"
              dangerouslySetInnerHTML={{ __html: t.home.hero.subtitle.replace('{{dives}}', DIVE_STATS.countDives.toString()) }} />
           <div className="relative aspect-[16/9]">
             <Image
