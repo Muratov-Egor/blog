@@ -27,10 +27,10 @@ export default async function Header({ lang }: { lang: Locale }) {
       <div className="hidden lg:flex flex-col items-center gap-6 lg:flex-row lg:items-center lg:justify-between lg:gap-8">
         <Logo siteName={t.header.siteName} lang={lang} />
         <NavBar nav={t.header.nav} lang={lang} />
+        <SearchBar placeholder={t.header.searchPlaceholder} />
         <ThemeSwitcher />
         {/* todo Wait for en */}
         {/* <LanguageSwitcher initialLang={lang} /> */}
-        <SearchBar placeholder={t.header.searchPlaceholder} />
       </div>
     </header>
   );
