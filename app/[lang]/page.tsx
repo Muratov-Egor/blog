@@ -39,9 +39,8 @@ export default async function Home({
         <h1 className="text-5xl font-bold mb-6">
           {t.home.hero.title}
         </h1>
-        <p className="text-xl text-gray-600 mb-12 leading-loose">
-          {t.home.hero.subtitle.replace('{{dives}}', DIVE_STATS.countDives.toString())}
-        </p>
+        <p className="text-xl text-gray-600 mb-12 leading-loose"
+           dangerouslySetInnerHTML={{ __html: t.home.hero.subtitle.replace('{{dives}}', DIVE_STATS.countDives.toString()) }} />
         <div className="relative aspect-[16/9]">
           <Image
             src="/images/banner.png"
