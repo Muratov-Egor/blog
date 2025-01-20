@@ -1,4 +1,9 @@
+# *
 User-agent: *
 Allow: /
+
+# Host
 Host: https://divernotes.com/
+
+# Sitemaps
 Sitemap: https://divernotes.com/sitemap.xml
