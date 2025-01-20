@@ -20,9 +20,10 @@ export function SearchResults({ results, lang, onResultClick, isOpen }: SearchRe
   };
 
   return (
-    <div className="absolute z-50 w-full lg:w-96 md:w-80 mt-2 bg-white dark:bg-gray-800 rounded-lg shadow-lg 
+    <div className="absolute z-50 w-64 lg:w-96 md:w-96 mt-2 bg-white dark:bg-gray-800 rounded-lg shadow-lg 
                     border border-gray-200 dark:border-gray-700 max-h-[80vh] overflow-y-auto
-                    left-1/2 transform -translate-x-1/2">
+                    lg:left-0 lg:transform lg:-translate-x-1/2
+                    md:left-1/2 md:transform md:-translate-x-1/2">
       <ul className="py-1">
         {results.map((result, index) => (
           <li key={index}>
