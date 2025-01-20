@@ -65,7 +65,7 @@ export default async function Home({
         </div>
 
         {/* Divider */}
-        <div className="max-w-4xl mx-auto border-t border-gray-200 my-4"></div>
+        <div className="max-w-4xl mx-auto border-t border-gray-200 mb-12"></div>
 
         {/* Blog Section */}
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center mb-24">
@@ -79,12 +79,12 @@ export default async function Home({
             />
           </Link>
           <div className="order-1 sm:order-1 md:order-2 relative flex flex-col justify-center">
-            <h2 className="text-3xl font-bold mb-4 whitespace-nowrap hover:underline text-center">
+            <h2 className="lg:text-3xl text-2xl font-bold mb-4 whitespace-nowrap hover:underline text-center">
               <Link href={`/${lang}/blog`}>
                 {t.home.sections.blog.title}
               </Link>
             </h2>
-            <p className="text-lg text-gray-600 text-center">
+            <p className="lg:text-lg text-normal text-gray-600 text-center">
               {t.home.sections.blog.description}
             </p>
           </div>
@@ -92,27 +92,25 @@ export default async function Home({
 
         {/* Marine Life Section */}
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center mb-24">
-          <Link href={`/${lang}/marine-life`} className="order-2">
-            <div> 
-              <Image
-                src="/images/database-banner.png"
-                alt="Marine life database"
-                width={800}
-                height={600}
-                className="object-cover rounded-lg shadow-lg w-full h-auto"
-              />
-            </div>
-          </Link>
-          <div className="md:order-1">
-            <h2 className="text-3xl font-bold mb-4 whitespace-nowrap hover:underline text-center">
+          <div className="order-1 sm:order-1 md:order-1 relative flex flex-col justify-center">
+            <h2 className="lg:text-3xl text-2xl font-bold mb-4 whitespace-nowrap hover:underline text-center">
               <Link href={`/${lang}/marine-life`}>
-              {t.home.sections.marineLife.title}
+                {t.home.sections.marineLife.title}
               </Link>
             </h2>
-            <p className="text-lg text-gray-600 text-center">
+            <p className="lg:text-lg text-normal text-gray-600 text-center">
               {t.home.sections.marineLife.description}
             </p>
           </div>
+          <Link href={`/${lang}/marine-life`} className="order-2 sm:order-2 md:order-2 relative">
+            <Image
+              src="/images/database-banner.png"
+              alt="Marine life database"
+              width={800}
+              height={600}
+              className="object-cover rounded-lg shadow-lg w-full h-auto"
+            />
+          </Link>
         </div>
       </div>
     </>
