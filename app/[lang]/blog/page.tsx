@@ -21,6 +21,7 @@ export async function generateMetadata({ params }: Props) {
     description: t.metadata.blog.description,
     keywords: t.metadata.blog.keywords.join(', '),
     openGraphImage: '/images/og-blog.png',
+    canonicalUrl: `https://divernotes.com/${lang}/blog`,
   });
 }
 

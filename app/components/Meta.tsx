@@ -8,11 +8,14 @@ type MetaProps = {
   description: string;
   keywords?: string;
   openGraphImage?: string;
+  canonicalUrl?: string;
 };
 
-export async function generateMeta({ params, title, description, keywords, openGraphImage }: MetaProps): Promise<Metadata> {
+export async function generateMeta({ params, title, description, keywords, openGraphImage, canonicalUrl }: MetaProps): Promise<Metadata> {
   const { lang } = await params;
   const t = await getDictionary(lang);
+  const baseUrl = `https://divernotes.com/${lang}`;
+  const canonical = canonicalUrl || baseUrl;
 
   return {
     title: title || 'Diver\'s Notes',
@@ -22,6 +25,9 @@ export async function generateMeta({ params, title, description, keywords, openG
       title: title || 'Diver\'s Notes',
       description: description || 'Blog about scuba diving',
       images: [openGraphImage || '/images/banner.png'],
+    },
+    alternates: {
+      canonical: canonical,
     },
   };
 } 

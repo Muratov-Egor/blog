@@ -24,6 +24,7 @@ export async function generateMetadata({ params }: Props) {
     description: article.meta_title,
     openGraphImage: article.image,
     keywords: article.meta_keywords?.join(', ') || 'Blog, Diving, Scuba diving, Diving blog, Diving tips, Diving gear, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks',
+    canonicalUrl: `https://divernotes.com/${lang}/blog/${slug}`,
   });
 }
 

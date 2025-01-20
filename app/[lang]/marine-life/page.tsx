@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: Props) {
     description: t.metadata.marineLife.description,
     keywords: t.metadata.marineLife.keywords.join(', '),
     openGraphImage: '/images/og-marine-life.png',
+    canonicalUrl: `https://divernotes.com/${lang}/marine-life`,
   });
 }
 

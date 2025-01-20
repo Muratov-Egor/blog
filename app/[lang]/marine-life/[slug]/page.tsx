@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: Props) {
     description: article.meta_title,
     openGraphImage: article.image,
     keywords: article.meta_keywords?.join(', ') || 'Underwater life',
+    canonicalUrl: `https://divernotes.com/${lang}/marine-life/${slug}`,
   });
 }
 

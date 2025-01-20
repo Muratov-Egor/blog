@@ -21,6 +21,7 @@ export async function generateMetadata({ params }: Props) {
     description: t.metadata.map.description,
     keywords: t.metadata.map.keywords.join(', '),
     openGraphImage: '/images/og-map.png',
+    canonicalUrl: `https://divernotes.com/${lang}/map`,
   });
 }
 
