@@ -23,7 +23,7 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
       href={`/${lang}/marine-life/${article.slug}`}
       className="block"
     >
-      <div className="bg-white  dark:bg-gray-800  rounded-lg shadow-md overflow-hidden h-full text-center">
+      <div className="bg-white  dark:bg-gray-800  rounded-lg shadow-md overflow-hidden h-full text-center  transition-transform duration-200 hover:translate-y-[-4px]">
         <div className="relative w-full pt-[66.67%]">
           {isLoading && (
             <div className="absolute inset-0 flex items-center justify-center bg-gray-100 dark:bg-gray-800">
