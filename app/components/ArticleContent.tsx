@@ -22,7 +22,7 @@ export default function ArticleContent({ title, date, content, image, lang }: Ar
       <div className="max-w-3xl mx-auto px-4 py-8">
         <div className="mb-8">
           <h1 className="text-4xl font-bold mb-4 text-center">{title}</h1>
-          <div className="flex items-center text-gray-600 mb-8 justify-center">
+          <div className="flex items-center text-gray-600 mb-8 justify-center dark:text-gray-300">
             <time dateTime={date}>
               {new Date(date).toLocaleDateString(lang, {
                 year: 'numeric',
@@ -32,11 +32,11 @@ export default function ArticleContent({ title, date, content, image, lang }: Ar
             </time>
           </div>
           {image && (
-            <div className="relative aspect-[16/9] mb-8">
+            <div className="relative aspect-[16/9] mb-8 bg-gray-100 dark:bg-gray-100 rounded-lg">
               <ArticleImage
                 src={image}
                 alt={title}
-                className="rounded-lg shadow-lg object-cover w-full cursor-pointer hover:opacity-90 transition-opacity"
+                className="rounded-lg shadow-lg object-cover w-full cursor-pointer hover:opacity-90 transition-opacity "
                 onClick={() => setSelectedImage({ src: image, alt: title })}
               />
             </div>
@@ -53,14 +53,14 @@ export default function ArticleContent({ title, date, content, image, lang }: Ar
                       src={src}
                       alt={alt}
                       title={title}
-                      className="rounded-lg shadow-lg w-full cursor-pointer hover:opacity-90 transition-opacity"
+                      className="rounded-lg shadow-lg w-full cursor-pointer hover:opacity-90 transition-opacity bg-white dark:bg-gray-100"
                       onClick={() => setSelectedImage({ src, alt })}
                     />
                   )
                 },
                 blockquote: {
                   props: {
-                    className: "border-l-4 border-blue-500 pl-4 my-4 italic bg-gray-50 p-4 rounded"
+                    className: "border-l-4 border-blue-500 pl-4 my-4 italic bg-gray-50 p-4 rounded bg-gray-100 dark:bg-gray-800"
                   }
                 },
                 YouTube: {

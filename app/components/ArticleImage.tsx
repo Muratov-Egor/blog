@@ -25,7 +25,7 @@ export default function ArticleImage({ src, alt, title, onClick, className = "" 
         />
       </div>
       {title && (
-        <figcaption className="text-center text-gray-600 mt-2">
+        <figcaption className="text-center text-gray-600 mt-2 dark:text-gray-300">
           {title}
         </figcaption>
       )}
