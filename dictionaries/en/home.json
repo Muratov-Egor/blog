@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Hi! 👋",
-    "subtitle": "I'm Egor — a certified PADI instructor and underwater photographer with {{dives}} open water dives. On my website, you'll find diving notes, detailed reviews of dive sites I've visited, and practical tips for divers of all levels. The unique database contains original photos and descriptions of marine creatures encountered during my dives."
+    "subtitle": "I'm Egor — a certified <a href='https://www.padi.com' target='_blank'>PADI</a> instructor and underwater photographer with {{dives}} open water dives. On my website, you'll find diving notes, detailed reviews of dive sites I've visited, and practical tips for divers of all levels. The unique database contains original photos and descriptions of marine creatures encountered during my dives."
   },
   "sections": {
     "blog": {

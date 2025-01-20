@@ -6,6 +6,7 @@ import { SiteType } from "@/types/diveSite";
 import SiteIcon from "@/app/components/SiteIcon";
 import Legend from "@/app/components/Legend";
 import Link from "next/link";
+import Schema from "@/app/components/Schema";
 type Props = {
   params: Promise<{ lang: Locale }>;
   searchParams: Promise<{ page?: string }>;
@@ -21,6 +22,7 @@ export async function generateMetadata({ params }: Props) {
     description: t.metadata.map.description,
     keywords: t.metadata.map.keywords.join(', '),
     openGraphImage: '/images/og-map.png',
+    canonicalUrl: `https://divernotes.com/${lang}/map`,
   });
 }
 
@@ -29,6 +31,15 @@ export default async function MapPage({ params, searchParams }: Props) {
   const t = await getDictionary(lang);
 
   return (
+    <>
+      <Schema 
+        type="WebSite"
+        name={t.metadata.map.title}
+        url={`https://divernotes.com/${lang}/map`}
+        description={t.metadata.map.description}
+        image="/images/og-map.png"
+      />
+
     <div className="container mx-auto px-4 py-8">
       <div className="flex flex-col items-center pb-2 mb-10 text-center">
         <h1 className="text-3xl font-bold mb-2">{t.map.title}</h1>
@@ -82,5 +93,6 @@ export default async function MapPage({ params, searchParams }: Props) {
         ))}
       </div>
     </div>
+    </>
   );
 }
