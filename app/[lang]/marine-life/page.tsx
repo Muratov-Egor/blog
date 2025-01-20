@@ -7,6 +7,7 @@ import { calculatePagination } from "@/app/utils/pagination";
 import MarineLifeCard from "@/app/components/MarineLifeCard";
 import { getDictionary } from "@/get-dictionary";
 import { generateMeta } from "@/app/components/Meta";
+import Schema from "@/app/components/Schema";
 
 type Props = {
   params: Promise<{ lang: Locale }>;
@@ -51,6 +52,14 @@ export default async function MarineLifePage({
   const limitedArticles = articles.slice(startIndex, endIndex);
 
   return (
+  <>
+    <Schema 
+      type="WebSite"
+      name={t.metadata.marineLife.title}
+      url={`https://divernotes.com/${lang}/marine-life`}
+      description={t.metadata.marineLife.description}
+      image="/images/og-marine-life.png"
+    />
     <div className="container mx-auto px-4 py-8 text-center">
       <div className="flex flex-col items-center border-b border-gray-200 pb-2 mb-10">
         <h1 className="text-3xl font-bold mb-2">{t.marineLife.title}</h1>
@@ -73,5 +82,6 @@ export default async function MarineLifePage({
         basePath="/marine-life"
       />
     </div>
+  </>
   );
 }

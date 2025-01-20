@@ -3,6 +3,7 @@ import { getBlogArticle } from "@/lib/blog";
 import ArticleContent from "@/app/components/ArticleContent";
 import ArticleNotFound from "@/app/components/ArticleNotFound";
 import { generateMeta } from "@/app/components/Meta";
+import Schema from "@/app/components/Schema";
 
 
 type Props = {
@@ -41,7 +42,14 @@ export default async function BlogArticlePage({
   }
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <>
+      <Schema 
+        type="Article"
+        name={article.title}
+        url={`https://divernotes.com/${lang}/blog/${slug}`}
+        description={article.meta_title}
+        image={article.image}
+      />
       <ArticleContent 
         title={article.title}
         date={article.date}
@@ -49,6 +57,6 @@ export default async function BlogArticlePage({
         content={article.content}
         lang={lang}
       />
-    </div>
+    </>
   );
 }

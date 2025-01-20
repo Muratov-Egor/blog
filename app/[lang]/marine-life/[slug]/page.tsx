@@ -3,6 +3,7 @@ import { getMarineLifeArticle } from "@/lib/marine-life";
 import ArticleContent from "@/app/components/ArticleContent";
 import ArticleNotFound from "@/app/components/ArticleNotFound";
 import { generateMeta } from "@/app/components/Meta";
+import Schema from "@/app/components/Schema";
 
 type Props = {
   params: Promise<{ lang: Locale; slug: string }>;
@@ -41,13 +42,22 @@ export default async function MarineLifeArticlePage({
   }
 
   return (
-    <ArticleContent 
-      title={article.title}
-      date={article.date}
-      image={article.image}
-      content={article.content}
-      lang={lang}
-    />
+    <>
+      <Schema 
+        type="Article"
+        name={article.title}
+        url={`https://divernotes.com/${lang}/marine-life/${slug}`}
+        description={article.meta_title}
+        image={article.image}
+      />
+      <ArticleContent 
+        title={article.title}
+        date={article.date}
+        image={article.image}
+        content={article.content}
+        lang={lang}
+      />
+    </>
   );
 }
   
