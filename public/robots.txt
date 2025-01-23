@@ -1,9 +1,4 @@
-# *
 User-agent: *
-Allow: /
-
-# Host
-Host: https://divernotes.com/
-
-# Sitemaps
-Sitemap: https://divernotes.com/sitemap.xml
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.diversnotes.com/sitemap.xml
