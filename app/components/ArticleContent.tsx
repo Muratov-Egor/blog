@@ -8,20 +8,22 @@ import { Locale } from '@/i18n-config';
 
 interface ArticleContentProps {
   title: string;
+  title_en?: string;
   date: string;
   content: string;
   image?: string;
   lang: Locale;
 }
 
-export default function ArticleContent({ title, date, content, image, lang }: ArticleContentProps) {
+export default function ArticleContent({ title, title_en, date, content, image, lang }: ArticleContentProps) {
   const [selectedImage, setSelectedImage] = useState<{ src: string; alt: string } | null>(null);
 
   return (
     <article className="blog-article">
       <div className="max-w-3xl mx-auto px-4 py-8">
         <div className="mb-8">
-          <h1 className="text-4xl font-bold mb-4 text-center">{title}</h1>
+          <h1 className="text-2xl sm:text-4xl font-bold mb-4 text-center">{title}</h1>
+          {title_en && <span className="block text-sm font-bold mb-4 text-center text-gray-600 dark:text-gray-300">{title_en}</span>}
           <div className="flex items-center text-gray-600 mb-8 justify-center dark:text-gray-300">
             <time dateTime={date}>
               {new Date(date).toLocaleDateString(lang, {

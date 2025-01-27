@@ -52,6 +52,7 @@ export default async function MarineLifeArticlePage({
       />
       <ArticleContent 
         title={article.title}
+        title_en={article.title_en}
         date={article.date}
         image={article.image}
         content={article.content}

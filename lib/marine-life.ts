@@ -51,6 +51,7 @@ export async function getMarineLifeArticle(locale: Locale, slug: string): Promis
     return {
       slug,
       title: data.title,
+      title_en: data.title_en,
       date: data.date,
       content,
       meta_title: data.meta_title,
