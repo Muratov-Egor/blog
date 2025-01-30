@@ -21,11 +21,23 @@ export default function ArticleContent({ title, title_en, description, date, con
 
   return (
     <article className="blog-article">
-      <div className="max-w-3xl mx-auto px-4 py-8">
+      <div className="max-w-3xl mx-auto px-4 pt-0 pb-8 md:pt-4 ">
         <div className="mb-8">
-          <h1 className="text-2xl sm:text-4xl font-bold mt-0 mb-4 text-center">{title}</h1>
-          {description && <span className="block text-sm font-bold mb-4 text-center text-gray-600 dark:text-gray-300">{description}</span>}
-          {title_en && <span className="block text-sm font-bold mb-4 text-center text-gray-600 dark:text-gray-300">{title_en}</span>}
+          <h1 className="text-2xl sm:text-3xl font-bold mt-0 mb-4 text-center">{title}</h1>
+          {title_en && <span
+			      className="block text-sm font-bold mb-4 text-center text-gray-600 dark:text-gray-300">{title_en}</span>}
+          {image && (
+            <div className="relative aspect-[16/9] mb-8 bg-gray-100 dark:bg-gray-100 rounded-lg">
+              <ArticleImage
+                src={image}
+                alt={title}
+                className="rounded-lg shadow-lg object-cover w-full cursor-pointer hover:opacity-90 transition-opacity "
+                onClick={() => setSelectedImage({src: image, alt: title})}
+              />
+            </div>
+          )}
+          {description && <span
+			      className="block text-sm font-bold mb-4 text-center text-gray-600 dark:text-gray-300">{description}</span>}
           <div className="flex items-center text-gray-600 mb-8 justify-center dark:text-gray-300">
             <time dateTime={date}>
               {new Date(date).toLocaleDateString(lang, {
@@ -35,16 +47,6 @@ export default function ArticleContent({ title, title_en, description, date, con
               })}
             </time>
           </div>
-          {image && (
-            <div className="relative aspect-[16/9] mb-8 bg-gray-100 dark:bg-gray-100 rounded-lg">
-              <ArticleImage
-                src={image}
-                alt={title}
-                className="rounded-lg shadow-lg object-cover w-full cursor-pointer hover:opacity-90 transition-opacity "
-                onClick={() => setSelectedImage({ src: image, alt: title })}
-              />
-            </div>
-          )}
         </div>
 
         <div className="prose prose-lg prose-slate max-w-none">
@@ -52,7 +54,7 @@ export default function ArticleContent({ title, title_en, description, date, con
             options={{
               overrides: {
                 img: {
-                  component: ({ alt, src, title }) => (
+                  component: ({alt, src, title}) => (
                     <ArticleImage
                       src={src}
                       alt={alt}
