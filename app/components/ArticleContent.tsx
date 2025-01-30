@@ -23,7 +23,7 @@ export default function ArticleContent({ title, title_en, description, date, con
     <article className="blog-article">
       <div className="max-w-3xl mx-auto px-4 py-8">
         <div className="mb-8">
-          <h1 className="text-2xl sm:text-4xl font-bold mb-4 text-center">{title}</h1>
+          <h1 className="text-2xl sm:text-4xl font-bold mt-0 mb-4 text-center">{title}</h1>
           {description && <span className="block text-sm font-bold mb-4 text-center text-gray-600 dark:text-gray-300">{description}</span>}
           {title_en && <span className="block text-sm font-bold mb-4 text-center text-gray-600 dark:text-gray-300">{title_en}</span>}
           <div className="flex items-center text-gray-600 mb-8 justify-center dark:text-gray-300">
