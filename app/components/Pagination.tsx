@@ -17,7 +17,7 @@ export function Pagination({ totalPages, currentPage, lang, basePath }: Paginati
         <Link
           key={pageNum}
           href={`/${lang}${basePath}${pageNum === 1 ? '' : `?page=${pageNum}`}`}
-          className={`px-4 py-2 rounded ${
+          className={`px-4 py-2 no-underline rounded ${
             currentPage === pageNum
               ? 'bg-blue-600 text-white'
               : 'bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600'
@@ -28,4 +28,4 @@ export function Pagination({ totalPages, currentPage, lang, basePath }: Paginati
       ))}
     </div>
   );
-} 
+}

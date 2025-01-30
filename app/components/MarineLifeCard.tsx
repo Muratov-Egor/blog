@@ -21,7 +21,7 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
   return (
     <Link
       href={`/${lang}/marine-life/${article.slug}`}
-      className="block"
+      className="block no-underline"
     >
       <div className="bg-white  dark:bg-gray-800  rounded-lg shadow-md overflow-hidden h-full text-center  transition-transform duration-200 hover:translate-y-[-4px]">
         <div className="relative w-full pt-[66.67%]">

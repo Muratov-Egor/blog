@@ -22,7 +22,7 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
   return (
     <Link
       href={`/${lang}/blog/${article.slug}`}
-      className={`group block ${isFeature ? 'md:col-span-2' : ''}`}
+      className={`group no-underline block ${isFeature ? 'md:col-span-2' : ''}`}
     >
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-transform duration-200 hover:translate-y-[-4px]">
         <div className={`relative ${isFeature ? 'h-96' : 'h-64'} w-full`}>

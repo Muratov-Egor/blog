@@ -1,6 +1,6 @@
 ---
 title: "Dry Suit: дайвинг в сухом костюме"
-title_meta: "Dry Suit: Особенности, обучение и первый опыт погружения в холодной воде"
+meta_title: "Dry Suit: Особенности, обучение и первый опыт погружения в холодной воде"
 description: "Особенности, обучение и первый опыт погружения в холодной воде"
 date: 2025-01-30
 image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater_i7oi0t.png"
