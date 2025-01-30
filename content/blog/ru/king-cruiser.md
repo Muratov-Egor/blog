@@ -1,7 +1,7 @@
 ---
 title: "Кинг Круизер"
 title_meta: "Кинг Круизер (King Cruiser)"
-description: "Кинг Круизер. Архипелаг Пхи-Пхи"
+description: "История возникновения дайв-сайта"
 date: 2024-06-21
 image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313025/King_Cruiser_Preview_vhlcgu.png"
 ---

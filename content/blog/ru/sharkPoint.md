@@ -1,7 +1,7 @@
 ---
 title: "Шарк Пойнт"
 title_meta: "Шарк Пойнт (Shark Point)"
-description: "Шарк Пойнт. Архипелаг Пхи-Пхи"
+description: "Дайв сайты архипелага Пхи-Пхи"
 date: 2024-06-11
 image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314223/Shark_Point_Preview_baekay.png"
 ---

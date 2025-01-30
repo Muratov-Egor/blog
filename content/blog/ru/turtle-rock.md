@@ -1,7 +1,7 @@
 ---
 title: "Черепашья Скала"
 title_meta: "Пхи-Пхи. Черепашья скала"
-description: "Черепашья Скала. Архипелаг Пхи-Пхи"
+description: "Дайв сайты архипелага Пхи-Пхи"
 date: 2024-05-17
 image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314385/Turtle_Rock_Preview_4123x2319_djkysl.png"
 ---

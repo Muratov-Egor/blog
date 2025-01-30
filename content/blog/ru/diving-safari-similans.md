@@ -1,7 +1,7 @@
 ---
-title: "Симиланские острова. Дайвинг-сафари"
-meta_title: "Дайвинг-сафари. Симиланские острова."
-description: "Симиланские острова"
+title: "Симиланские острова"
+meta_title: "Дайвинг-сафари по Симиланским островам."
+description: "Дайвинг-сафари по Симиланским островам"
 date: 2023-11-18
 image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737312241/Diving_Safari_Similans_Preview_bg8hcq.png"
 ---

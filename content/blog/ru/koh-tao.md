@@ -1,7 +1,7 @@
 ---
 title: "Остров Ко Тао"
 title_meta: "Ко Тао. Остров черепах. Дайверская мекка."
-description: "Ко Тао. Остров черепах или дайверская мекка."
+description: "Остров черепах или дайверская мекка."
 date: 2024-04-22
 image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313330/Koh_Tao_Preview_1366x768_rmi0lz.png"
 ---
