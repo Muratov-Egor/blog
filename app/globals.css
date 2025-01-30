@@ -37,9 +37,26 @@
   }
 
   /* Заголовки */
-  h1, h2, h3, h4 {
-    @apply font-bold text-gray-900 dark:text-white transition-colors duration-200;
+  h1 {
+    @apply text-3xl;
   }
+
+  h2 {
+    @apply text-2xl;
+  }
+
+  h3 {
+    @apply text-xl;
+  }
+
+  h4 {
+    @apply text-lg
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-bold text-gray-900 dark:text-white transition-colors duration-200 mb-6 mt-10;
+  }
+
 
   /* Текст */
   p, li {
@@ -48,7 +65,7 @@
 
   /* Ссылки */
   a {
-    @apply text-gray-700 dark:text-gray-300 hover:text-gray-600 dark:hover:text-gray-400 
+    @apply text-gray-700 dark:text-gray-300 hover:text-gray-600 dark:hover:text-gray-400
            transition-colors duration-200;
   }
 }

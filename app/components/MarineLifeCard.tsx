@@ -19,7 +19,7 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
   const [isLoading, setIsLoading] = useState(true);
 
   return (
-    <Link 
+    <Link
       href={`/${lang}/marine-life/${article.slug}`}
       className="block"
     >
@@ -63,7 +63,7 @@ export default function MarineLifeCard({ article, lang }: MarineLifeCardProps) {
           />
         </div>
         <div className="p-4">
-          <h2 className="text-xl font-semibold mb-2">{article.title}</h2>
+          <h2 className="text-xl font-semibold mb-2 mt-2">{article.title}</h2>
           {lang === 'ru' && article.title_en && (
             <p className="text-gray-600 italic">{article.title_en}</p>
           )}

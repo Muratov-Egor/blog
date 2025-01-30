@@ -20,7 +20,7 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
   const [isLoading, setIsLoading] = useState(true);
 
   return (
-    <Link 
+    <Link
       href={`/${lang}/blog/${article.slug}`}
       className={`group block ${isFeature ? 'md:col-span-2' : ''}`}
     >
@@ -43,7 +43,7 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
           />
         </div>
         <div className="p-6 h-[200px] flex flex-col text-center">
-          <h2 className={`font-semibold mb-3 group-hover:text-gray-600 dark:group-hover:text-gray-400 transition-colors duration-200 line-clamp-2 ${
+          <h2 className={`font-semibold mb-3 mt-3 group-hover:text-gray-600 dark:group-hover:text-gray-400 transition-colors duration-200 line-clamp-2 ${
             isFeature ? 'text-2xl' : 'text-xl'
           }`}>
             {article.title}
@@ -55,4 +55,4 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
       </div>
     </Link>
   );
-} 
+}

@@ -43,15 +43,16 @@ export default async function BlogArticlePage({
 
   return (
     <>
-      <Schema 
+      <Schema
         type="Article"
         name={article.title}
         url={`https://divernotes.com/${lang}/blog/${slug}`}
         description={article.meta_title}
         image={article.image}
       />
-      <ArticleContent 
+      <ArticleContent
         title={article.title}
+        description={article.description}
         date={article.date}
         image={article.image}
         content={article.content}
