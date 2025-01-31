@@ -2,9 +2,8 @@
 title: "Большеглазый окунь"
 meta_title: "Большеглазый окунь"
 title_en: "Humpnose big-eye bream"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729356036/humpnose-big-eye-bream_h266qb.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332225/Humpnose_Big_Eye_Bream_hqkvra.png"
 date: 2023-12-16
-tags: ["Симиланские острова"]
 ---
 
 Большеглазый окунь, или короткорылый пентапод (научное название Monotaxis grandoculis), широко распространен в Индо-Тихоокеанском регионе. Этот вид обитает у своего рифа на протяжении всей своей жизни и находится на глубинах до 100 метров. Чаще всего дайверы встречают индивидов этого летрина как поодиночке, так и группами до 50 особей на глубинах от 5 до 30 метров.

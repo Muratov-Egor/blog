@@ -2,9 +2,8 @@
 title: "Карась-барабан"
 meta_title: "Карась-барабан"
 title_en: "Zebra sea-bream"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729358378/zebra-sea-bream_k04xjs.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738335749/Zebra_Sea_Bream_wszzpi.png"
 date: 2023-12-16
-tags: ["Симиланские острова"]
 ---
 Карась-барабан, также известный как зубастый карась или зубастый сарг (научное название Diplodus cervinus), принадлежит к семейству спаровых и распространен в различных областях мирового океана. Вид можно классифицировать на три подвида в зависимости от их мест обитания, иногда рассматриваемых как отдельные виды:
 

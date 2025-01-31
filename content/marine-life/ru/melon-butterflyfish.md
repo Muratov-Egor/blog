@@ -2,9 +2,8 @@
 title: "Богряная рыба-бабочка"
 meta_title: "Богряная рыба-бабочка (Chaetodon trifasciatus). Melon butterflyfish"
 title_en: "Melon butterflyfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729356811/melon-butterflyfish_pkboyx.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332626/Melon_Butterflyfish_2634x1482_hgallk.png"
 date: 2024-05-27
-tags: ["Рача Яй", "Ко Бида Нок", "Ко Тао"]
 ---
 
 Трехполосый хетодон (Chaetodon trifasciatus) или богряная рыба-бабочка – это яркая и красочная рыба, обычно достигающая длины до 15 см. Она имеет сжатое с боков тело, что характерно для хетодонов. Тело в основном желтого цвета с серией вертикальных синих линий. У него есть три отчетливые черные полосы: одна проходит через глаз, другая сразу за головой и третья у основания хвоста. Спинной плавник сплошной и имеет такой же цветовой узор. Его поразительный внешний вид делает его легко узнаваемым среди рифовых рыб.
@@ -17,4 +16,4 @@ tags: ["Рача Яй", "Ко Бида Нок", "Ко Тао"]
 
 Они известны своей робкой и мирной натурой. Хотя они могут приближаться к дайверам из любопытства, они не представляют угрозы.
 
-![Melon butterflyfish](https://res.cloudinary.com/danezbcu5/image/upload/v1729356799/melon-butterflyfish-2_kqxgn5.png "Melon butterflyfish")
+![Melon butterflyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332626/Melon_Butterflyfish_2_sc6yd7.png "Melon butterflyfish")

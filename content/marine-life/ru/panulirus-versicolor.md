@@ -2,9 +2,8 @@
 title: "Лангуст синеполосый"
 meta_title: "Лангуст синеполосый"
 title_en: "Panulirus versicolor"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729356816/panulirus-versicolor_blhulc.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332781/Panulirus_Versicolor_zsp0en.png"
 date: 2024-03-16
-tags: ["Рача Яй", "Рача Ной", "Пхи Пхи", "Шарк Пойнт", "Симиланские острова"]
 ---
 Лангуст синеполосый - вид лангустов, обитающий в тропических рифах Индо-Тихоокеанского региона. Другие названия: расписной омар, обыкновенный скальный омар, бамбуковый омар, голубой омар и голубой лангуст.
 

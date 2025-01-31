@@ -2,9 +2,8 @@
 title: "Большеглазая рыба-солдат"
 meta_title: "Большеглазая рыба-солдат"
 title_en: "Blotcheye soldierfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355065/blotcheye-soldierfish_ce6n1g.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326225/Blotcheye_Soldierfish_hq8ct5.png"
 date: 2024-03-16
-tags: ["Рача Яй", "Рача Ной", "Ко Бида Нок", "Шарк Пойнт", "Симиланские острова"]
 ---
 
 Мурджан, также известный как большеглазая рыба-солдат (научное название Myripristis murdjan), представляет собой вид морских рыб из семейства голоцентровых, отряд Holocentriformes. Они обитают в тропических и субтропических водах Индийского и Тихого океанов.

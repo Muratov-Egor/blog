@@ -2,9 +2,8 @@
 title: "Красногрудый губан"
 title_en: "Red-breasted wrasse"
 meta_title: "Красногрудый губан. Хейлин красногрудый. Red-breasted wrasse. Cheilinus fasciatus"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357140/red-breasted-wrasse_vp7xiw.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332940/Red_Breasted_Wrasse_lc3ysz.png"
 date: 2024-04-30
-tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 ---
 
 Хейлин красногрудый или просто Красногрудый губан, встречается в различных районах, включая Индо-Тихоокеанский регион, Красное море, Восточную Африку, Микронезию, Самоа и Рюкю. Он предпочитает обитать в лагунах и коралловых рифах на глубинах от 4 до 60 метров, где можно найти разнообразную пищу - донных беспозвоночных, моллюсков, ракообразных и морских ежей.
@@ -15,4 +14,4 @@ tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 
 Красногрудый брасс является протогинным гермафродитом, начиная свою жизнь как самка и в определенных условиях превращаясь в самца. Он осуществляет нерест в специальных территориях, и самцы посещают эти места, чтобы проверить готовность самок к спариванию.
 
-![Red-breasted wrasse](https://res.cloudinary.com/danezbcu5/image/upload/v1734708138/red-breasted-wrasse-2_hobbkb.png "Red-breasted wrasse")
+![Red-breasted wrasse](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332952/Red_Breasted_Wrasse_2_lwnnjq.png "Red-breasted wrasse")

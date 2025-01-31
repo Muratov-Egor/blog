@@ -2,9 +2,8 @@
 title: "Терновый венец"
 title_en: "Crown-of-thorns starfish"
 meta_title: "Терновый венец. Crown-of-thorns starfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355542/crown-of-thorns-starfish_znhxdu.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330094/Crown_of_Thorns_Starfish_p7cwhz.png"
 date: 2024-06-15
-tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Phi-Phi"]
 ---
 
 Терновый венец (Acanthaster planci) является крупной морской звездой, достигающей в диаметре до 60 см. Она имеет множество длинных, заостренных рук, обычно от 12 до 19, покрытых ядовитыми шипами. Шипы покрывают как верхнюю, так и нижнюю поверхность рук и тела. Цвет варьируется от красного и фиолетового до зеленого и коричневого, что помогает этой морской звезде маскироваться среди кораллов.
@@ -13,10 +12,10 @@ tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Phi-Phi"]
 
 Терновый венец является кораллоедной морской звездой. Основным источником пищи для нее являются твердые кораллы, которые она переваривает внешне: выбрасывая свой желудок наружу, она выделяет ферменты, разлагающие коралловую ткань. Это может привести к значительному разрушению коралловых рифов, особенно в периоды вспышек численности.
 
-![Crown-of-thorns starfish](https://res.cloudinary.com/danezbcu5/image/upload/v1734707488/crown-of-thorns-starfish-3_ouy2pz.png "Crown-of-thorns starfish")
+![Crown-of-thorns starfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330088/Crown_of_Thorns_Starfish_3_wpfin1.png "Crown-of-thorns starfish")
 
 Размножение у тернового венца происходит через икрометание. Самки могут производить до 60 миллионов икринок за один нерест. Икра и сперма выбрасываются в воду, где происходит внешнее оплодотворение. Личинки развиваются в планктоне и после нескольких недель оседают на дно, превращаясь в молодую морскую звезду.
 
 Терновый венец представляет опасность для дайверов из-за своих ядовитых шипов. Прикосновение к шипам может вызвать сильную боль, отек, тошноту и даже паралич. Раны от шипов могут заживать очень долго и быть подвержены инфекции.
 
-![Crown-of-thorns starfish](https://res.cloudinary.com/danezbcu5/image/upload/v1729355538/crown-of-thorns-starfish-2_pqorw8.png "Crown-of-thorns starfish")
+![Crown-of-thorns starfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330097/Crown_of_Thorns_Starfish_1_o7cvqx.png "Crown-of-thorns starfish")

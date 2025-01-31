@@ -2,9 +2,8 @@
 title: "Ёлочный червь"
 title_en: "Christmas tree worm"
 meta_title: "Ёлочный червь. Christmas tree worm. Spirobranchus giganteus"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1734707241/christmas-tree-worm-1_uzzjcs.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327693/Christmas_Tree_Worm_y0y6rr.png"
 date: 2024-04-30
-tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 ---
 
 "Новогодняя елка" (Spirobranchus giganteus) или Ёлочный червь— вид многощетинковых червей из семейства Serpulidae. Широко распространены в тропических морях Мирового океана. Ведут сидячий образ жизни в тесной ассоциации с мадрепоровыми кораллами, строя в углублениях на поверхности их колоний известковые трубки.
@@ -13,7 +12,7 @@ tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 
 Многощетинковый червь живет в известковой трубке, которую строит самостоятельно, добывая из воды ионы кальция и скрепляя их слюной. С каждым разом эта трубка пополняется новыми кольцами и увеличивается в размерах.
 
-![Christmas tree worm](https://res.cloudinary.com/danezbcu5/image/upload/v1734707244/christmas-tree-worm-2_yajlyx.png "Christmas tree worm")
+![Christmas tree worm](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327692/Christmas_Tree_Worm_2_ux7mgk.png "Christmas tree worm")
 
 Чаще всего рождественские елочные черви населяют крупные виды кораллов, такие как каменистые кораллы, например, пориты, и мозговые кораллы. Когда рождественский елочный червь уходит в трубку, он может запечатать ее, закрывшись с помощью люка, похожего на крышку, называемого оперкулумом, который дополнительно защищен острыми шипами. Очень чувствительные к опасности, при малейшем прикосновении или даже падении тени быстро отступают в свои норки.
 
@@ -21,4 +20,4 @@ tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 
 Живут Spirobranchus giganteus по-разному, все зависит от вида: более мелкие черви - несколько месяцев, а виды покрупнее – до 4-8 лет.
 
-![Christmas tree worm](https://res.cloudinary.com/danezbcu5/image/upload/v1734707239/christmas-tree-worm-3_lo4pkk.png "Christmas tree worm")
+![Christmas tree worm](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327695/Christmas_Tree_Worm_3_a7e7ix.png "Christmas tree worm")

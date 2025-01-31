@@ -2,16 +2,15 @@
 title: "Мозаичная медуза"
 title_en: "Mosaic jellyfish"
 meta_title: "Мозаичная медуза (Catostylus mosaicus) Mosaic jellyfish. Blubber jellyfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729533880/blubber-jellyfish_spsrrg.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332700/Blubber_Jellyfish_h6mfnd.png"
 date: 2024-10-21
-tags: ["Racha Yai"]
 ---
 
 Мозаичная медуза имеет куполообразное тело диаметром до 35 см. Её окраска варьируется от беловато-голубого до кремового оттенка, с узором, напоминающим мозаику или клеточный рисунок на куполе. Щупальца у неё короткие и бахромчатые, создающие веерообразный вид под зонтиком.
 
 Обитает в тёплых водах Индо-Тихоокеанского региона, особенно у берегов Австралии, Японии и Индии. Она населяет мелководные лагуны и внешние склоны коралловых рифов на глубинах от 2 до 55 метров.
 
-![Mosaic jellyfish](https://res.cloudinary.com/danezbcu5/image/upload/v1729533861/blubber-jellyfish-3_olz37y.png "Mosaic jellyfish")
+![Mosaic jellyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332703/Blubber_Jellyfish_2400x1350_ina0fx.png "Mosaic jellyfish")
 
 Питается планктоном, мелкими рыбами и ракообразными. Мозаичная медуза фильтрует воду своими щупальцами, захватывая пищу.
 
@@ -19,4 +18,4 @@ tags: ["Racha Yai"]
 
 Мозаичные медузы считаются важной частью экосистемы коралловых рифов, так как участвуют в питании и движении питательных веществ.
 
-![Mosaic jellyfish](https://res.cloudinary.com/danezbcu5/image/upload/v1729533887/blubber-jellyfish-2_m2imgu.png "Mosaic jellyfish")
+![Mosaic jellyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332703/Blubber_Jellyfish_3_cc5e6w.png "Mosaic jellyfish")

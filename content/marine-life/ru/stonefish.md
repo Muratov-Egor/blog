@@ -2,9 +2,8 @@
 title: "Рыба-камень"
 meta_title: "Рыба-камень"
 title_en: "Stonefish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357614/stonefish_ism9wd.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334683/Stonefish_1366x768_ju9bmb.png"
 date: 2024-01-08
-tags: ["Рача Яй", "Рача Ной", "Пхи Пхи", "Шарк Пойнт"]
 ---
 
 Рыба-камень или Бородавчатка, — морская хищная рыба семейства скорпеновых с ядовитыми шипами на спине, которая обитает на дне возле коралловых рифов и мимикрирует под камень. Считается одной из самых ядовитых рыб в мире.

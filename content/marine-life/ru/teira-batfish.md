@@ -2,9 +2,8 @@
 title: "Платакс"
 title_en: "Platax teira (Teira batfish)"
 meta_title: "Платакс. Teira batfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729358200/teira-batfish_awvbgk.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334739/Teira_Batfish_mbtnhe.png"
 date: 2024-07-10
-tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 ---
 
 Рыбы рода Platax относятся к семейству Эфипповые (Ephippidae) из отряда Окунеобразные (Perciformes). В этот род входят пять видов морских рыб, обитающих преимущественно в тропических водах Атлантического, Индийского и Тихого океанов.  Ареал их обитания простирается от побережья Африки (включая Красное море и Мадагаскар) до атлантического побережья Северной Америки в районе Флориды и Тихого океана, вплоть до юга Японии. Наибольшее разнообразие и численность платаксов наблюдается в Индо-Вест Пацифике, у берегов Индонезии, Филиппин, Новой Гвинеи и Австралии.
@@ -15,7 +14,7 @@ tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 
 С возрастом платаксы меняют форму и окраску. У молодых рыб вытянутые спинные и анальные плавники, тело окрашено в жёлтые или оранжевые тона с тремя чёрными полосами. По мере взросления плавники укорачиваются, полосы размываются, а тело приобретает серебристый цвет с вертикальными полосами на передней части.
 
-![Teira batfish](https://res.cloudinary.com/danezbcu5/image/upload/v1729358197/teira-batfish-2_il7q2e.png "Teira batfish")
+![Teira batfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334740/Teira_Batfish_2_mjazgx.png "Teira batfish")
 
 Платаксы не представляют опасности для дайверов и часто проявляют к ним любопытство. Они легко подпускают к себе людей, что делает их популярными объектами наблюдений под водой.
 

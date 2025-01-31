@@ -2,9 +2,8 @@
 title: "Линкия. Голубая морская звезда"
 title_en: "Blue sea star"
 meta_title: "Blue sea star"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729359036/blue-sea-star_aijx7f.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326307/Blue_Sea_Star_ced6cn.png"
 date: 2024-06-15
-tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands", "Phi-Phi"]
 ---
 
 Голубая морская звезда (Linckia laevigata) или Линкия отличается яркой голубой окраской, которая может варьироваться от светло-голубого до темно-синего оттенка. Иногда встречаются особи с зеленоватым или фиолетовым оттенком. У нее обычно пять лучей (рук), которые могут достигать длины до 30 см, хотя встречаются и особи с большим количеством лучей. Поверхность тела гладкая, с мелкими бугорками и часто покрыта маленькими шипиками.
@@ -17,4 +16,4 @@ tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands", "Phi-Phi"]
 
 Она не ядовита и не агрессивна. Эти морские звезды обычно медлительные и не причиняют вреда человеку. Однако дайверам рекомендуется не трогать морских звезд и других морских обитателей, чтобы избежать стресса для животных и потенциального повреждения их деликатной кожи.
 
-![Blue sea star](https://res.cloudinary.com/danezbcu5/image/upload/v1729359038/blue-sea-star-2_h8leae.png "Blue sea star")
+![Blue sea star](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326308/Blue_Sea_Star_2_bygmml.png "Blue sea star")

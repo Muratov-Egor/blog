@@ -2,9 +2,8 @@
 title: "Черноглазый толстогубый губан"
 meta_title: "Черноглазый толстогубый губан. Blackeye thicklip wrasse. Half-and-half wrasse. Hemigymnus melapterus"
 title_en: "Blackeye thicklip wrasse"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355044/blackeye-thicklip-wrasse_gowdz1.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738325761/Blackeye_Thicklip_Wrasse_djvi2m.png"
 date: 2024-04-30
-tags: ["Рача Яй", "Ко Бида Нок", "Ко Тао"]
 ---
 
 Черноглазый толстогубый губан (Hemigymnus melapterus), относится к семейству губанов и происходит из Индо-Тихоокеанаcкого региона.

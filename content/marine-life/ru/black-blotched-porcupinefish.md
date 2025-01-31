@@ -2,9 +2,8 @@
 title: "Короткошипая рыба ёж"
 meta_title: "Короткошипая рыба ёж"
 title_en: "Black blotched porcupinefish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355011/black-blotched-porcupinefish_vtu7be.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738325559/Black_Blotched_Porcupinefish_sgfh4k.png"
 date: 2023-07-01
-tags: ["Рача Яй", "Ко Бида Нок", "Шарк Поинт"]
 ---
 
 Короткошипая рыба ёж широко распространена в Индо-Тихоокеанском регионе. Обитает в реках и склонах рифов. В течение дня предпочитает прятаться, выходя на охоту лишь ночью. Её можно встретить на глубине до 40 метров, а молодь предпочитает обитать в лагунах и эстуариях.

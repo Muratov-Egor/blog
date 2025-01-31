@@ -2,12 +2,11 @@
 title: "Морской огурец Ламберта"
 meta_title: "Морской огурец Ламберта"
 title_en: "Lambert's Worm Sea Cucumbers"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729356317/lamberts-worm-sea-cucumbers_mqwwjz.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332334/Lamberts_Worm_Sea_Cucumbers_lidcup.png"
 date: 2024-04-19
-tags: ["Ко Тао"]
 ---
 Synaptula lamperti, или Морской огурец Ламберта, является небольшим белым видом морских огурцов. Он предпочитает обитать в группах на морском дне, часто в соседстве с губками. Эти морские огурцы имеют форму корнишона с короткими щупальцами на одном конце и питаются, фильтруя органические частицы с поверхности губки. Вид Synaptula lamperti обитает на коралловых рифах в Индо-Тихоокеанском регионе.
 
 Морские огурцы относятся к группе иглокожих, в которую также входят морские ежи и морские звезды. Они обладают радиальной симметрией и водной сосудистой системой, которая работает за счёт гидростатического давления. Это позволяет им передвигаться с помощью присосок, известных как трубчатые ноги.
 
-![Crown-of-thorns starfish](https://res.cloudinary.com/danezbcu5/image/upload/v1734707647/lamberts-worm-sea-cucumbers-1_zxzzo4.png "Crown-of-thorns starfish")
+![Lambert's Worm Sea Cucumbers](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332338/Lamberts_Worm_Sea_Cucumbers_1_dohfxj.png "Lambert's Worm Sea Cucumbers")

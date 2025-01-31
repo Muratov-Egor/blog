@@ -4,7 +4,6 @@ title_en: "Bluering angelfish"
 meta_title: "Ангел-анулярис. Bluering angelfish. Pomacanthus annularis. Аnnularis angelfish. King angelfish"
 image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355087/blue_ring_angelfish_ll4opm.png"
 date: 2024-04-30
-tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands"]
 ---
 
 Ангел-анулярис (Pomacanthus annularis), также известный как синий король-ангел, получил свое название благодаря характерному синему кольцу около головы.

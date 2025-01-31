@@ -2,9 +2,8 @@
 title: "Мурена черноточечная"
 meta_title: "Мурена черноточечная"
 title_en: "Fimbriated Moray"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355835/fimbriated-moray_fr4li9.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330161/Fimbriated_Moray_yw7pmm.png"
 date: 2024-01-17
-tags: ["Рача Яй", "Ко Бида Нок"]
 ---
 
 Фимбрированная мурена (Gymnothorax fimbriatus), также известная как Мурена черноточечная.

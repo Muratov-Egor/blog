@@ -2,9 +2,8 @@
 title: "Мозаичный аротрон"
 title_en: "Map pufferfish"
 meta_title: "Мозаичный аротрон (Arothron mappa) Map pufferfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729533367/map-pufferfish_mf3soy.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332530/Map_Pufferfish_idt0bd.png"
 date: 2024-10-21
-tags: ["Racha Yai", "Phi-Phi"]
 ---
 
 Мозаичный аротрон имеет крупное тело с характерным узором, напоминающим лабиринт или мозаику, откуда и происходит его название. Цвет тела варьируется от зелёного до серо-коричневого, а светлые линии, образующие узор, покрывают всю поверхность тела. Голова массивная с типичным ртом, который приспособлен для пережёвывания твёрдых объектов, таких как кораллы и раковины моллюсков.

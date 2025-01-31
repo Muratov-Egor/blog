@@ -2,9 +2,8 @@
 title: "Cинепятнистая флейта"
 title_en: "Bluespotted сornetfish"
 meta_title: "Cинепятнистая флейта. Bluespotted сornetfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355219/bluespotted-%D1%81ornetfish_qqjfle.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327558/Bluespotted_Cornetfish_h8cpwr.png"
 date: 2024-05-27
-tags: ["Рача Яй", "Ко Бида Нок", "Шарк Поинт"]
 ---
 
 Синепятнистая флейта (Fistularia commersonii) также известна, как свистулька или рыба-игла - это своеобразная, вытянутая рыба, обитающая в тропических и субтропических коралловых рифах. Она населяет коралловые рифы, заросли морской травы и прибрежные лагуны. Обычно встречается в Индо-Тихоокеанском регионе, начиная с Красного моря и Восточной Африки до Гавайев и от Японии до Нового Южного Уэльса.
@@ -15,6 +14,6 @@ tags: ["Рача Яй", "Ко Бида Нок", "Шарк Поинт"]
 
 Флейты - хищники и питаются в основном мелкими рыбами и ракообразными. Они используют свои вытянутые рылки для быстрого всасывания добычи.
 
-![Bluespotted сornetfish](https://res.cloudinary.com/danezbcu5/image/upload/v1729355237/bluespotted-%D1%81ornetfish-2_rqialp.png "Bluespotted сornetfish")
+![Bluespotted сornetfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327565/Bluespotted_Cornetfish_4783x2690_haibtl.png "Bluespotted сornetfish")
 
 Синепятнистая флейта обычно не представляет опасности для дайверов. Они пугливы и склонны избегать контакта с людьми. Тем не менее, как и все морские обитатели, их следует наблюдать на расстоянии, чтобы избежать стресса у животного или непреднамеренной реакции.

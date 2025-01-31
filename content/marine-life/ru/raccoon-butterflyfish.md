@@ -2,9 +2,8 @@
 title: "Бабочка-енот"
 meta_title: "Бабочка-енот"
 title_en: "Raccoon butterflyfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729357119/raccoon-butterflyfish_gmrzey.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332891/Raccoon_Butterflyfish_mxrwh7.png"
 date: 2023-12-16
-tags: ["Рача Яй", "Пхи Пхи", "Симиланские острова"]
 ---
 
 Бабочка-енот, также известная как лунула (Chaetodon lunula), представляет собой вид рыбы из семейства Рыбы-бабочки (Chaetodontidae), обладающий характерной и запоминающейся окраской. Она обитает в теплых водах Тихого и Индийского океанов. Название этого вида связано с уникальным черным полосатым узором вокруг глаз, напоминающим маску енота.

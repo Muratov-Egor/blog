@@ -2,9 +2,8 @@
 title: "Тёмный скар"
 meta_title: "Тёмный скар. Смуглая рыба-попугай. Scarus niger. Warthy parrotfish. Dusky parrotfish. Black parrotfish"
 title_en: "Scarus niger"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1732812926/dusky-parrotfish_krfzgx.png"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333213/Dusky_Parrotfish_ez51oy.png"
 date: "2024-12-20"
-tags: ["Рача Яй", "Симиланские острова", "Ко Тао"]
 ---
 
 Тёмный скар, или Смуглая рыба-попугай (Scarus niger), — это вид морских рыб из семейства попугаевых.
@@ -15,7 +14,7 @@ tags: ["Рача Яй", "Симиланские острова", "Ко Тао"]
 
 Тёмный скар имеет продолговатое тело, покрытое крупной чешуей. Окраска варьируется в зависимости от возраста и пола, но часто включает оттенки синего, зелёного, фиолетового и чёрного. Молодые особи окрашены более тускло, а взрослые самцы обладают яркими цветами.
 
-![Dusky parrotfish](https://res.cloudinary.com/danezbcu5/image/upload/v1732812923/dusky-parrotfish-2_fssdvd.png "Dusky parrotfish")
+![Dusky parrotfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333209/Dusky_Parrotfish_2400x1349_vioyrh.png "Dusky parrotfish")
 
 В спинном плавнике насчитывается 9 колючих и 10 мягких лучей, а в анальном плавнике — 3 колючих и 9 мягких лучей.
 
