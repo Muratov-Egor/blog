@@ -38,8 +38,8 @@ export function SearchResults({ results, lang, onResultClick, isOpen }: SearchRe
                   <Image
                     src={result.image}
                     alt={result.title}
-                    width={60}
-                    height={60}
+                    width={100}
+                    height={100}
                     className="rounded-lg object-cover"
                   />
                 ) : (
@@ -49,7 +49,7 @@ export function SearchResults({ results, lang, onResultClick, isOpen }: SearchRe
 
               {/* Контент */}
               <div className="flex-grow min-w-0">
-                <h3 className="text-sm font-medium text-gray-900 dark:text-gray-100 truncate">
+                <h3 className="text-sm font-medium m-0 text-gray-900 dark:text-gray-100 truncate">
                   {result.title}
                 </h3>
                 <p className="text-xs text-blue-600 dark:text-blue-400 mt-1">

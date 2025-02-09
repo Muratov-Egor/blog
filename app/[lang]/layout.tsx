@@ -4,6 +4,7 @@ import '@/app/globals.css';
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export async function generateStaticParams() {
   return i18n.locales.map((locale) => ({ lang: locale }));
@@ -33,6 +34,7 @@ export default async function RootLayout({
           <div className="flex flex-col min-h-screen">
             <Header lang={lang} />
             <main className="flex-1">
+              <SpeedInsights/>
               {children}
               <Analytics />
             </main>
