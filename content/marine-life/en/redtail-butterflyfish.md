@@ -1,7 +1,6 @@
 ---
 title: "Redtail butterflyfish"
 meta_title: "Redtail butterflyfish"
-title_en: "Redtail butterflyfish"
 image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729532733/redtail-butterflyfish_og4qds.png"
 date: 2024-10-21
 tags: ["Racha Yai", "Racha Noi", "Shark Point", "Similan Islands"]

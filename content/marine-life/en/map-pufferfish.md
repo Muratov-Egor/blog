@@ -1,6 +1,5 @@
 ---
 title: "Map pufferfish"
-title_en: "Map pufferfish"
 meta_title: "Map pufferfish (Arothron mappa)"
 image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729533367/map-pufferfish_mf3soy.png"
 date: 2024-10-21
