@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from 'react';
+import { modifyCloudinaryUrl } from '../utils/resizeUrl';
 
 interface ArticleImageProps {
   src: string;
@@ -12,16 +13,28 @@ interface ArticleImageProps {
 
 export default function ArticleImage({ src, alt, title, onClick, className = "" }: ArticleImageProps) {
   const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(false);
+  const [imageSrc, setImageSrc] = useState(modifyCloudinaryUrl({url: src}));
+
+  const handleImageError = () => {
+    setError(true);
+    setTimeout(() => {
+      setImageSrc(modifyCloudinaryUrl({url: src}));
+      setError(false);
+    }, 2000);
+  };
 
   return (
     <figure className="my-8">
-      <div className={`relative ${isLoading ? 'bg-gray-200 animate-pulse' : ''}`}>
+      <div className={`relative ${isLoading ? 'bg-gray-200 animate-pulse' : ''}`} style={{ minHeight: '200px' }}>
         <img
-          src={src}
+          src={imageSrc}
           alt={alt}
           className={`${className} ${isLoading ? 'opacity-0' : 'opacity-100'} transition-opacity duration-300`}
           onClick={onClick}
           onLoad={() => setIsLoading(false)}
+          onError={handleImageError}
+          loading='lazy'
         />
       </div>
       {title && (
