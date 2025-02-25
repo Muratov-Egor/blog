@@ -261,6 +261,12 @@ export const DIVE_SITES: DiveSite[] = [
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=10.1245525,99.810766"
         },
         { 
+          name: "Red rock", 
+          type: "pinnacle",
+          coordinates: { lat: 10.12376, lng: 99.811547 },
+          googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=10.12376,99.81547"
+        },
+        { 
           name: "Hin Pee Wee", 
           type: "reef",
           coordinates: { lat: 10.1094938, lng: 99.8167313 },
