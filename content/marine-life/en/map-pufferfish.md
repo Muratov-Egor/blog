@@ -10,6 +10,10 @@ The map pufferfish has a large body with a distinctive maze-like pattern that re
 
 It is found in tropical waters of the Indo-Pacific region, including the waters of Thailand, Indonesia, and the Philippines. These fish prefer coral reefs and sandy lagoons at depths of up to 30 meters.
 
+![Map pufferfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742048144/Map_pufferfish__vf7cw0.png "Map pufferfish")
+
 The map pufferfish feeds on hard-shelled invertebrates like mollusks, crabs, and sea urchins. They use their powerful jaws to crack open shells and coral.
 
 Like many pufferfish, the map pufferfish can be dangerous to humans due to the presence of tetrodotoxin in its tissues. This toxin is deadly if consumed, so it should be avoided. However, they are not aggressive and pose no threat when encountered underwater.
+
+![Map pufferfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742048142/Map_pufferfish_2_jb5faz.png "Map pufferfish")
