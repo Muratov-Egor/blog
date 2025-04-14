@@ -5,7 +5,6 @@ import Logo from './Logo';
 import NavBar from './NavBar';
 import SearchBar from './SearchBar';
 {/* todo Wait for en */}
-import LanguageSwitcher from './LanguageSwitcher';
 import ThemeSwitcher from './ThemeSwitcher';
 import MobileMenu from './MobileMenu';
 
@@ -29,8 +28,6 @@ export default async function Header({ lang }: { lang: Locale }) {
         <NavBar nav={t.header.nav} lang={lang} />
         <SearchBar placeholder={t.header.searchPlaceholder} />
         <ThemeSwitcher />
-        {/* todo Wait for en */}
-        {/* <LanguageSwitcher initialLang={lang} /> */}
       </div>
     </header>
   );

@@ -4,7 +4,6 @@ import React, { useState, useRef } from 'react';
 import { Locale } from "@/i18n-config";
 import NavBar from './NavBar';
 import ThemeSwitcher from './ThemeSwitcher';
-import LanguageSwitcher from './LanguageSwitcher';
 import { useClickOutside } from '@/hooks/useClickOutside';
 
 const MobileMenu = ({ nav, lang }: { nav: any; lang: Locale }) => {
@@ -31,7 +30,6 @@ const MobileMenu = ({ nav, lang }: { nav: any; lang: Locale }) => {
             <NavBar nav={nav} lang={lang} />
             <div className="border-t border-gray-200 dark:border-gray-700 my-2" />
             <ThemeSwitcher />
-            {/* <LanguageSwitcher initialLang={lang} /> */}
           </div>
         </div>
       )}
@@ -39,4 +37,4 @@ const MobileMenu = ({ nav, lang }: { nav: any; lang: Locale }) => {
   );
 };
 
-export default MobileMenu; 
+export default MobileMenu;
