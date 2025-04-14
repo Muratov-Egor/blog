@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Host: https://divernotes.com/
-Sitemap: https://divernotes.com/sitemap.xml
+Host: https://www.diversnotes.com
+Sitemap: https://www.diversnotes.com/sitemap.xml
