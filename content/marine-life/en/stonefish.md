@@ -1,0 +1,18 @@
+---
+title: "Stonefish"
+meta_title: "Stonefish"
+image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334683/Stonefish_1366x768_ju9bmb.png"
+date: 2024-01-08
+---
+
+The **Stonefish**, also known by the Russian name Borodavchatka, is a marine predatory fish from the scorpionfish family (Scorpaenidae) with venomous spines on its back, which inhabits the seabed near coral reefs and mimics a stone. It is considered one of the most venomous fish in the world.
+
+The maximum body length is 40 cm, typically around 30 cm. Coloration varies from mottled greenish to brown, which helps it hide among the rocks of tropical reefs. Its large head with small eyes and an upward-pointing mouth is covered with ridges and bumps. The pectoral fins have a very broad, oblique base; the 12–14 thick spines of the dorsal fin, like those of other species in this genus (*Synanceia*), are equipped with the most potent venom glands among fish. The fish feeds mainly on small fish, shrimp, and other crustaceans.
+
+The Stonefish is distributed mainly around the southern tropic and is found in the shallow waters of the Pacific and Indian Oceans, from the Red Sea to the Great Barrier Reef off Queensland, Australia, as well as in the waters of Indonesia, the Philippines, the Marshall Islands, Fiji, and Samoa. It is the most widespread species of the family [Note: Likely refers to *Synanceia verrucosa*, but the text is general about stonefish].
+
+The Stonefish is a very sedentary fish. It stays in shallow areas near shores, among coral reefs or lava formations. It usually lies hidden in a crevice between rocks or buried in mud or sand. Only the upper part of the head and back protrude from the substrate; debris similar to its surroundings often adheres to them. It is almost impossible to spot, even on land where it can become exposed during low tides.
+
+The spines of the dorsal fin release a toxin. It is the most dangerous known venomous fish, and its venom causes extreme pain with possible shock, paralysis, and tissue necrosis, depending on the depth of penetration. At the slightest irritation, the stonefish raises its dorsal fin spines; sharp and strong, they easily pierce the footwear of a person accidentally stepping on the fish and penetrate deep into the foot. With deep penetration, the sting can be fatal to humans if medical assistance is not provided within a few hours. In case of envenomation, depending on the depth of penetration, apply a firm pressure bandage or a tourniquet placed between the wound and the nearest major joint [Note: Tourniquet use is often debated/discouraged in modern first aid for marine stings; pressure immobilization and hot water immersion are preferred]. If a spine penetrates a major blood vessel, death can occur within 2–3 hours. Survivors sometimes suffer ill effects for months.
+
+The venom consists of a mixture of proteins, including the hemolytic stonustoxin, the neurotoxin verrucotoxin, and the cardioactive cardioleputin. Since the venom is protein-based, it can be denatured by applying a very hot compress (hot water immersion) to the wound site. Some relief can be obtained by treating the wound with a local anesthetic, but this is only a temporary measure to reduce pain and shock. Medical help should be sought as soon as possible. Typically, surviving victims suffer local nerve damage, sometimes leading to atrophy of the affected muscle tissues.
