@@ -1,932 +1,639 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-  <url>
-    <loc>https://www.diversnotes.com/en</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>1.00</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://www.diversnotes.com/en/blog</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/map</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.80</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/map"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/map"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/drysuit</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/drysuit"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/drysuit"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/king-cruiser</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/king-cruiser"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/king-cruiser"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/sharkPoint</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/sharkPoint"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/sharkPoint"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/turtle-rock</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/turtle-rock"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/turtle-rock"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/koh-tao</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/koh-tao"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/koh-tao"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog?page=2</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog?page=2"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog?page=2"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog?page=3</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog?page=3"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog?page=3"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/green-chromis</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/green-chromis"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/green-chromis"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/phyllidia-coelestis</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/phyllidia-coelestis"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/phyllidia-coelestis"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/siganus-javus</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/siganus-javus"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/siganus-javus"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/singjaw-wrasse</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/singjaw-wrasse"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/singjaw-wrasse"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/singular-bannerfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/singular-bannerfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/singular-bannerfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/three-spot-dascullus</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/three-spot-dascullus"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/three-spot-dascullus"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/yellowtail-coris-wrasse</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/yellowtail-coris-wrasse"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/yellowtail-coris-wrasse"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/blue-barred-parrotfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/blue-barred-parrotfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/blue-barred-parrotfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/coriocella-hibyae</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/coriocella-hibyae"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/coriocella-hibyae"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life?page=2</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life?page=2"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life?page=2"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life?page=3</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life?page=3"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life?page=3"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life?page=4</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life?page=4"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life?page=4"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life?page=5</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life?page=5"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life?page=5"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life?page=6</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life?page=6"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life?page=6"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life?page=7</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life?page=7"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life?page=7"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life?page=8</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.64</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/diving-associations</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/en/blog/racha-noi</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/en/blog/diving-safari-similans</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.51</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/en/blog/deep-diving</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life?page=8"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life?page=8"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/diving-associations</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/diving-associations"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/diving-associations"></xhtml:link>
+  </url>
+  <url>
+    <loc>https://www.diversnotes.com/en/blog/racha-noi</loc>
+    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
+    <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/racha-noi"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/racha-noi"></xhtml:link>
+  </url>
+  <url>
+    <loc>https://www.diversnotes.com/en/blog/diving-safari-similans</loc>
+    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
+    <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/diving-safari-similans"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/diving-safari-similans"></xhtml:link>
+  </url>
+  <url>
+    <loc>https://www.diversnotes.com/en/blog/deep-diving</loc>
+    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
+    <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/deep-diving"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/deep-diving"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/koh-bida-nok</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/koh-bida-nok"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/koh-bida-nok"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/atmospheric-pressure</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/atmospheric-pressure"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/atmospheric-pressure"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/briefing</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/briefing"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/briefing"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/racha-yai</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/racha-yai"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/racha-yai"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/blog/first-post</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/blog/first-post"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/blog/first-post"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/live-sharksucker</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/live-sharksucker"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/live-sharksucker"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/marbled-sea-cucumber</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/marbled-sea-cucumber"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/marbled-sea-cucumber"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/phyllidia-varicosa</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/phyllidia-varicosa"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/phyllidia-varicosa"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/pineapple-sea-cucumber</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/pineapple-sea-cucumber"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/pineapple-sea-cucumber"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/longfin-grouper</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/longfin-grouper"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/longfin-grouper"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/map-pufferfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/map-pufferfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/map-pufferfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/mosaic-jellyfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/mosaic-jellyfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/mosaic-jellyfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/red-lionfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/red-lionfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/red-lionfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/redtail-butterflyfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/redtail-butterflyfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/redtail-butterflyfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/sea-krait</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/sea-krait"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/sea-krait"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/sea-urchin</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/sea-urchin"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/sea-urchin"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/snowflake-moray</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/snowflake-moray"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/snowflake-moray"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/speckled-sandperch</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/speckled-sandperch"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/speckled-sandperch"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/spotted-boxfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/spotted-boxfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/spotted-boxfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/teira-batfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/teira-batfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/teira-batfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/bigeye-snapper</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/bigeye-snapper"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/bigeye-snapper"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/blue-sea-star</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/blue-sea-star"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/blue-sea-star"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/clarks-anemonefish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/clarks-anemonefish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/clarks-anemonefish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/crown-of-thorns-starfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/crown-of-thorns-starfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/crown-of-thorns-starfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/white-damsel</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/white-damsel"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/white-damsel"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/yellowtail-barracuda</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/yellowtail-barracuda"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/yellowtail-barracuda"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/amblyeleotris-steinitzi</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/amblyeleotris-steinitzi"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/amblyeleotris-steinitzi"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/bluespotted-cornetfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/bluespotted-cornetfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/bluespotted-cornetfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/freckled-goatfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/freckled-goatfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/freckled-goatfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/humbug-damselfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/humbug-damselfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/humbug-damselfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/melon-butterflyfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/melon-butterflyfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/melon-butterflyfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/blackeye-thicklip-wrasse</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/blackeye-thicklip-wrasse"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/blackeye-thicklip-wrasse"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/blacktip_grouper</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/blacktip_grouper"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/blacktip_grouper"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/blue_ring_angelfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/blue_ring_angelfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/blue_ring_angelfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/christmas-tree-worm</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/christmas-tree-worm"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/christmas-tree-worm"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/red-breasted-wrasse</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/red-breasted-wrasse"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/red-breasted-wrasse"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/yellowtail-scad</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/yellowtail-scad"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/yellowtail-scad"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/lamberts-worm-sea-cucumbers</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/lamberts-worm-sea-cucumbers"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/lamberts-worm-sea-cucumbers"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/titan-triggerfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/titan-triggerfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/titan-triggerfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/blotcheye-soldierfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/blotcheye-soldierfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/blotcheye-soldierfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/green-sea-turtle</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/green-sea-turtle"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/green-sea-turtle"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/longfin-bannerfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/longfin-bannerfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/longfin-bannerfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/panulirus-versicolor</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/panulirus-versicolor"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/panulirus-versicolor"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/pharaoh_cuttlefish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/pharaoh_cuttlefish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/pharaoh_cuttlefish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/scarus-niger</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/scarus-niger"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/scarus-niger"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/fimbriated-moray</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/fimbriated-moray"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/fimbriated-moray"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/giant-moray</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/giant-moray"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/giant-moray"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/phantom-banerfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/phantom-banerfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/phantom-banerfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/scorpionfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/scorpionfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/scorpionfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/stonefish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/stonefish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/stonefish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/zebra-shark</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/zebra-shark"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/zebra-shark"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/bluefin-trevally</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/bluefin-trevally"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/bluefin-trevally"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/giant-trevally</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/giant-trevally"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/giant-trevally"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/humpnose-big-eye-bream</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/humpnose-big-eye-bream"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/humpnose-big-eye-bream"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/raccoon-butterflyfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/raccoon-butterflyfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/raccoon-butterflyfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/zebra-sea-bream</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/zebra-sea-bream"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/zebra-sea-bream"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/lined-butterflyfish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/lined-butterflyfish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/lined-butterflyfish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/black-blotched-porcupinefish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/black-blotched-porcupinefish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/black-blotched-porcupinefish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/blackspotted-puffer</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/blackspotted-puffer"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/blackspotted-puffer"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/spot-fin-porcupinefish</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/spot-fin-porcupinefish"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/spot-fin-porcupinefish"></xhtml:link>
   </url>
   <url>
     <loc>https://www.diversnotes.com/en/marine-life/star-puffer</loc>
     <lastmod>2025-04-14T11:15:30+00:00</lastmod>
     <priority>0.51</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.diversnotes.com/en/marine-life/star-puffer"></xhtml:link>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.diversnotes.com/ru/marine-life/star-puffer"></xhtml:link>
   </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.41</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.41</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.41</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/map</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.41</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/drysuit</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/king-cruiser</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/sharkPoint</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/turtle-rock</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/koh-tao</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog?page=2</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog?page=3</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/green-chromis</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/phyllidia-coelestis</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/siganus-javus</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/singjaw-wrasse</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/singular-bannerfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/three-spot-dascullus</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/yellowtail-coris-wrasse</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/blue-barred-parrotfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/coriocella-hibyae</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life?page=2</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life?page=3</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life?page=4</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life?page=5</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life?page=6</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life?page=7</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life?page=8</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.33</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/racha-noi</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/diving-safari-similans</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/deep-diving</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/koh-bida-nok</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/atmospheric-pressure</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/briefing</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/racha-yai</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/blog/first-post</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/live-sharksucker</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/marbled-sea-cucumber</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/phyllidia-varicosa</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/pineapple-sea-cucumber</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/scarus-niger</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/longfin-grouper</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/map-pufferfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/mosaic-jellyfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/red-lionfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/sea-krait</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/sea-urchin</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/snowflake-moray</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/speckled-sandperch</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/spotted-boxfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/teira-batfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/bigeye-snapper</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/blue-sea-star</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/clarks-anemonefish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/crown-of-thorns-starfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/white-damsel</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/yellowtail-barracuda</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/amblyeleotris-steinitzi</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/bluespotted-cornetfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/freckled-goatfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/humbug-damselfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/melon-butterflyfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/blackeye-thicklip-wrasse</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/blacktip_grouper</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/blue_ring_angelfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/christmas-tree-worm</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/red-breasted-wrasse</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/yellowtail-scad</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/lamberts-worm-sea-cucumbers</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/titan-triggerfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/blotcheye-soldierfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/green-sea-turtle</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/longfin-bannerfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/panulirus-versicolor</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/pharaoh_cuttlefish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/fimbriated-moray</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/giant-moray</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/phantom-banerfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/scorpionfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/stonefish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/zebra-shark</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/bluefin-trevally</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/giant-trevally</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/humpnose-big-eye-bream</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/raccoon-butterflyfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/zebra-sea-bream</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/lined-butterflyfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/redtail-butterflyfish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/black-blotched-porcupinefish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/blackspotted-puffer</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/spot-fin-porcupinefish</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-  <url>
-    <loc>https://www.diversnotes.com/ru/marine-life/star-puffer</loc>
-    <lastmod>2025-04-14T11:15:30+00:00</lastmod>
-    <priority>0.26</priority>
-  </url>
-
-
 </urlset>
