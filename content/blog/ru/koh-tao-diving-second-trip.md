@@ -2,7 +2,7 @@
 title: "Вторая поездка на Ко Тао"
 title_meta: "Вторая поездка на Ко Тао"
 description: "Возвращение на остров дайверов"
-date: 2025-05-02
+date: 2025-05-03
 image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1745861354/Preview_rqo7h0.png"
 ---
 
