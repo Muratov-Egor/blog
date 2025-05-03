@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props) {
   return await generateMeta({
     params,
     title: `${article.title} - Diver's Notes`,
-    description: article.meta_title,
+    description: article.description,
     openGraphImage: article.image,
     keywords: article.meta_keywords?.join(', ') || 'Blog, Diving, Scuba diving, Diving blog, Diving tips, Diving gear, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks, Diving destinations, Diving adventures, Diving stories, Diving experiences, Diving tips and tricks',
     canonicalUrl: `https://divernotes.com/${lang}/blog/${slug}`,
@@ -47,7 +47,7 @@ export default async function BlogArticlePage({
         type="Article"
         name={article.title}
         url={`https://divernotes.com/${lang}/blog/${slug}`}
-        description={article.meta_title}
+        description={article.description}
         image={article.image}
       />
       <ArticleContent
