@@ -25,7 +25,7 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
       className={`group no-underline block ${isFeature ? 'md:col-span-2' : ''}`}
     >
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-transform duration-200 hover:translate-y-[-4px]">
-        <div className={`relative ${isFeature ? 'h-96' : 'h-64'} w-full`}>
+        <div className={`relative ${isFeature ? 'md:h-96 h-64' : 'h-64'} w-full`}>
           {isLoading && (
             <div className="absolute inset-0 flex items-center justify-center bg-gray-100 dark:bg-gray-800">
               <div className="w-8 h-8 border-4 border-gray-200 dark:border-gray-700 border-t-blue-500 rounded-full animate-spin" />
@@ -42,7 +42,7 @@ export function BlogCard({ article, isFeature = false, lang }: BlogCardProps) {
             onLoadingComplete={() => setIsLoading(false)}
           />
         </div>
-        <div className="p-6 h-[200px] flex flex-col text-center">
+        <div className="h-[200px] flex flex-col text-center">
           <h2 className={`font-semibold mb-3 mt-3 group-hover:text-gray-600 dark:group-hover:text-gray-400 transition-colors duration-200 line-clamp-2 ${
             isFeature ? 'text-2xl' : 'text-xl'
           }`}>

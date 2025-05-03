@@ -26,7 +26,7 @@ export default function ArticleImage({ src, alt, title, onClick, className = "" 
 
   return (
     <figure className="my-8">
-      <div className={`relative ${isLoading ? 'bg-gray-200 animate-pulse' : ''}`} style={{ minHeight: '200px' }}>
+      <div className={`relative ${isLoading ? 'bg-gray-200 animate-pulse' : ''}`}>
         <img
           src={imageSrc}
           alt={alt}
@@ -44,4 +44,4 @@ export default function ArticleImage({ src, alt, title, onClick, className = "" 
       )}
     </figure>
   );
-} 
+}
