@@ -85,7 +85,7 @@ export function Pagination({ totalPages, currentPage, lang, basePath }: Paginati
           </Link>
         );
       })}
-      
+
       {currentPage < totalPages && (
         <Link
           href={getPageUrl(currentPage + 1)}
