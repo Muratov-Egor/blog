@@ -27,7 +27,7 @@ const MobileMenu = ({ nav, lang }: { nav: any; lang: Locale }) => {
       {isOpen && (
         <div className="absolute right-0 mt-4 shadow-lg p-4 md:w-72 w-64 bg-white dark:bg-gray-800 rounded-lg z-50">
           <div className="flex flex-col items-center"> {/* Центрируем элементы */}
-            <NavBar nav={nav} lang={lang} />
+            <NavBar nav={nav} lang={lang} closeMenu={() => setIsOpen(false)} />
             <div className="border-t border-gray-200 dark:border-gray-700 my-2" />
             <ThemeSwitcher />
           </div>
