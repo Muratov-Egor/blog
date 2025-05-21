@@ -402,6 +402,6 @@ interface DiveStats {
 }
 
 export const DIVE_STATS: DiveStats = {
-  countDives: 279,
+  countDives: 280,
   localsVisited: DIVE_SITES.reduce((acc, region) => acc + region.sites.length, 0)
 };
