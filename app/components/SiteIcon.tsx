@@ -9,6 +9,7 @@ const SiteIcon = ({ type }: { type: SiteType }) => {
     coral_garden: "/images/icons/coral_garden.png",
     lake: "/images/icons/lake.png",
     wall: "/images/icons/wall.png",
+    river: "/images/icons/river.png",
     default: "/images/icons/diver.png",
   };
 
@@ -19,4 +20,4 @@ const SiteIcon = ({ type }: { type: SiteType }) => {
   );
 };
 
-export default SiteIcon; 
+export default SiteIcon;

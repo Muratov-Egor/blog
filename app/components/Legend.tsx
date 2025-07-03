@@ -14,9 +14,10 @@ const Legend = async ({ lang }: { lang: Locale }) => {
       { type: 'coral_garden', label: t.legend.coral_garden },
       { type: 'lake', label: t.legend.lake },
       { type: 'wall', label: t.legend.wall },
+      {type: 'river', label: t.legend.river},
       { type: 'default', label: t.legend.default },
     ];
-  
+
     return (
       <div className="legend mb-8 bg-gray-100 p-4 rounded-lg dark:bg-gray-800">
         <h1 className="text-lg font-semibold mb-2 text-center">{t.legend.title}</h1>

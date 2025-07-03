@@ -6,7 +6,7 @@ interface DiveSite {
   };
   sites: Array<{
     name: string;
-    type?: 'reef' | 'bay' | 'wreck' | 'pinnacle' | 'coral_garden' | 'lake' | 'wall' | 'default';
+    type?: 'reef' | 'bay' | 'wreck' | 'pinnacle' | 'coral_garden' | 'lake' | 'river' | 'wall' | 'default';
     coordinates?: {
       lat: number;
       lng: number;
@@ -357,6 +357,12 @@ export const DIVE_SITES: DiveSite[] = [
           type: "lake",
           coordinates: { lat: 44.7765494, lng: 20.3747271 },
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=44.7765494,20.3747271"
+        },
+        {
+          name: "Barge",
+          type: "river",
+          coordinates: { lat: 44.797727, lng: 20.4256299 },
+          googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=44.797727,20.42562991"
         }
       ]
     },
@@ -402,6 +408,6 @@ interface DiveStats {
 }
 
 export const DIVE_STATS: DiveStats = {
-  countDives: 280,
+  countDives: 281,
   localsVisited: DIVE_SITES.reduce((acc, region) => acc + region.sites.length, 0)
 };
