@@ -18,8 +18,8 @@ interface DiveSite {
 export const DIVE_SITES: DiveSite[] = [
     {
       region: {
-        ru: "Рача Яй 🇹🇭",
-        en: "Racha Yai Island 🇹🇭",
+        ru: "Рача Яй, Таиланд 🇹🇭",
+        en: "Racha Yai Island, Thailand 🇹🇭",
         links: ["/blog/racha-yai"],
       },
       sites: [
@@ -75,8 +75,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Рача Ной 🇹🇭",
-        en: "Racha Noi Island 🇹🇭",
+        ru: "Рача Ной, Таиланд 🇹🇭",
+        en: "Racha Noi Island, Thailand 🇹🇭",
         links: ["/blog/racha-noi"],
       },
       sites: [
@@ -108,8 +108,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Архипелаг Пхи Пхи 🇹🇭",
-        en: "Phi Phi Archipelago 🇹🇭",
+        ru: "Пхи Пхи, Таиланд 🇹🇭",
+        en: "Phi Phi Islands, Thailand 🇹🇭",
         links:  ["/blog/koh-bida-nok", '/blog/turtle-rock']
       },
       sites: [
@@ -147,8 +147,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Прочее рядом с Пхукетом 🇹🇭",
-        en: "Other sites near Phuket 🇹🇭",
+        ru: "Пхукет, Таиланд 🇹🇭",
+        en: "Phuket, Thailand 🇹🇭",
         links: ["/blog/king-cruiser", "/blog/sharkPoint"]
       },
       sites: [
@@ -174,8 +174,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Симиланские острова 🇹🇭",
-        en: "Similan Islands 🇹🇭",
+        ru: "Симиланские острова, Таиланд 🇹🇭",
+        en: "Similan Islands, Thailand 🇹🇭",
         links: ["/blog/diving-safari-similans"]
       },
       sites: [
@@ -237,8 +237,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Ко Тао 🇹🇭",
-        en: "Koh Tao 🇹🇭",
+        ru: "Ко Тао, Таиланд 🇹🇭",
+        en: "Koh Tao, Thailand 🇹🇭",
         links: ["/blog/koh-tao"]
       },
       sites: [
@@ -348,8 +348,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Белград 🇷🇸",
-        en: "Serbia 🇷🇸"
+        ru: "Белград, Сербия 🇷🇸",
+        en: "Belgrade, Serbia 🇷🇸"
       },
       sites: [
         {
@@ -368,8 +368,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Херцег Нови 🇲🇪",
-        en: "Herceg Novi 🇲🇪",
+        ru: "Херцег Нови, Черногория 🇲🇪",
+        en: "Herceg Novi, Montenegro 🇲🇪",
       },
       sites: [
         {
@@ -382,8 +382,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
       region: {
-        ru: "Будва 🇲🇪",
-        en: "Budva 🇲🇪",
+        ru: "Будва, Черногория 🇲🇪",
+        en: "Budva, Montenegro 🇲🇪",
       },
       sites: [
         {
@@ -402,8 +402,8 @@ export const DIVE_SITES: DiveSite[] = [
     },
     {
     region: {
-      ru: "Каш 🇹🇷",
-      en: "Kaş 🇹🇷",
+      ru: "Каш, Турция 🇹🇷",
+      en: "Kaş, Turkey 🇹🇷",
     },
     sites: [
       {
