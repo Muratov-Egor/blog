@@ -399,7 +399,63 @@ export const DIVE_SITES: DiveSite[] = [
           googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=42.2741953,18.83018250"
         }
       ]
-    }
+    },
+    {
+    region: {
+      ru: "Каш 🇹🇷",
+      en: "Kaş 🇹🇷",
+    },
+    sites: [
+      {
+        name: "Neptune Gardens",
+        type: "reef",
+        coordinates: { lat: 36.18915, lng: 29.60987 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.18915,29.60987"
+      },
+      {
+        name: "TCSG-119 Wreck",
+        type: "wreck",
+        coordinates: { lat: 36.18725, lng: 29.60959 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.18725,29.60959"
+      },
+      {
+        name: "Güvercin Island",
+        type: "wreck",
+        coordinates: { lat: 36.19013, lng: 29.61066 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.19013,29.61066"
+      },
+      {
+        name: "C47 plane wreck",
+        type: "wreck",
+        coordinates: { lat: 36.18227, lng: 29.64273 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.18227,29.64273"
+      },
+      {
+        name: "Pina Reef",
+        type: "reef",
+        coordinates: { lat: 36.16227, lng: 29.62418 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.16227,29.62418"
+      },
+      {
+        name: "Oasis reef",
+        type: "reef",
+        coordinates: { lat: 36.15312, lng: 29.62811 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.15312,29.62811"
+      },
+      {
+        name: "The Canyon",
+        type: "wall",
+        coordinates: { lat: 36.15199, lng: 29.62675 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.15199,29.62675"
+      },
+      {
+        name: "Amphora Corner",
+        type: "default",
+        coordinates: { lat: 36.15316, lng: 29.63212 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.15316,29.63212" 
+      }
+    ]
+  }
   ];
 
 interface DiveStats {
@@ -408,6 +464,6 @@ interface DiveStats {
 }
 
 export const DIVE_STATS: DiveStats = {
-  countDives: 281,
+  countDives: 289,
   localsVisited: DIVE_SITES.reduce((acc, region) => acc + region.sites.length, 0)
 };
