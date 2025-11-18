@@ -452,7 +452,99 @@ export const DIVE_SITES: DiveSite[] = [
         name: "Amphora Corner",
         type: "default",
         coordinates: { lat: 36.15316, lng: 29.63212 },
-        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.15316,29.63212" 
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=36.15316,29.63212"
+      }
+    ]
+  },
+    {
+    region: {
+      ru: "North & Tiran, Египет 🇪🇬",
+      en: "North & Tiran, Egypt 🇪🇬",
+    },
+    sites: [
+      {
+        name: "Poseidon Reef",
+        type: "reef",
+        coordinates: { lat: 27.39921, lng: 33.86231 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.39921,33.86231"
+      },
+      {
+        name: "Shaab El Erg",
+        type: "reef",
+        coordinates: { lat: 24.98614, lng: 34.99913 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=24.98614,34.99913"
+      },
+      {
+        name: "Dolphin House",
+        type: "reef",
+        coordinates: { lat: 24.98677, lng: 34.99823 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=24.98677,34.99823"
+      },
+      {
+        name: "Giannis D",
+        type: "wreck",
+        coordinates: { lat: 27.57787, lng: 33.92321 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.57787,33.92321"
+      },
+      {
+        name: "Shark & Yolanda Reef",
+        type: "reef",
+        coordinates: { lat: 27.72521, lng: 34.25889 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.72521,34.25889"
+      },
+      {
+        name: "Gordon Reef",
+        type: "reef",
+        coordinates: { lat: 27.98667, lng: 34.45210 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.98667,34.45210"
+      },
+      {
+        name: "Thomas Reef",
+        type: "reef",
+        coordinates: { lat: 27.99228, lng: 34.46094 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.99228,34.46094"
+      },
+      {
+        name: "Jackson Reef",
+        type: "reef",
+        coordinates: { lat: 28.00615, lng: 34.47158 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=28.00615,34.47158"
+      },
+      {
+        name: "Lara Wreck",
+        type: "wreck",
+        coordinates: { lat: 28.01197, lng: 34.47257 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=28.01197,34.47257"
+      },
+      {
+        name: "Temple",
+        type: "bay",
+        coordinates: { lat: 27.84731, lng: 34.30884 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.84731,34.30884"
+      },
+      {
+        name: "Jackfish Alley",
+        type: "wall",
+        coordinates: { lat: 27.75525, lng: 34.25237 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.75525,34.25237"
+      },
+      {
+        name: "SS Thistlegorm Wreck",
+        type: "wreck",
+        coordinates: { lat: 27.80850, lng: 33.91866 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.80850,33.91866"
+      },
+      {
+        name: "Small Gubal Reef",
+        type: "reef",
+        coordinates: { lat: 27.66781, lng: 33.81157 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.66781,33.81157"
+      },
+      {
+        name: "Small Gubal Barge",
+        type: "wreck",
+        coordinates: { lat: 27.69447, lng: 33.80219 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.69447,33.80219"
       }
     ]
   }
@@ -464,6 +556,6 @@ interface DiveStats {
 }
 
 export const DIVE_STATS: DiveStats = {
-  countDives: 289,
+  countDives: 307,
   localsVisited: DIVE_SITES.reduce((acc, region) => acc + region.sites.length, 0)
 };
