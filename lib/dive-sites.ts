@@ -471,14 +471,14 @@ export const DIVE_SITES: DiveSite[] = [
       {
         name: "Shaab El Erg",
         type: "reef",
-        coordinates: { lat: 24.98614, lng: 34.99913 },
-        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=24.98614,34.99913"
+        coordinates: { lat: 27.41962, lng: 33.86089 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.41962,33.86089"
       },
       {
         name: "Dolphin House",
         type: "reef",
-        coordinates: { lat: 24.98677, lng: 34.99823 },
-        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=24.98677,34.99823"
+        coordinates: { lat: 27.41881, lng: 33.86198 },
+        googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=27.41881,33.86198"
       },
       {
         name: "Giannis D",
