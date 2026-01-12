@@ -3,7 +3,7 @@ title: "Turtle Rock"
 title_meta: "Phi Phi: Turtle Rock"
 description: "Dive Sites of the Phi Phi Archipelago"
 date: 2024-05-17
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314385/Turtle_Rock_Preview_4123x2319_djkysl.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/turtleRock/Turtle_Rock_Preview_4123x2319_djkysl.png"
 ---
 
 The Phi Phi Islands archipelago, located between the provinces of Phuket and Krabi, is one of Thailand's most famous tourist destinations.
@@ -28,12 +28,12 @@ Common reef fish inhabit the area; octopuses, [spiny lobsters](https://diversnot
 
 Near the southern corner between the bays, there is an area with beautiful soft corals and rock formations that attract giant schools of snappers. And if you swim closer to the island, you can discover a grotto that can be explored.
 
-![Grotto](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314379/Turtle_Rock_Cave_4625x2602_asz8f3.png "Grotto")
+![Grotto](https://f003.backblazeb2.com/file/diversnotes-images/turtleRock/Turtle_Rock_Cave_4625x2602_asz8f3.png "Grotto")
 
 A safety stop should be considered before entering the grotto, as the entrance starts at 7-8 meters, but upon reaching the end, the depth is only about two meters. Surfacing inside, you find yourself in a natural chamber where you can view stalactites hanging directly from the ceiling. Swimming through the cave, you can feel the massiveness of the mountain above you as the light inside gradually dims.
 
 Although this is an easy dive site, it is important to choose your ascent location carefully in a safe zone. The movement of speedboats entering Maya Bay poses a significant danger.
 
-![Map of the Turtle Rock Dive Site](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314427/Turtle_Rock_Map_wffkmn.png "Map of the Turtle Rock Dive Site")
+![Map of the Turtle Rock Dive Site](https://f003.backblazeb2.com/file/diversnotes-images/turtleRock/Turtle_Rock_Map_wffkmn.png "Map of the Turtle Rock Dive Site")
 
 Overall, this is a very good dive site that almost guarantees turtle sightings and can offer many pleasant surprises.

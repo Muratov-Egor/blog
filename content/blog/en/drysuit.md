@@ -3,7 +3,7 @@ title: "Dry Suit Diving: Staying Warm in Cold Water"
 meta_title: "Dry Suit Diving: Features, Training, and First Cold Water Experience"
 meta_description: "Exploring the specifics, training involved, and my first dive in a dry suit in cold water."
 date: 2025-01-30
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater_i7oi0t.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/drySuite/underwater_i7oi0t.png"
 ---
 
 ## Introduction
@@ -16,7 +16,7 @@ I'm not an expert in dry suit diving yet, but I've grasped the basics and want t
 
 ## The Difference Between a Dry Suit and a Wet Suit
 
-![Dry Suit vs. Wet Suit](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738155433/dry_vs_wet_dry5m8.png "Dry Suit vs. Wet Suit")
+![Dry Suit vs. Wet Suit](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/dry_vs_wet_dry5m8.png "Dry Suit vs. Wet Suit")
 
 The difference between a wet suit and a dry suit seems obvious: in a wetsuit, you get wet; in a dry suit, you stay dry. Magic? Almost! ✨
 
@@ -32,7 +32,7 @@ A **dry suit** is specialized diving gear that allows the diver to remain dry.
 
 ### Key Elements of a Dry Suit
 
-![Key Elements of a Dry Suit](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738245095/Deteils_RU_nqv197.png "Key Elements of a Dry Suit") {/* Note: You might want an English version of this image URL */}
+![Key Elements of a Dry Suit](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/Deteils_RU_nqv197.png "Key Elements of a Dry Suit") {/* Note: You might want an English version of this image URL */}
 
 #### Waterproofing
 
@@ -52,7 +52,7 @@ Additional elements like gloves, boots, hoods, and pockets make diving not only 
 
 ## When is a Dry Suit Needed?
 
-![A Few Minutes Before the Dive](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738245264/DSC00417_ggb7od.png "A Few Minutes Before the Dive")
+![A Few Minutes Before the Dive](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/DSC00417_ggb7od.png "A Few Minutes Before the Dive")
 
 A dry suit is used in situations such as:
 
@@ -66,7 +66,7 @@ Furthermore, special undersuits are worn under dry suits to help retain heat. Th
 
 ## Types of Dry Suits
 
-![Checking the Suit in the Parking Lot](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158725/before_rhwcpd.png "Checking the Suit in the Parking Lot")
+![Checking the Suit in the Parking Lot](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/before_rhwcpd.png "Checking the Suit in the Parking Lot")
 
 Dry suits vary, and each type is suited for specific conditions and tasks. There's no universal answer to which suit is best; it all depends on your needs, diving conditions, and even personal preferences.
 
@@ -103,7 +103,7 @@ Training courses cover this extensively, so over time, you'll figure out which s
 
 ## How to Choose a Suit for Your Conditions?
 
-![And This is What Winter Looks Like Underwater](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater_i7oi0t.png "And This is What Winter Looks Like Underwater")
+![And This is What Winter Looks Like Underwater](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/underwater_i7oi0t.png "And This is What Winter Looks Like Underwater")
 
 Choosing a dry suit depends on many factors – from water temperature to diving conditions. Here are the main points to consider:
 
@@ -135,7 +135,7 @@ Actually, all this is learned quite quickly, especially if you already have divi
 
 ## Personal Experience
 
-![Dive Center in a Basement](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738182608/Untitled-1_xpr01e.png "Dive Center in a Basement")
+![Dive Center in a Basement](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/Untitled-1_xpr01e.png "Dive Center in a Basement")
 
 There aren't many dive centers in Belgrade, but they exist. On Google, I found three centers that showed some activity on their websites or social media.
 
@@ -149,7 +149,7 @@ The theory was delivered as lectures with presentations. I wasn't given a physic
 
 The practice session was memorable for its contrast. We were practicing dry suit diving in a huge public swimming pool, while nearby, kids were learning to swim, and further down, a water polo game was in progress. The sensation of diving in a dry suit was unexpected: easier than I thought, but completely different from what I expected.
 
-![Me in a Dry Suit in the Pool](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738157943/me_hjvpws.png "Me in a Dry Suit in the Pool")
+![Me in a Dry Suit in the Pool](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/me_hjvpws.png "Me in a Dry Suit in the Pool")
 
 I dived in a rented membrane suit, the [**Ursuit Softdura**](https://www.ursuit.com/en/ursuit-softdura-black1). The choice was simple – it was what they found that fit me. This model has a front zipper, thigh pockets, and integrated boots.
 
@@ -161,7 +161,7 @@ After completing all the exercises and getting the hang of managing the suit, we
 
 It wasn't critical, as gloves with locking rings were planned for the open water dive, but I decided to play it safe and asked for another session – this time in the full kit, including the thermal undersuit. The second time went perfectly, and we scheduled a dive at [**Ada Lake**](https://www.google.com/maps/search/?api=1&query=44.7765494,20.3747271) for the upcoming weekend.
 
-![Morning Before the Dive](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738183936/morning_zecxq6.png "Morning Before the Dive")
+![Morning Before the Dive](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/morning_zecxq6.png "Morning Before the Dive")
 
 The last Sunday of 2024. It's +2°C (about 36°F) outside, the grass is covered in frost, the streets are deserted, but the rising sun makes the morning magical. We meet in the park by the lake. Runners jog past us while we kit up for diving in the parking lot. It feels surreal! My buddy enters the water first and points out floating ice. I laugh nervously and follow him down. The water is icy, but the suit holds – I don't feel the cold.
 

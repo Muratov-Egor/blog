@@ -3,7 +3,7 @@ title: "Racha Yai Island"
 meta_title: "Racha Yai Island"
 description: "Dive Sites at Racha Yai Island"
 date: 2023-07-05
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314119/Racha_Yai_Preview_bf7zih.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/rachaYai/Racha_Yai_Preview_bf7zih.png"
 ---
 
 Racha Yai Island is located approximately 30 kilometers south of Phuket. Because the island can be reached very quickly and its dive sites offer a wide range of depths, this island is very popular as a day trip destination for both beginners and professionals in diving.
@@ -12,7 +12,7 @@ Depending on the wave direction, diving usually takes place on either the west o
 
 ## Bungalow Bay
 
-![Bungalow Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314118/rachaYai_1_nhorfd.png "Bungalow Bay")
+![Bungalow Bay](https://f003.backblazeb2.com/file/diversnotes-images/rachaYai/rachaYai_1_nhorfd.png "Bungalow Bay")
 
 The dive site Bungalow Bay, or Ao Patok, is a popular spot during the high season from November to May. The bay features a wide white-sand beach and beautiful rocky cliffs where you might see wild goats watching the arriving tourists.
 
@@ -24,11 +24,11 @@ In the central part, at shallow depths, there are several reefs where barracudas
 
 The depth of the bay increases from the shallow beach area, reaching 20-25 meters at the bay's exit. And if you continue further out, depths can exceed 40 meters.
 
-![Map of Bungalow Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314117/Racha_Yai_2_dyozco.png "Map of Bungalow Bay")
+![Map of Bungalow Bay](https://f003.backblazeb2.com/file/diversnotes-images/rachaYai/Racha_Yai_2_dyozco.png "Map of Bungalow Bay")
 
 ## Bay 1 and Bay 2
 
-![Bay 1 and Bay 2](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314118/Racha_Yai_3_lknyoo.png "Bay 1 and Bay 2")
+![Bay 1 and Bay 2](https://f003.backblazeb2.com/file/diversnotes-images/rachaYai/Racha_Yai_3_lknyoo.png "Bay 1 and Bay 2")
 
 The dive site Bay 1, or Ao Lah, is located on the east side of the island. In the shallow part, from 3 to 9 meters, there is a large coral reef inhabited by a great variety of fish.
 
@@ -38,7 +38,7 @@ Deeper, in the sandy zone, lies an artificial reef made of concrete cubes and sp
 
 Further out to sea lies the Haruby Star wreck. The bottom of the wreck rests at about 20 meters, while the top is around 14 meters deep. You can easily swim inside the wreck, but be very careful, as moray eels can be found inside.
 
-![Map of Bay 1 and Bay 2](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314117/Racha_Yai_4_zh2uag.png "Map of Bay 1 and Bay 2")
+![Map of Bay 1 and Bay 2](https://f003.backblazeb2.com/file/diversnotes-images/rachaYai/Racha_Yai_4_zh2uag.png "Map of Bay 1 and Bay 2")
 
 ## Siam Bay
 
@@ -54,4 +54,4 @@ In the center of the bay, at depths of 20+ meters, artificial reefs in the form 
 
 The underwater inhabitants are not as accustomed to divers, so they are much easier to scare off, therefore, you need to be extremely careful when taking photos or videos.
 
-![Siam Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737314124/Racha_Yai_5_Ehonii_ky3gfi.png "Siam Bay")
+![Siam Bay](https://f003.backblazeb2.com/file/diversnotes-images/rachaYai/Racha_Yai_5_Ehonii_ky3gfi.png "Siam Bay")

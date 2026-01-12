@@ -3,7 +3,7 @@ title: "Dry Suit: дайвинг в сухом костюме"
 meta_title: "Dry Suit: Особенности, обучение и первый опыт погружения в холодной воде"
 description: "Особенности, обучение и первый опыт погружения в холодной воде"
 date: 2025-01-30
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater_i7oi0t.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/drySuite/underwater_i7oi0t.png"
 ---
 
 ## Введение
@@ -16,7 +16,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 ## Разница между сухим и мокрым костюмом
 
-![Сухой костюм против мокрого](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738155433/dry_vs_wet_dry5m8.png "Сухой костюм против мокрого")
+![Сухой костюм против мокрого](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/dry_vs_wet_dry5m8.png "Сухой костюм против мокрого")
 
 Разница между мокрым и сухим гидрокостюмами кажется очевидной: в мокром ты мокрый, в сухом — сухой. Магия? Почти! ✨
 
@@ -32,7 +32,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 ### Основные элементы сухого костюма 
 
-![Основные элементы сухого костюма](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738245095/Deteils_RU_nqv197.png "Основные элементы сухого костюма")
+![Основные элементы сухого костюма](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/Deteils_RU_nqv197.png "Основные элементы сухого костюма")
 
 #### Водонепроницаемость
 
@@ -53,7 +53,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 ## Когда нужен сухой костюм?
 
-![За несколько минут до погружения](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738245264/DSC00417_ggb7od.png "За несколько минут до погружения")
+![За несколько минут до погружения](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/DSC00417_ggb7od.png "За несколько минут до погружения")
 
 Сухой костюм используют в таких случаях:
 
@@ -67,7 +67,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 ## Виды сухих костюмов
 
-![Проверка костюма на парковке](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158725/before_rhwcpd.png "Проверка костюма на парковке")
+![Проверка костюма на парковке](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/before_rhwcpd.png "Проверка костюма на парковке")
 
 Сухие костюмы бывают разными, и каждый из них подходит для определённых условий и задач. Здесь нет универсального ответа на вопрос о том, какой костюм лучше, всё зависит от ваших потребностей, условий погружения и даже личных предпочтений.
 
@@ -104,7 +104,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 ## Как выбрать костюм под свои условия?
 
-![А так зимой под водой](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater_i7oi0t.png "А так зимой под водой")
+![А так зимой под водой](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/underwater_i7oi0t.png "А так зимой под водой")
 
 Выбор сухого костюма зависит от множества факторов — от температуры воды до условий погружения. Вот основные моменты, на которые стоит обратить внимание.
 
@@ -136,7 +136,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 ## Личный опыт
 
-![Дайв-центр в подвале](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738182608/Untitled-1_xpr01e.png "Дайв-центр в подвале")
+![Дайв-центр в подвале](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/Untitled-1_xpr01e.png "Дайв-центр в подвале")
 
 В Белграде не так много дайв-центров, но они здесь есть. В Google я нашёл три центра, у которых была хоть какая-то активность на сайте или в соцсетях.
 
@@ -150,7 +150,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 Практика запомнилась контрастом. Мы тренируемся нырять в сухих костюмах в огромном публичном бассейне, а рядом дети учатся плавать, а ещё дальше — водное поло. Само ощущение погружения в сухом костюме оказалось неожиданным: легче, чем думал, но совсем не таким, как ожидал.
 
-![Я в сухом костюме в бассейне](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738157943/me_hjvpws.png "Я в сухом костюме в бассейне")
+![Я в сухом костюме в бассейне](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/me_hjvpws.png "Я в сухом костюме в бассейне")
 
 Погружался в арендованном мембранном костюме [**Ursuit Softdura**](https://www.ursuit.com/en/ursuit-softdura-black1). Выбор был прост — что нашли и подошло по размеру, то и использовал. У этой модели фронтальная молния, карманы на бёдрах и встроенные ботинки.
 
@@ -162,7 +162,7 @@ image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738158724/underwater
 
 Это не критично, так как в открытой воде планировались перчатки с зажимными кольцами, но я решил перестраховаться и попросил ещё одно занятие — уже в полном комплекте, включая утеплённую поддёвку. Второй раз всё прошло отлично, и мы запланировали погружение на [**Ada Lake**](https://www.google.com/maps/search/?api=1&query=44.7765494,20.3747271) на ближайшие выходные.
 
-![Утро перед погружением](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738183936/morning_zecxq6.png "Утро перед погружением")
+![Утро перед погружением](https://f003.backblazeb2.com/file/diversnotes-images/drySuite/morning_zecxq6.png "Утро перед погружением")
 
 Последнее воскресенье 2024 года. На улице +2°C, трава покрыта инеем, улицы пустынны, но восходящее солнце делает утро волшебным. Встречаемся в парке у озера. Вокруг пробегают спортсмены, а мы на парковке надеваем снаряжение для дайвинга. Какой-то сюр! Напарник первым заходит в воду и показывает плавающий лёд. Нервно смеюсь и спускаюсь следом. Вода ледяная, но костюм держит — холода не ощущаю.
 

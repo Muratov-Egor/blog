@@ -3,7 +3,7 @@ title: "Koh Bida Nok"
 title_meta: "Phi Phi: Koh Bida Nok"
 description: "Dive Sites of the Phi Phi Archipelago"
 date: 2023-08-05
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313103/Koh_Bida_Nok_Preview_zgjeyq.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/kohBidaNok/Koh_Bida_Nok_Preview_zgjeyq.png"
 ---
 
 The small island-rock of Koh Bida Nok is located two kilometers south of Phi Phi Island. The island's diameter is no more than 100 meters. The island is uninhabitable, but it is one of the most beautiful diving spots. If you go diving at the Phi Phi Islands on a day trip from Phuket, it's highly likely that this will be your first dive site.
@@ -18,12 +18,12 @@ Reef sharks are not dangerous to humans, and I would even say they fear humans m
 
 Heading left out of the bay, you can reach depths of 30+ meters. Descending along the wall, it's not uncommon to encounter large schools of fish moving synchronously, mesmerizing the diver's gaze. This phenomenon is called murmuration – the synchronized movement of schools of fish or flocks of birds. Swimming alongside or even among the fish, you can lose track of time, but the main thing is not to forget to check your air gauge)
 
-![Murmuration](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313103/Koh_Bida_Nok_1_jfiguw.png "Murmuration")
+![Murmuration](https://f003.backblazeb2.com/file/diversnotes-images/kohBidaNok/Koh_Bida_Nok_1_jfiguw.png "Murmuration")
 
 Going deeper and deeper, there's a chance to encounter a sleeping leopard shark or stingray, and even octopuses.
 
 Coral lovers will be satisfied with a dive at this site. Besides the gorgonians, Acropora, and other types of hard corals widely found in the Andaman Sea, here you can also find soft corals, bubble corals, and sea anemones.
 
-![Map of Koh Bida Nok Island](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313102/Koh_Bida_Nok_2_syb3fq.png "Map of Koh Bida Nok Island")
+![Map of Koh Bida Nok Island](https://f003.backblazeb2.com/file/diversnotes-images/kohBidaNok/Koh_Bida_Nok_2_syb3fq.png "Map of Koh Bida Nok Island")
 
 This dive site is one of my absolute favorites. Regardless of the conditions, whether it's calm, clear water on a sunny day or murky water with strong currents, you can always see something new and interesting.

@@ -3,7 +3,7 @@ title: "Second Trip to Koh Tao"
 title_meta: "Second Trip to Koh Tao"
 description: "Returning to diver's island"
 date: 2025-05-03
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1745861354/Preview_rqo7h0.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Preview_rqo7h0.png"
 ---
 
 In August 2024, I found myself back on the island of Koh Tao. I wrote about my first trip [here](https://www.diversnotes.com/en/blog/koh-tao) — back then, everything felt new and exciting, though at times a bit rushed: not everything went smoothly due to poor planning and a few mishaps. This time, things were different.
@@ -20,7 +20,7 @@ The first day was all about the journey from Phuket to Don Sak. Traveling across
 
 By evening, we reached the pier and found a place to stay nearby. The day ended with a beautiful sunset. The journey had begun.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1745861442/2_jxpkh5.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/2_jxpkh5.png)
 
 ## Day 2 – Dive Center
 
@@ -30,11 +30,11 @@ After checking into the hotel, we headed straight to the dive center. This time,
 
 It would be Nastya’s first night dive, so they invited her for a short theory briefing an hour before the dive and even said they’d provide paperwork so she could log it toward her [Night Diver](https://store.padi.com/en-us/courses/night-diver/p/60481-1B2C/) certification. As for me, with my Assistant Instructor certification, that part wasn’t necessary. We paid, agreed to meet at the office the next morning — quick, easy, and pleasant. Exactly how a dive center should work.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746034339/MasterDivers_xcejx7.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/MasterDivers_xcejx7.png)
 
 Maybe it sounds like I’m promoting them, but after my previous trip — where I lost two days because I was basically ghosted, and the staff at another center just didn’t care whether I showed up or not — this time everything went so perfectly that I could finally breathe and relax. So no, it’s not an ad — it’s a genuine recommendation. Though, to be honest, I did have a backup list of other centers… just in case something went wrong and I had to find a replacement on the fly.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746188492/00_mniigv.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/00_mniigv.png)
 
 In general, one of the most important factors for a great dive is who you’re diving with. The mood, safety, comfort — all of it heavily depends on your buddy. This time, my buddy was a colleague I’d dived with multiple times before. I knew I didn’t have to worry about her and could count on what to expect.
 
@@ -46,7 +46,7 @@ I woke up at six in the morning. Breakfast was simple: onigiri, yogurt, and a ha
 
 Dive centers on Koh Tao generally fall into two categories. Some board directly from the main pier, where boats line up in a long row and you sometimes have to clamber over ten others to reach your own. Others depart straight from the beach, with a longtail taking you out to the dive boat. We had the latter — it saves time and makes loading and unloading much more comfortable.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746106464/longtail_gcybpf.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/longtail_gcybpf.png)
 
 On the boat, we got to know each other a bit more. Steve, our divemaster, asked about our diving experience, was glad to see such a seasoned group, and mentioned that it would be a great opportunity not only for us but also for James, who was wrapping up his divemaster training and assisting today. It would be good for him to dive with more experienced buddies.
 
@@ -54,13 +54,13 @@ Originally, the plan was to start at the No Name Reef, but Steve suggested begin
 
 ### HTMS Suphairin 313
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746037445/HTMS_Suphairin_313_zthu5h.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/HTMS_Suphairin_313_zthu5h.png)
 
 In September 2023, an event took place on Koh Tao that didn’t go unnoticed by the local diving community: two ships — the [HTMS Suphairin 313](https://www.google.com/maps/search/?api=1&query=10.1151954,99.8107657) and the HTMS Hanhaksattru 312 — were deliberately sunk just off the island’s coast. The idea of creating artificial reefs had been discussed since 2019, but it wasn’t until 2023 that the plan finally became reality. These ships were a valuable addition to Koh Tao’s already well-known dive sites.
 
 HTMS Suphairin 313 is a ship with a story. Built in the mid-20th century, it was equipped with fairly advanced systems for its time and served for many years in maritime security operations — both along the coast and on international missions.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746037629/HTMS_Suphairin_313_2_qhspnj.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/HTMS_Suphairin_313_2_qhspnj.png)
 
 After more than 40 years of service, the Suphairin was sunk just 15–20 meters from No Name Pinnacle, on the eastern side of Koh Tao. The location wasn’t chosen randomly: the reef is known for its vibrant underwater environment and diver-friendly depth, and the addition of an artificial reef brought even more marine life to the area.
 
@@ -77,11 +77,11 @@ Our second dive was planned at the White Rock dive site. During my last visit to
 
 The pre-dive briefing focused almost entirely on how to behave if we encountered this magnificent creature. It’s just a shame that none of that knowledge came in handy on this dive.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746038675/WhiteRock2_lrv4wi.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/WhiteRock2_lrv4wi.png)
 
 White Rock is one of the most popular and frequently visited dive sites on Koh Tao. Between two clusters of underwater hills lies a true coral garden. These hills rise up from around 25 meters deep, essentially piles of boulders densely covered in corals and sponges. The place is teeming with marine life — everything is moving, shimmering, and alive.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746038679/WhiteRock_x3j6ga.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/WhiteRock_x3j6ga.png)
 
 Near the seabed, under ledges, small schools of [green chromis](https://www.diversnotes.com/en/marine-life/green-chromis) dart around, while sweepers hide among the rocks. Beneath large boulders, [giant moray eels](https://www.diversnotes.com/en/marine-life/giant-moray) wait for nightfall when it’s time to hunt. Between the rocks swim [titan triggerfish](https://www.diversnotes.com/en/marine-life/titan-triggerfish), [yellowtail barracudas](https://www.diversnotes.com/en/marine-life/yellowtail-barracuda), and [blue-ring angelfish](https://www.diversnotes.com/en/marine-life/blue_ring_angelfish). The striking [red-breasted wrasses](https://www.diversnotes.com/en/marine-life/red-breasted-wrasse), with their “red vests” and bold stripes running from fin to tail, instantly catch the eye. Occasionally, [green sea turtles](https://www.diversnotes.com/en/marine-life/green-sea-turtle) show up to snack on corals — so focused on eating that they let divers come surprisingly close.
 <YouTube id="blZrQJ0ujvQ" />
@@ -90,13 +90,13 @@ White Rock is usually divided into northern and southern sections, though they�
 
 ### Junkyard Reef – Night Dive
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746098861/Night_ehqwkx.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Night_ehqwkx.png)
 
 After the morning dives, we had time to relax and grab some lunch. While we were eating, the dive center called to say Nastya didn’t need to come in early for the night dive briefing — they’d explain everything on the boat. I have a feeling Steve had something to do with that: he probably told them we were fine underwater and she didn’t need a separate lecture.
 
 So we arrived at the dive center just in time for sunset. We were greeted by Jaycee and another diver who was taking their AOWD course, and together we headed out for our evening dive at Junkyard Reef.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746098861/Night3_metguw.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Night3_metguw.png)
 
 Just 400 meters off Mae Haad Beach, to the southwest, lies one of Koh Tao’s most unusual dive sites — Junkyard Reef. This artificial reef, created in 2006, has become a hub for environmental education and a great training ground for beginner divers.
 
@@ -106,7 +106,7 @@ The project was launched by the team at [Eco Koh Tao](https://www.ecokohtao.com/
 
 Over time, the reef expanded: metal frames were added, coral nurseries were installed, giant clams were introduced, and reef restoration programs began.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746098865/Night2_xxgtj8.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Night2_xxgtj8.png)
 
 Today, Junkyard Reef is buzzing with underwater life and a steadily developing ecosystem. Corals are being transplanted onto purpose-built structures, creating a vibrant, living underwater landscape.
 
@@ -118,7 +118,7 @@ Since the first day left such a good impression, we decided not to go looking fo
 
 Today promised to be especially intense: four dives back-to-back.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746103641/James_fh1kvf.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/James_fh1kvf.png)
 
 ### Chumphon Pinnacle
 
@@ -126,7 +126,7 @@ After my first trip to Koh Tao, a dive instructor friend who lived on the island
 
 So on my second visit, I corrected that "mistake" and finally made it to this legendary dive site. Visibility wasn’t ideal that day, unfortunately — but it was more than made up for by the massive schools of fish swirling around the pinnacle.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746103641/Chumphon_Pinnacle_2_fuzcc6.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Chumphon_Pinnacle_2_fuzcc6.png)
 
 Chumphon Pinnacle is considered one of the most impressive dive spots around Koh Tao. Located about 10 kilometers northwest of the island, getting there takes around 45 minutes by boat.
 
@@ -134,7 +134,7 @@ Depths range from 14 to 40 meters, making it suitable for both newly certified d
 
 On a good day, visibility can reach up to 35 meters, giving divers a clear view of the spectacular seascape. Around 18 meters, a thermocline sometimes forms — a sharp temperature layer that makes the water appear cloudy or hazy.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746103644/Chumphon_Pinnacle_nuwu7r.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Chumphon_Pinnacle_nuwu7r.png)
 
 Marine life here is especially active in the morning: reef fish leave their shelters, barracudas hunt in the open water, and the whole site pulses with life. Thanks to its biodiversity and size, Chumphon Pinnacle consistently ranks among the top dive sites in the entire Gulf of Thailand.
 
@@ -145,13 +145,13 @@ But there’s a flip side to its popularity — during peak season, it can get p
 
 Afternoon dives on Koh Tao are typically done in shallow bays, and our first one of this kind on this trip took place at Mango Bay. After the intense and sometimes exhausting morning dives, this one felt especially relaxing — 66 minutes underwater at a depth of 7–8 meters, drifting slowly between large boulders and watching vibrant [parrotfish](https://www.diversnotes.com/en/marine-life/blue-barred-parrotfish) and [bannerfish](https://www.diversnotes.com/en/marine-life/longfin-bannerfish). It was exactly what we needed.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746106262/Mango_Bay_rxtk6q.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Mango_Bay_rxtk6q.png)
 
 Located on the northern side of Koh Tao, Mango Bay offers a calm atmosphere and ideal conditions for those new to diving as well as snorkelers. Depths range from just a meter near the shore to about 20 meters in some spots, making the bay suitable for various skill levels.
 
 The western side of the bay is known for its dense coral gardens, while the eastern side features massive boulders covered with colorful coral growth. This mix creates a picturesque underwater landscape rich in shapes and vibrant hues.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746106267/Mango_Bay_2_exvpbm.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Mango_Bay_2_exvpbm.png)
 
 The center of the bay consists of a sandy bottom surrounded by reefs. The openness of the bay allows for good water circulation, and dives here are usually calm — as long as the weather cooperates. Visibility tends to range from 10 to 20 meters, allowing divers to fully enjoy the underwater scenery. A small stretch of white-sand beach along the water adds to the peaceful atmosphere.
 
@@ -161,7 +161,7 @@ Mango Bay is popular among dive centers as a training ground. It’s commonly us
 
 ### Twins Pinnacle + **Buoyancy World**
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746107131/BW_ipfn0f.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/BW_ipfn0f.png)
 
 We wrapped up the day with a dive that took us to two sites at once: Twins Pinnacle and Buoyancy World. I’d been here before during my first trip to Koh Tao, so I won’t go into much detail — if you’re curious, you can find full descriptions in [that article](https://www.diversnotes.com/en/blog/koh-tao).
 <YouTube id="14GhHLvP95c" />
@@ -174,7 +174,7 @@ I’m not sure if that’s done to make the stats sound more impressive, or if t
 
 This was our second-to-last diving day, but after the packed schedule of the previous days, we decided to take it a bit easier and stick to just two morning dives. Besides, the afternoon boat was fully booked with students, and they were headed to Mango Bay and Buoyancy World — the same sites we’d visited the day before.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746109613/morning_y2bv8p.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/morning_y2bv8p.png)
 
 ### Green Rock
 
@@ -182,7 +182,7 @@ Our first dive of the day was at Green Rock — a site I was already familiar wi
 
 Green Rock is made up of a massive collection of rock formations and boulders that create grottos, tunnels, and small caves. Because of its structure, it’s considered one of the more exciting sites to explore.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746109301/Green_e5ymf4.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Green_e5ymf4.png)
 
 Last time, the current was so strong we practically got *blown* through the grottos without having a chance to properly look around. But this time, the conditions were much calmer: we moved slowly, exploring the underwater caves and passageways, enjoying every moment.
 
@@ -193,7 +193,7 @@ As a bonus, we encountered a group of giant groupers, some nearly a meter long! 
 
 Before our next dive, Steve joked that over the past two days we’d already “dived through the whole Italian flag”: Green Rock, White Rock, and now — Red Rock.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746110128/Steave_dti6tz.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Steave_dti6tz.png)
 
 Red Rock is an underwater pinnacle off the eastern coast of Koh Nang Yuan, near Koh Tao. The top of the rock starts at around 4 meters, with the bottom descending to 16–20 meters.
 
@@ -203,7 +203,7 @@ If you follow the wall southward toward Japanese Garden, you’ll encounter tabl
 
 And if you turn west toward the Koh Nang Yuan shoreline, you’ll find yourself at Nang Yuan Cave — an underwater tunnel formed by massive boulders, around 12 meters deep. The cave forms natural “halls” with sunlight streaming in from above. Inside, blue-spotted rays and other marine life are often spotted.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746110125/Red_ahtnwd.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Red_ahtnwd.png)
 
 The site is accessible even to Open Water divers, but because it’s close to open sea, strong currents are not uncommon — so staying alert is key. A dive light is useful for exploring the cave and crevices.
 
@@ -222,7 +222,7 @@ I knew: this was it — the farewell day with Koh Tao. One last chance to spot a
 
 But when would I return to Koh Tao again? I had no idea. Still, I figured — there would be time to feel nostalgic later. Right now, I just wanted to enjoy the moment. The sun. The boat. The sea.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746172911/SouthWest_tdogt2.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/SouthWest_tdogt2.png)
 
 *"Later"* came about nine months after. :)
 
@@ -232,7 +232,7 @@ That’s how long it took me to finally sit down and write this article. =D
 
 South West Pinnacle is one of the best deep dive sites near Koh Tao. It’s often overshadowed by the more famous Chumphon Pinnacle — but it’s no less impressive.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746174028/SW_lnfxaf.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/SW_lnfxaf.png)
 
 The site consists of seven large granite pinnacles arranged in a near circle. The central one rises to just 5 meters below the surface. The classic dive profile here is a deep descent followed by a slow spiral ascent around the pinnacle — giving you a full 360° view of the underwater landscape.
 
@@ -240,7 +240,7 @@ Because it’s located in open water, conditions here can be challenging — str
 
 The top of the main pinnacle is covered in a carpet of sea anemones — a perfect place to end the dive. Cracks and crevices are home to a variety of marine life: blue-spotted stingrays, [giant moray eels](https://www.diversnotes.com/en/marine-life/giant-moray), [blackspotted puffers](https://www.diversnotes.com/en/marine-life/blackspotted-puffer), and dozens of [macro critters](https://www.diversnotes.com/en/marine-life/phyllidia-coelestis). In the water column, you’ll see huge schools of [yellowtail barracuda](https://www.diversnotes.com/en/marine-life/yellowtail-barracuda), [bigeye snappers](https://www.diversnotes.com/en/marine-life/bigeye-snapper), and [Java rabbitfish](https://www.diversnotes.com/en/marine-life/siganus-javus). Look out into the blue and you might spot Spanish mackerel, large tuna, or barracuda cruising by.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746174032/SW3_j9yzcy.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/SW3_j9yzcy.png)
 
 The pinnacle is bursting with life — coral diversity, shapes, and colors are simply stunning. It’s one of those places that stays in your memory.
 
@@ -253,23 +253,23 @@ Our second dive was originally planned for the HTMS Sattakut again — but consi
 
 I’d been to this reef before, and... well, let’s just say it didn’t exactly blow me away. I mentally labeled it as *a bit boring*.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746178887/Hin_Pee_Wee_drr96y.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Hin_Pee_Wee_drr96y.png)
 
 But this time was different: the reef felt much livelier and richer. Lots of fish, great conditions, and I was in the right mood to enjoy it. I even managed to snap a pretty great portrait of Nastya.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746174030/SW2_tcztrq.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/SW2_tcztrq.png)
 
 ### Aow Leuk Bay
 
 After lunch, we headed to the eastern coast of Koh Tao. Two new divers with Open Water certification joined our group, so the upcoming dives were planned to be shallow. But, as often happens in the shallows, marine life was so vibrant that we didn’t feel the need to go any deeper.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746184936/Aow_Leuk_Bay_3_t1pjty.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Aow_Leuk_Bay_3_t1pjty.png)
 
 Our first site was Ao Leuk Bay — known for its calm, clear waters, gently sloping sandy bottom, and coral patches. The average depth here is around 16 meters, with visibility usually between 5 and 10 meters. It’s a great spot for beginners, training dives, and snorkeling.
 
 Ao Leuk can roughly be divided into two routes: the northern side, leading toward Aow Leuk Point, and the southern side, known as Hin Ngam. Between them lies a broad sandy area, ideal for skill practice. Both zones are covered in hard and soft corals growing on large boulders along the shoreline.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746184936/Aow_Leuk_Bay_2_yj0psq.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/Aow_Leuk_Bay_2_yj0psq.png)
 
 If you swim southeast along the coast, you’ll reach Suan Olan — an artificial reef created in 2010 following a coral bleaching event. It includes a reef pyramid, a Mini Cooper car, various concrete pipes, a reef house, and cement blocks. Over time, these structures have become home to a wide range of marine creatures.
 <YouTube id="JvCWbNRtclw" />
@@ -284,13 +284,13 @@ Depths range from 5 to 18 meters, and on good days, visibility can reach up to 2
 
 In the center of the bay stands a large rock — not only a striking visual marker, but also a favorite jumping spot for thrill seekers. Divers often find "souvenirs" on the seafloor — dropped by brave (or reckless) jumpers.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746187777/TB4_hushgz.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/TB4_hushgz.png)
 
 The northern part of the bay holds the main coral reef, home to massive sponges, brain corals, and boulders that provide shelter for [butterflyfish](https://www.diversnotes.com/en/marine-life/melon-butterflyfish), [angelfish](https://www.diversnotes.com/en/marine-life/blue_ring_angelfish), and other reef dwellers.
 
 South of the reef, concrete structures — including artificial cubes and spheres — have been placed as part of a reef restoration project. These installations are now covered in coral and teeming with marine life.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746187771/TB_hphmmz.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/TB_hphmmz.png)
 
 Nearby lies a sunken catamaran, now a thriving shelter for marine creatures: under its hull you might spot a resting Jenkins’ ray, while octopuses, pipefish, spider crabs, and shrimp hide among the coral-covered surfaces.
 <YouTube id="Ev5aoDL8Bik" />
@@ -299,13 +299,13 @@ Slightly off the main route lies a sunken motor scooter. Modest in size, but it'
 
 Tanote Bay is especially loved by underwater photographers, particularly macro enthusiasts. It’s the perfect place to take your time, move slowly, and capture the miniature beauty of the reef.
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746187830/TB6_q1fz9t.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/TB6_q1fz9t.png)
 
 And finally, some of the most memorable sights: schools of [yellowtail barracuda](https://www.diversnotes.com/en/marine-life/yellowtail-barracuda), [triggerfish](https://www.diversnotes.com/en/marine-life/titan-triggerfish), [green sea turtles](https://www.diversnotes.com/en/marine-life/green-sea-turtle), and even striped [sea kraits](https://www.diversnotes.com/en/marine-life/sea-krait) gracing the underwater scenery.
 
 ## Epilogue
 
-![](https://res.cloudinary.com/dkm2zslzr/image/upload/v1746188492/0000_wwacka.png)
+![](https://f003.backblazeb2.com/file/diversnotes-images/kohTao2/0000_wwacka.png)
 
 And just like that, the diving on Koh Tao came to an end. A final goodbye to the dive masters, a failed attempt to properly dry all the gear, a last dinner — and that was it. The next day, we hit the road back to Phuket.
 

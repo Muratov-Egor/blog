@@ -3,7 +3,7 @@ title: "Racha Noi Island"
 meta_title: "Racha Noi Island"
 description: "Dive Sites at Racha Noi Island"
 date: 2024-01-21
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313991/rachaNoi_Preview_1366x768_qvk1hq.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/rachaNoi_Preview_1366x768_qvk1hq.png"
 ---
 
 Racha Noi is a small, uninhabited island located off the southern coast of Phuket.
@@ -12,13 +12,13 @@ The island is situated practically in the open sea, which provides better water 
 
 The underwater topography around the island is diverse - here you can find small bays with white sand and small reef banks made of hard corals, as well as walls covered in soft corals, dropping down to 70 meters, and huge boulders the size of a three-story house. Thanks to the accessible greater depths, Racha Noi island is popular among technical divers.
 
-![Racha Noi Island](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313988/rachaNoi_1366x768_yh48td.png "Racha Noi Island")
+![Racha Noi Island](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/rachaNoi_1366x768_yh48td.png "Racha Noi Island")
 
 The dive sites at Racha Noi Island are divided into 4 main zones: north, south, east, and west, therefore, diving here depends on the time of year. From October to April, most boats prefer the dive sites on the west coast, however, around April, they switch preference to the east coast dive sites, which are protected from the western monsoon winds.
 
 ## Banana Bay
 
-![Banana Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313988/Racha_Noi_Banana_Bay_tbvuz2.png "Banana Bay")
+![Banana Bay](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Banana_Bay_tbvuz2.png "Banana Bay")
 
 On the east side of the island is the island's most popular dive site - **Banana Bay**. This dive site is named Banana Bay because it is shaped like a banana. The bay stretches over a kilometer from north to south. The bay can be conceptually divided into three dive sites.
 
@@ -32,7 +32,7 @@ On the southern side, you can admire colonies of table, brain, lattice, and othe
 
 ## Marina Bay
 
-![Marina Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313989/Racha_Noi_Marina_Bay_bhmrdb.png "Marina Bay")
+![Marina Bay](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Marina_Bay_bhmrdb.png "Marina Bay")
 
 Marina Bay is located near the middle of Racha Noi's west coast. The minimum depth in this bay is 10 meters, so only certified divers can dive there. The gently sloping bottom of this bay is covered with thickets of staghorn coral, and the shallow part of the bay meets steep cliffs covered with fan corals.
 
@@ -48,13 +48,13 @@ Further south from Marita's Rock lies a small wooden fishing boat that can be ex
 
 ## North Tip
 
-![North Tip](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313989/Racha_Noi_Marina_Bay_bhmrdb.png "North Tip") {/* Note: Image URL seems duplicated from Marina Bay in original */}
+![North Tip](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Marina_Bay_bhmrdb.png "North Tip") {/* Note: Image URL seems duplicated from Marina Bay in original */}
 
 In the northern part of Racha Noi island is the dive site called North Tip. The bay offers three dive options. On the surface, this dive spot is bordered by beautiful, tree-covered cliffs. The bay itself is quite shallow and usually well-sheltered, making it ideal for beginner divers. On the east side of the bay is a formation of granite boulders which takes up a large part of the dive, ending in a large drop-off descending to over 40 meters. On the west side, you can see very interesting rock formations unlike other Racha Noi dive sites. The shallow part of the bay consists mainly of a sandy bottom with scattered small hard coral bommies. The hard coral reef slopes gently down to about 20 meters and attracts numerous reef fish, giant morays, and octopuses. In deeper areas along the granite boulders on the east side, small schools of chevron barracuda can sometimes be spotted. It's important to be cautious when reaching the end of the boulders on either side, as there can sometimes be strong downcurrents pushing deeper.
 
 ## South Tip
 
-![South Tip](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313989/Racha_Noi_Marina_Bay_bhmrdb.png "South Tip") {/* Note: Image URL seems duplicated from Marina Bay in original */}
+![South Tip](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Marina_Bay_bhmrdb.png "South Tip") {/* Note: Image URL seems duplicated from Marina Bay in original */}
 
 On the southern part of the island lies the jewel of Racha Noi - **South Tip** or **South Pinnacle**. From October to April, giant manta rays can regularly be encountered here.
 
@@ -68,13 +68,13 @@ Descending deeper to 50-60 meters, technical divers will encounter large marble 
 
 ## East Bay
 
-![East Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313989/Racha_Noi_East_Bay_ncberq.png "East Bay")
+![East Bay](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_East_Bay_ncberq.png "East Bay")
 
 The dive site 'Racha Noi Bay Rock', also called the East Point, is located in the southeastern part of the island. Racha Noi Bay features a white sandy beach with a sandbar that extends at low tide to a small islet surrounded by a rocky reef. It's usually a drift dive around the outer side of the rocky islet, the direction depending on the actual current conditions. The water here is always crystal clear and the sand incredibly white, making it visually stunning both above water and while gliding over it during the dive. The depth on the outer side of the rocky islet reaches over 30 meters. In the shallows, it's interesting to watch schools of small, shimmering fish play. Descending deeper, around the rock formations, you can see Jenkins' whipray and the extraordinary eagle ray with its striking blue eyes.
 
 ## Camera Bay
 
-![Camera Bay](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313988/Racha_Noi_Camera_Bay_isx5ca.png "Camera Bay")
+![Camera Bay](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Camera_Bay_isx5ca.png "Camera Bay")
 
 At the northwestern tip of Racha Noi lies the shallow 'Camera Bay'.
 

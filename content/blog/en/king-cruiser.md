@@ -3,7 +3,7 @@ title: "King Cruiser"
 title_meta: "King Cruiser Wreck"
 description: "The Story Behind the Dive Site"
 date: 2024-06-21
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313025/King_Cruiser_Preview_vhlcgu.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/kingCruiser/King_Cruiser_Preview_vhlcgu.png"
 ---
 
 The King Cruiser wreck is located in the open sea, approximately 30 km east of Phuket Island.
@@ -16,7 +16,7 @@ According to one version, the captain decided to deviate from the usual course, 
 
 Another theory suggests the vessel might have been intentionally steered onto the reef for insurance fraud purposes, as there were no cars on the ferry that day.
 
-![The Sinking of the King Cruiser](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313026/King_Cruiser_1_tntqrw.png "The Sinking of the King Cruiser")
+![The Sinking of the King Cruiser](https://f003.backblazeb2.com/file/diversnotes-images/kingCruiser/King_Cruiser_1_tntqrw.png "The Sinking of the King Cruiser")
 
 As a result of the collision, the vessel sustained damage and began to sink, settling onto a clear sandy bottom at a depth of about 33 meters over the course of 2.5 hours. No one was injured in the incident, but the true underlying cause of that day remains a mystery.
 
@@ -24,16 +24,16 @@ Over time spent on the seabed, the King Cruiser has become one of the most popul
 
 Unfortunately, the light construction of the car ferry, with large areas unsupported by strong beams, led to the wreck's structure collapsing over a short period. Strong currents combined with warm water only accelerated this process. Currently, there are no significant penetration points remaining, as all three decks have collapsed onto the main platform between the catamaran's two hulls.
 
-![King Cruiser Underwater](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313028/King_Cruiser_2_qi2us6.png "King Cruiser Underwater")
+![King Cruiser Underwater](https://f003.backblazeb2.com/file/diversnotes-images/kingCruiser/King_Cruiser_2_qi2us6.png "King Cruiser Underwater")
 
 The King Cruiser dive site is suitable for divers certified as Advanced Open Water Diver and for undertaking specialty courses like Wreck Diver and Nitrox Diver. For ease of descent and ascent, a mooring line attached to the ferry's stern is used, which is particularly helpful in strong currents. Because everyone starts and finishes their dive in the same place at roughly the same time, you should be prepared for some crowding at the safety stop. But every time I've dived here, it has been friendly, and everyone tried to help each other during that moment.
 
 The wreck is covered in soft and hard corals, which attract various species of fish. Around the vessel, you can see large schools of small fish, tuna, barracudas, and leopard sharks. Inside reside large groupers, snappers, and giant barracudas. The site also abounds with lionfish, scorpionfish, and stonefish.
 
-![Fish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313024/King_Cruiser_3_bepxwp.png "Fish")
+![Fish](https://f003.backblazeb2.com/file/diversnotes-images/kingCruiser/King_Cruiser_3_bepxwp.png "Fish")
 
 The King Cruiser dive site offers interesting diving opportunities for both experienced divers and beginners. For explorers, various parts of the vessel are accessible, including the engine room with narrow passages, ideal for divers with a sidemount configuration. For beginner divers, there are safe diving routes.
 
 The water temperature at the dive site is 28-30°C (82-86°F) year-round. Depending on weather conditions, water visibility varies from 5 to 15 meters (16 to 50 feet). Due to the ferry's location in the open sea, currents are quite common here, and they can be very strong.
 
-![Wreck Layout](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737313022/King_Cruiser_4_v1slye.png "Wreck Layout")
+![Wreck Layout](https://f003.backblazeb2.com/file/diversnotes-images/kingCruiser/King_Cruiser_4_v1slye.png "Wreck Layout")

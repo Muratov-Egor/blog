@@ -3,7 +3,7 @@ title: "Deep Diving"
 meta_title: "Deep Diving"
 description: "What is deep diving?"
 date: 2023-10-07
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309408/Deep_Diving_Preview_y3dv83.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_Preview_y3dv83.png"
 ---
 
 ## Introduction
@@ -24,7 +24,7 @@ This course is an exciting and important adventure that opens up the world of de
 
 In this article, I’ll explain what deep diving is all about.
 
-![PADI Deep diving course](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_1_cuytuy.png "PADI Deep diving course")
+![PADI Deep diving course](https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_1_cuytuy.png "PADI Deep diving course")
 
 ## What Is a Deep Dive?
 
@@ -40,7 +40,7 @@ Although the PADI Deep Diver course allows for dives up to 40 meters, 30 meters 
 
 - The deeper you go, the darker it gets. Even in clear water, light drops off significantly around 30 meters in temperate regions, and marine life becomes sparser. Visibility decreases and there’s less to see. In freshwater lakes, light may not even penetrate that deep at all.
 
-![Sunken ship at depth](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309406/Deep_Diving_2_xabbur.png "Sunken ship at depth")
+![Sunken ship at depth](https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_2_xabbur.png "Sunken ship at depth")
 
 ## Goals of Deep Diving
 
@@ -98,7 +98,7 @@ Buoyancy changes as you descend. At depth, these changes become less noticeable.
 
 In deep dives, descending vertically with your head above your feet helps avoid dizziness and disorientation. It also makes equalizing easier.
 
-![Diver descending](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_3_sgsdrx.png "Diver descending")
+![Diver descending](https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_3_sgsdrx.png "Diver descending")
 
 ### **Controlled descents and ascents**
 
@@ -124,7 +124,7 @@ A safety stop at 5 meters for 3 minutes after each dive allows your body to rele
 
 Safety stops reduce the formation of bubbles by up to five times. Models show that a three-minute stop is even more effective at reducing nitrogen load than just halving your ascent speed.
 
-![Safety stop](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_4_n64m6t.png "Safety stop")
+![Safety stop](https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_4_n64m6t.png "Safety stop")
 
 ## Types of Deep Dives
 
@@ -132,7 +132,7 @@ There are two key types of deep dives to be aware of: **drift dives** and **wall
 
 ### **Drift dives at depth**
 
-![Drift diving](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309400/Deep_Diving_5_gysofi.png "Drift diving")
+![Drift diving](https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_5_gysofi.png "Drift diving")
 
 Drift dives are great because the current carries you — minimal effort required. But deep drift dives demand solid coordination.
 
@@ -150,7 +150,7 @@ Tips:
 
 ### **Wall dives at depth**
 
-![Wall diving](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309403/Deep_Diving_6_jgjfm7.png "Wall diving")
+![Wall diving](https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_6_jgjfm7.png "Wall diving")
 
 Walls are beautiful — and disorienting. Follow these rules:
 
@@ -202,7 +202,7 @@ A few notes on the required four dives:
 - Your instructor can add more if more practice is needed.
 - If you’ve completed the deep dive from the PADI Advanced Open Water course, it counts as one. Certain other certifications may also credit specific skills.
 
-![Beauty of deep diving](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309402/Deep_Diving_7_cggsud.png "Beauty of deep diving")
+![Beauty of deep diving](https://f003.backblazeb2.com/file/diversnotes-images/deepDiving/Deep_Diving_7_cggsud.png "Beauty of deep diving")
 
 ## Conclusion
 

@@ -3,7 +3,7 @@ title: "Briefing"
 meta_title: "Briefing"
 description: "Briefing for certified divers"
 date: 2023-07-13
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309140/Briefing_Preview_d3mu9z.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/briefing/Briefing_Preview_d3mu9z.png"
 categories: ["Diving Theory"]
 tags: ["Diving Theory", "Briefing"]
 ---
@@ -40,7 +40,7 @@ That was the intro. Now, let’s move on to the first-person version of the brie
 
 ### Part 1. Briefing about the boat.
 
-![Typical dive boat](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309140/Briefing_Preview_d3mu9z.png "Typical dive boat")
+![Typical dive boat](https://f003.backblazeb2.com/file/diversnotes-images/briefing/Briefing_Preview_d3mu9z.png "Typical dive boat")
 
 Right after boarding the boat, I gather everyone together, we put on life jackets, and I start explaining the boat layout.
 
@@ -70,7 +70,7 @@ Hi again! My name is Egor, and I’ll be your divemaster today.
 
 Today we’re doing the Discover Local Diving program. It’s meant for certified divers who want to explore a new location. We’re diving at Racha Yai Island, at the Bay 1 and Bay 2 dive sites. The boat ride will take about 1.5 to 2 hours depending on sea conditions. On the way, we’ll pass by Ko Lon and Ko He islands.
 
-![On the way to Racha Yai](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309141/Briefing_2_wimxfp.png "On the way to Racha Yai")
+![On the way to Racha Yai](https://f003.backblazeb2.com/file/diversnotes-images/briefing/Briefing_2_wimxfp.png "On the way to Racha Yai")
 
 These dive sites are two adjacent bays. In the shallow, protected area around 7-8 meters deep, there’s a large coral reef with plenty of marine life. We’ll start the first dive here to refresh equipment use and get familiar with the area.
 
@@ -86,7 +86,7 @@ Now let’s cover how we dive, what to do in case of problems, and how we commun
 
 We enter the water with a giant stride. Walk to the edge of the boat fully geared: tank open, BCD inflated, mask on, regulator in. Hold mask and reg with your right hand, hold weight belt and BCD buckles with your left. Your fins should be over the water but feet still on deck. Look at the horizon, take a big step, and drop vertically. Your inflated BCD will bring you back to the surface where you lie on your back. If needed, inflate more. Once everything is okay, signal “OK”. Remember — this signal (*shows OK sign*) is both a question and an answer. If someone gives it to you, respond. At the surface, OK is shown like this (*taps top of head*).
 
-![OK signal](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309140/Briefing_3_s8iccc.png "OK signal")
+![OK signal](https://f003.backblazeb2.com/file/diversnotes-images/briefing/Briefing_3_s8iccc.png "OK signal")
 
 When we’re all set, I’ll give the down signal (*thumbs down*) and we begin the descent — vertically, slowly venting air from BCD. Don’t drop like a rock — stay controlled and follow me. Equalize pressure frequently. Remember how? Right — pinch your nose and gently blow. Do it as soon as you feel pressure in your ears, and at least once every meter. If you have trouble equalizing or other problems, signal it (*waves flat hand side to side*) and show what’s wrong — ears, mask, foot, etc.
 
@@ -100,13 +100,13 @@ Check your air often. The question is shown like this (*taps palm with two finge
 
 We ascend when I show *thumbs up*. Ascend slowly while venting BCD. Raise one hand and look around to avoid collisions. At the surface, fully inflate BCD, lie back, and swim to the boat.
 
-![Ascent](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309139/Briefing_4_smpww3.png "Ascent")
+![Ascent](https://f003.backblazeb2.com/file/diversnotes-images/briefing/Briefing_4_smpww3.png "Ascent")
 
 To exit the water, swim to the ladder. Hold it with one hand, remove fins with the other and hand them up. Then grab the rail with both hands and climb. Don’t wait directly under someone climbing — if they fall, the tank may hit you. After climbing, take your fins and go back to your place to remove your gear.
 
 We dive as a group. I lead, you follow. Stay at the same level — not higher, not lower. Stay close but don’t bump into each other. If you get separated — maybe distracted by a fish — stop, count to 60, look around. Stay put while I look for you. If no one finds you in a minute, start a slow, safe ascent. Skip the safety stop. Once at the surface, inflate BCD and wait. We’ll reunite topside. But really — don’t get lost. Losing your buddy is the gravest sin.
 
-![Stick together](https://res.cloudinary.com/dkm2zslzr/image/upload/v1737309139/Briefing_5_ofikbb.png "Stick together")
+![Stick together](https://f003.backblazeb2.com/file/diversnotes-images/briefing/Briefing_5_ofikbb.png "Stick together")
 
 One last thing — hopefully unnecessary — but worth mentioning. If you run out of air or have an air supply problem, signal your buddy (*shows “out of air, share air”*), then start breathing from their alternate reg. Ascend together at a safe speed, skipping the safety stop.
 
