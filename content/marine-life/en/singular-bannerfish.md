@@ -1,7 +1,7 @@
 ---
 title: "Singular Bannerfish"
 meta_title: "Singular Bannerfish (Heniochus singularius)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742054170/4_Singular_Bannerfish_afkffn.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SingularBannerfish/4_Singular_Bannerfish_afkffn.png"
 date: 2025-03-15
 ---
 The singular bannerfish (Heniochus singularius), also known as the singular pennantfish, is the largest member of its genus, reaching up to 30 cm in length. Its body is adorned with alternating black and white stripes, while the tail fin is bright yellow. A distinguishing feature of this species is the white stripe behind the eye and a horn-like projection on the forehead. In adult individuals, the stripes become less pronounced, and the anal fin darkens, setting them apart from similar species such as Heniochus monoceros.

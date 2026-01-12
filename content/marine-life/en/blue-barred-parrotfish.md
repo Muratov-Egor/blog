@@ -1,7 +1,7 @@
 ---
 title: "Blue-barred parrotfish (Scarus ghobban)"
 meta_title: "Scarus ghobban, Blue-barred parrotfish, blue trim parrotfish, cream parrotfish, globe-headed parrotfish, green blotched parrotfish, yellow scale parrotfish, and bluechin parrotfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739118003/Blue-barred_parrotfish_jhnr9b.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueBarredParrotfish/Blue-barred_parrotfish_jhnr9b.png"
 date: 2025-02-11
 ---
 
@@ -13,7 +13,7 @@ The blue-barred parrotfish has a distinctive coloration: its body shimmers with 
 
 This species grows rapidly and can live up to 13 years.
 
-![Blue-barred parrotfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739118002/Blue-barred_parrotfish_2_ovbosy.png "Blue-barred parrotfish")
+![Blue-barred parrotfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueBarredParrotfish/Blue-barred_parrotfish_2_ovbosy.png "Blue-barred parrotfish")
 
 Like other parrotfish, it feeds on algae, which it scrapes off rocks and corals using its powerful, beak-like fused teeth. This behavior not only provides sustenance but also helps maintain reef health by preventing excessive algal growth. Additionally, the fish processes coral material, turning it into sand, which plays a vital role in shaping the ocean floor.
 

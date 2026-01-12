@@ -1,7 +1,7 @@
 ---
 title: "Phyllidia varicosa"
 meta_title: "Варикозная филлидия (Phyllidia varicosa)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739119716/Phyllidia_varicosa_2_k3squx.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PhyllidiaVaricosa/Phyllidia_varicosa_2_k3squx.png"
 date: 2025-02-11
 ---
 
@@ -11,7 +11,7 @@ Widely distributed across the Indo-Pacific region, Phyllidia varicosa is found i
 
 Beyond its wide range, Phyllidia varicosa is also notable for its size. While the average length is 8–10 cm, some individuals can grow up to 12 cm.
 
-![Phyllidia varicosa](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739119717/Phyllidia_varicosa_bo6ozi.png "Phyllidia varicosa")
+![Phyllidia varicosa](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PhyllidiaVaricosa/Phyllidia_varicosa_bo6ozi.png "Phyllidia varicosa")
 
 This species has an elongated oval body covered with distinctive longitudinal ridges, making it easily recognizable. The ridges and tubercle bases are grayish-blue or blue, while the tubercle tops are bright yellow. The ridges can be continuous or broken, with black spaces in between. The edges of the mantle feature semicircular ridges with yellow tubercles. The rhinophores (sensory organs) are bright yellow, and the foot sole has a black longitudinal stripe.
 

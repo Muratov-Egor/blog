@@ -1,7 +1,7 @@
 ---
 title: "Humbug damselfish"
 meta_title: "Humbug damselfish (Dascyllus aruanus), Whitetail dascyllus, Threestripe dascyllus"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332143/Humbug_Damselfish_p9ilxq.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/HumbugDamselfish/Humbug_Damselfish_p9ilxq.png"
 date: 2024-05-27
 ---
 
@@ -17,4 +17,4 @@ The Humbug damselfish reproduces through external fertilization. Males build a n
 
 The Threestripe dascyllus poses no danger to divers. They are usually curious and may approach divers, but they pose no threat. Their small size and generally peaceful nature make them harmless to humans.
 
-![Humbug damselfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332143/Humbug_Damselfish_2_n4hntx.png "Humbug damselfish")
+![Humbug damselfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/HumbugDamselfish/Humbug_Damselfish_2_n4hntx.png "Humbug damselfish")

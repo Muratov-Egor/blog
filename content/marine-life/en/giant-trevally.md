@@ -1,7 +1,7 @@
 ---
 title: "Giant trevally"
 meta_title: "Giant trevally"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738331757/Giant_Trevally_pj3lej.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/GiantTrevally/Giant_Trevally_pj3lej.png"
 date: 2023-12-16
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Phyllidia coelestis"
 meta_title: "Phyllidia coelestis"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742054493/6_Phyllidia_coelestis_vk6c3g.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PhyllidiaCoelestis/6_Phyllidia_coelestis_vk6c3g.png"
 date: 2025-03-15
 ---
 

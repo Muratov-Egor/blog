@@ -1,7 +1,7 @@
 ---
 title: "Redtail butterflyfish"
 meta_title: "Redtail butterflyfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729532733/redtail-butterflyfish_og4qds.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedtailButterflyfish/redtail-butterflyfish_og4qds.png"
 date: 2024-10-21
 tags: ["Racha Yai", "Racha Noi", "Shark Point", "Similan Islands"]
 ---
@@ -14,4 +14,4 @@ The redtail butterflyfish primarily feeds on coral polyps, small invertebrates, 
 
 This fish poses no danger to humans. It is peaceful and non-aggressive toward divers and other marine life.
 
-![Red lionfish](https://res.cloudinary.com/danezbcu5/image/upload/v1729357143/redtail-butterflyfish_ugsreh.png "Red lionfish")
+![Red lionfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedtailButterflyfish/redtail-butterflyfish_ugsreh.png "Red lionfish")

@@ -1,7 +1,7 @@
 ---
 title: "Freckled Goatfish"
 meta_title: "Freckled Goatfish (Upeneus tragula)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330997/Freckled_Goatfish_bo6wfj.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/FreckledGoatfish/Freckled_Goatfish_bo6wfj.png"
 date: 2024-05-27
 ---
 

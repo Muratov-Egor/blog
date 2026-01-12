@@ -2,7 +2,7 @@
 title: "Длиннопёрый групер"
 meta_title: "Длиннопёрый групер (Epinephelus quoyanus). Longfin grouper"
 title_en: "Longfin grouper"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738324895/Longfin_Grouper_2_byvmgv.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LongfinGrouper/Longfin_Grouper_2_byvmgv.png"
 date: 2024-10-21
 ---
 Длиннопёрый групер отличается удлинённым телом, которое в 2,8–3,2 раза длиннее его глубины. Голова плавно изогнута, с почти прямой верхней кромкой жаберной крышки. На спинном плавнике имеется 11 острых шипов и 16–18 мягких лучей, анальный плавник оснащён 3 шипами и 8 мягкими лучами. Хвостовой плавник округлый, а грудные плавники почти в два раза длиннее головы, что выделяет этот вид среди других груперов. Окраска светлая, с множеством тёмных пятен, которые создают плотный узор на верхней части головы и тела, тогда как на нижней части пятна более редкие и размытые. Спинной, анальный и хвостовой плавники также покрыты похожими пятнами.
@@ -11,7 +11,7 @@ date: 2024-10-21
 
 Длиннопёрый групер живёт в Индо-Тихоокеанском регионе, включая воды Индомалайского архипелага, Андаманских островов и северного побережья Австралии. Предпочитает илистые рифы и песчаное дно на глубинах до 50 метров.
 
-![Longfin grouper](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738324895/Longfin_Grouper_t5tugn.png "Longfin grouper")
+![Longfin grouper](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LongfinGrouper/Longfin_Grouper_t5tugn.png "Longfin grouper")
 
 Питается червями, мелкими рыбами и ракообразными. Это активный хищник, часто охотящийся из засады.
 
@@ -21,4 +21,4 @@ date: 2024-10-21
 
 Этот вид впервые был описан в 1830 году французским зоологом Ахиллем Валенсьеном и назван в честь натуралиста Жана Рене Констана Куа.
 
-![Longfin grouper](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738324893/Longfin_Grouper_3_uzw5ne.png "Longfin grouper")
+![Longfin grouper](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LongfinGrouper/Longfin_Grouper_3_uzw5ne.png "Longfin grouper")

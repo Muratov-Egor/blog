@@ -2,7 +2,7 @@
 title: "Обыкновенная прилипала"
 title_en: "Live sharksucker"
 meta_title: "Обыкновенная прилипала (Live sharksucker) или полосатая рыба-прилипала (Echeneis naucrates)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739205637/Live_sharksucker_o27flf.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LiveSharksucker/Live_sharksucker_o27flf.png"
 date: 2025-02-11
 ---
 
@@ -12,7 +12,7 @@ date: 2025-02-11
 
 Рыба прикрепляется к крупным морским животным, совершая с ними длительные миграции, однако также встречаются группы свободноплавающих особей. Прилипалы, прикрепившиеся к одиночным животным-хозяевам, обычно образуют разнополые пары.
 
-![Live sharksucker](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739205640/Live_sharksucker_4_ildizf.png "Live sharksucker")
+![Live sharksucker](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LiveSharksucker/Live_sharksucker_4_ildizf.png "Live sharksucker")
 
 Молодь сначала плавает свободно, но начинает прикрепляться к подвижным объектам при достижении длины 40–80 миллиметров. В этом возрасте её «хозяевами» часто бывают некрупные рыбы, такие как кузовки и иглобрюхи.
 
@@ -22,4 +22,4 @@ date: 2025-02-11
 
 Обыкновенная прилипала играет важную роль в морских экосистемах, участвуя в пищевых цепях, очищая тела крупных животных от паразитов и способствуя перераспределению питательных веществ в воде.
 
-![Live sharksucker](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739205637/Live_sharksucker_3_lwx0uj.png "Live sharksucker")
+![Live sharksucker](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LiveSharksucker/Live_sharksucker_3_lwx0uj.png "Live sharksucker")

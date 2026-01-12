@@ -2,7 +2,7 @@
 title: "White damsel"
 title_en: "White damsel"
 meta_title: "White damsel (Dischistodus perspicillatus)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334872/White_Damsel_3557x2001_hkqwkc.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/WhiteDamsel/White_Damsel_3557x2001_hkqwkc.png"
 date: 2024-06-15
 ---
 
@@ -12,7 +12,7 @@ The **White damsel (Dischistodus perspicillatus)** is distinguished by noticeabl
 
 The White damsel inhabits the tropical waters of the Indo-Pacific, particularly around the Great Barrier Reef, Indonesia, and the Philippines. These fish prefer to live among coral reefs, at depths ranging from 1 to 15 meters, often in sheltered areas such as lagoons and inner reefs.
 
-![White damsel](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334877/White_Damsel_2_iixcyn.png "White damsel")
+![White damsel](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/WhiteDamsel/White_Damsel_2_iixcyn.png "White damsel")
 
 The White damsel is an omnivorous fish. Their diet includes algae, plankton, small crustaceans, and other invertebrates. These fish often graze on reefs, nibbling algae from coral surfaces and feeding on small organisms found within the coral structures.
 
@@ -20,4 +20,4 @@ Reproduction in *Dischistodus perspicillatus* occurs through spawning. Males bui
 
 The White damsel poses no danger to divers. These fish are not aggressive and not venomous. During the breeding season, males may exhibit territorial behavior while defending their nests, but overall they are harmless to humans.
 
-![White damsel](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334887/White_Damsel_3_otcwaw.png "White damsel")
+![White damsel](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/WhiteDamsel/White_Damsel_3_otcwaw.png "White damsel")

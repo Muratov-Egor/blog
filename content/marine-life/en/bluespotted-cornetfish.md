@@ -1,7 +1,7 @@
 ---
 title: "Bluespotted cornetfish"
 meta_title: "Bluespotted cornetfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327558/Bluespotted_Cornetfish_h8cpwr.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BluespottedCornetfish/Bluespotted_Cornetfish_h8cpwr.png"
 date: 2024-05-27
 ---
 
@@ -13,6 +13,6 @@ Cornetfish typically reproduce in warm waters. They reproduce through external f
 
 Cornetfish are predators and feed mainly on small fish and crustaceans. They use their elongated snouts to rapidly suck in prey.
 
-![Bluespotted cornetfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327565/Bluespotted_Cornetfish_4783x2690_haibtl.png "Bluespotted cornetfish")
+![Bluespotted cornetfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BluespottedCornetfish/Bluespotted_Cornetfish_4783x2690_haibtl.png "Bluespotted cornetfish")
 
 The Bluespotted cornetfish generally poses no danger to divers. They are shy and tend to avoid contact with humans. However, like all marine life, they should be observed from a distance to avoid causing stress to the animal or provoking an unintentional reaction.

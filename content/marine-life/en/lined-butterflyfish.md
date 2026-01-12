@@ -1,7 +1,7 @@
 ---
 title: "Lined butterflyfish"
 meta_title: "Lined butterflyfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332382/Lined_Butterflyfish_j3kuuy.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LinedButterflyfish/Lined_Butterflyfish_j3kuuy.png"
 date: 2023-12-15
 ---
 

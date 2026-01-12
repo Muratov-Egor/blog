@@ -2,7 +2,7 @@
 title: "Фараоновая каракатица"
 meta_title: "Фараоновая каракатица"
 title_en: "Pharaoh cuttlefish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332855/Pharaoh_Cuttlefish_k3pspu.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PharaohCuttlefish/Pharaoh_Cuttlefish_k3pspu.png"
 date: 2024-03-16
 ---
 
@@ -16,4 +16,4 @@ date: 2024-03-16
 
 Каракатицы всегда голодны и постоянно ищут пищу. Они едят рыбу, морских червей, а их любимая добыча - мелкие крабы. Они охотятся, маскируясь под окружающую среду, но если это не помогает, они могут использовать свои умения и проецировать разноцветные пульсации света, чтобы гипнотизировать добычу и ловко её поймать. Для человека эти каракатицы безопасны, и рядом с ними можно спокойно плавать.
 
-![Pharaoh cuttlefish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742047850/Pharaoh_cuttlefish_aa7jfk.png "Pharaoh cuttlefish")
+![Pharaoh cuttlefish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PharaohCuttlefish/Pharaoh_cuttlefish_aa7jfk.png "Pharaoh cuttlefish")

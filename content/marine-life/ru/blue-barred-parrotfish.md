@@ -2,7 +2,7 @@
 title: "Жёлточешуйный попугай"
 title_en: "Blue-barred parrotfish (Scarus ghobban)"
 meta_title: "Scarus ghobban, Blue-barred parrotfish, blue trim parrotfish, cream parrotfish, globe-headed parrotfish, green blotched parrotfish, yellow scale parrotfish, and bluechin parrotfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739118003/Blue-barred_parrotfish_jhnr9b.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueBarredParrotfish/Blue-barred_parrotfish_jhnr9b.png"
 date: 2025-02-11
 ---
 
@@ -14,7 +14,7 @@ date: 2025-02-11
 
 Этот вид быстро растёт и способен жить до 13 лет.
 
-![Blue-barred parrotfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739118002/Blue-barred_parrotfish_2_ovbosy.png "Blue-barred parrotfish")
+![Blue-barred parrotfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueBarredParrotfish/Blue-barred_parrotfish_2_ovbosy.png "Blue-barred parrotfish")
 
 Как и другие попугайные рыбы, он питается водорослями, которые соскребает с камней и кораллов, используя мощный «клюв» из сросшихся зубов. Благодаря этому рыба не только обеспечивает себя пищей, но и способствует очищению рифов от избыточных водорослей. Помимо растительности, она перерабатывает коралловый материал, превращая его в песок, что играет важную роль в формировании морского дна.
 

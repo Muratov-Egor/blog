@@ -1,7 +1,7 @@
 ---
 title: "Yellowtail barracuda"
 meta_title: "Yellowtail barracuda"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334950/Yellowtail_Barracuda_r3by0p.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailBarracuda/Yellowtail_Barracuda_r3by0p.png"
 date: 2024-06-15
 ---
 
@@ -11,4 +11,4 @@ The Yellowtail barracuda has an elongated body with two well-separated dorsal fi
 
 Yellowtail barracudas are found from the Red Sea to Samoa, with their northern limit being the Ryukyu Islands and the southern limit being the Great Barrier Reef. During the day, they hunt in lagoons and on inner and outer reef slopes; at night, they likely prey on fish and large invertebrates. Their eggs and fry are planktonic, while juveniles shelter in very protected coastal waters. Adults can reach a maximum age of six years.
 
-![Yellowtail barracuda](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334944/Yellowtail_Barracuda_2_dwue28.png "Yellowtail barracuda")
+![Yellowtail barracuda](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailBarracuda/Yellowtail_Barracuda_2_dwue28.png "Yellowtail barracuda")

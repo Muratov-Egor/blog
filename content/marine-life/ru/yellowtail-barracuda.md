@@ -2,7 +2,7 @@
 title: "Желтохвостая барракуда"
 title_en: "Yellowtail barracuda"
 meta_title: "Yellowtail barracuda"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334950/Yellowtail_Barracuda_r3by0p.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailBarracuda/Yellowtail_Barracuda_r3by0p.png"
 date: 2024-06-15
 ---
 
@@ -12,4 +12,4 @@ date: 2024-06-15
 
 Желтохвостые барракуды обитают от Красного моря до Самоа, их северная граница — острова Рюкю, а южная — Большой Барьерный риф. Днем они охотятся в лагунах и на внутренних и внешних склонах рифов, а ночью, вероятно, на рыб и крупных беспозвоночных. Их яйца и мальки являются планктонными, в то время как молодь укрывается в очень защищенных прибрежных водах. Взрослые особи могут достигать максимального возраста в шесть лет.
 
-![Yellowtail barracuda](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334944/Yellowtail_Barracuda_2_dwue28.png "Yellowtail barracuda")
+![Yellowtail barracuda](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailBarracuda/Yellowtail_Barracuda_2_dwue28.png "Yellowtail barracuda")

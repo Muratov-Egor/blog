@@ -2,14 +2,14 @@
 title: "Крапчатый окунь"
 title_en: "Speckled sandperch"
 meta_title: "Крапчатый окунь, Parapercis hexophtalma, Speckled sandperch"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333893/Speckled_Sandperch_otviwl.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SpeckledSandperch/Speckled_Sandperch_otviwl.png"
 date: 2024-07-10
 ---
 Крапчатый окунь (Parapercis hexophtalma) он же Белый крапчатый морской окунь — представитель рода Parapercis. У самцо и самок есть различия во внешности.
 
 Крапчатый окунь имеет слегка сжатое цилиндрическое тело, которое сужается к задней части. Глаза расположены высоко на голове, близко друг к другу. Губы у этой рыбы довольно мясистые. Спинной плавник простирается вдоль тела, а анальный плавник, начинающийся в середине тела, также пропорционально длинный. Брюшные плавники также длинные.
 
-![Speckled sandperch](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333884/Speckled_Sandperch_1_gjxko3.png "Speckled sandperch")
+![Speckled sandperch](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SpeckledSandperch/Speckled_Sandperch_1_gjxko3.png "Speckled sandperch")
 
 Самки имеют ряд пятен вдоль верхней части тела и 7-8 вертикальных полос на животе. На некоторых из этих полос могут быть желтые пятна, обведенные черным. Лицо покрыто мелкими пятнышками. На хвосте имеется заметное черное пятно.
 
@@ -17,7 +17,7 @@ date: 2024-07-10
 
 Крапчатые окуни обычно встречаются на песчаных участках и среди обломков между рифами. Они сидят на дне, опираясь на грудные плавники, и делают резкие броски вверх. У них, похоже, очень хорошее зрение. При приближении дайвера они обычно остаются на дне, но если подойти слишком близко, рыбы быстро уплывают. Часто их можно увидеть парами.
 
-![Speckled sandperch](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333888/Speckled_Sandperch_2_hbunpu.png "Speckled sandperch")
+![Speckled sandperch](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SpeckledSandperch/Speckled_Sandperch_2_hbunpu.png "Speckled sandperch")
 
 Крапчатый окунь встречается в Индо-Западной части Тихого океана. Обычно они обитают на песчаных и галечных участках между рифами. Можно встретить на глубине до 18 метров.
 
@@ -25,5 +25,5 @@ date: 2024-07-10
 
 О брачных привычках этого вида известно немного. Как и у большинства песчаных окуней, они являются последовательными гермафродитами, начиная свою взрослую жизнь как самки и позже становясь самцами, вероятно, под воздействием социальных сигналов. Самок вокруг значительно больше, чем самцов, и каждый самец охраняет гарем из двух-трех самок. Нерест происходит на закате. Самец и самка поднимаются над дном и выпускают икру и сперму в воду.
 
-![Speckled sandperch](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333892/Speckled_Sandperch_3_y6sh4l.png "Speckled sandperch")
+![Speckled sandperch](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SpeckledSandperch/Speckled_Sandperch_3_y6sh4l.png "Speckled sandperch")
 

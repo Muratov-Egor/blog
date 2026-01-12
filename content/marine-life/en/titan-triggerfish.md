@@ -1,7 +1,7 @@
 ---
 title: "Titan triggerfish"
 meta_title: "Titan triggerfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334816/Titan_Triggerfish_2412x1357_ucg6dc.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/TitanTriggerfish/Titan_Triggerfish_2412x1357_ucg6dc.png"
 date: 2024-04-19
 ---
 
@@ -11,7 +11,7 @@ These fish are usually encountered alone or in pairs and inhabit lagoons and out
 
 They live at depths down to 40 meters and are easily recognizable by the reticulated pattern on their body, their white caudal fin, and the white lower part of their head.
 
-![Titan triggerfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334812/Titan_Triggerfish_2457x1382_tjksc6.png "Titan triggerfish")
+![Titan triggerfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/TitanTriggerfish/Titan_Triggerfish_2457x1382_tjksc6.png "Titan triggerfish")
 
 Titan triggerfish are large and have a striking appearance. The latter is typical for many coral reef inhabitants, but their large, sharp teeth reveal them as dangerous predators. They obtain food in a rather unusual way – using rapid body movements or jets of water blown from the mouth to create eddies in the bottom sediment and uncover small marine animals, which become their prey. They also feed on coral polyps, biting off pieces. Primarily, they feed on various types of corals, sea urchins, starfish, and bivalve mollusks.
 

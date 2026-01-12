@@ -2,7 +2,7 @@
 title: "Крылатка-зебра"
 meta_title: "Крылатка-зебра (Pterois volitans) Red lionfish"
 title_en: "Red lionfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333053/Red_Lionfish_2400x1350_yy8t5m.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedLionfish/Red_Lionfish_2400x1350_yy8t5m.png"
 date: 2024-10-21
 ---
 
@@ -10,10 +10,10 @@ date: 2024-10-21
 
 Крылатка ведет одиночный, ночной образ жизни. Днём она прячется в пещерах, среди кораллов и камней, прижимаясь брюхом к поверхности и выставляя наружу ядовитые колючие плавники для самозащиты. Её образ жизни — засадный хищник, охотящийся на крабов, креветок, моллюсков и мелкую рыбу, маскируясь под цветные водоросли, что позволяет ей незаметно ждать добычу.
 
-![Red lionfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333063/Red_Lionfish_3_ivujb6.png "Red lionfish")
+![Red lionfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedLionfish/Red_Lionfish_3_ivujb6.png "Red lionfish")
 
 Крылатка-зебра обитает в тропических водах Индийского и Тихого океанов, включая Китай, Японию, Австралию и Карибский бассейн. Она населяет мелководные лагуны и внешние склоны коралловых рифов на глубинах от 2 до 55 метров.
 
 Крылатка-зебра представляет серьёзную опасность для человека из-за своей высокой ядовитости. Яд содержится в иглах плавников и остаётся активным даже после смерти рыбы. Укол вызывает сильную боль, которая может продолжаться несколько часов. В тяжёлых случаях возможно ухудшение состояния, включая паралич скелетных и дыхательных мышц. Крылатка активно защищает себя, используя свои спинные колючки в качестве оружия, быстро поворачиваясь и атакуя при угрозе.
 
-![Red lionfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333065/Red_Lionfish_4_vnrss3.png "Red lionfish")
+![Red lionfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedLionfish/Red_Lionfish_4_vnrss3.png "Red lionfish")

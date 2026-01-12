@@ -2,7 +2,7 @@
 title: "Рыба-клоун Кларка"
 title_en: "Clark's anemonefish"
 meta_title: "Рыба-клоун Кларка. Amphiprion clarkii. Clark's anemonefish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738329997/Clarks_Anemonefish_jsp7bs.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ClarksAnemonefish/Clarks_Anemonefish_jsp7bs.png"
 date: 2024-06-15
 ---
 
@@ -16,4 +16,4 @@ date: 2024-06-15
 
 Рыба-клоун Кларка могут стать агрессивными, защищая свою територию, если чувствуют угрозу. Укусы могут быть неприятными, но они не ядовиты и не представляют серьезной угрозы.
 
-![Clark's anemonefish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330000/Clarks_Anemonefish_2477x1392_yqzuzi.png "Clark's anemonefish")
+![Clark's anemonefish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ClarksAnemonefish/Clarks_Anemonefish_2477x1392_yqzuzi.png "Clark's anemonefish")

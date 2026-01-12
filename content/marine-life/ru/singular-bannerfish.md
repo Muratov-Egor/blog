@@ -2,7 +2,7 @@
 title: "Рыба-вымпел одиночка"
 title_en: "Singular Bannerfish"
 meta_title: "Единичная рыба-вымпел (Heniochus singularius). Единичный вымпельный окунь. Singular Bannerfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742054170/4_Singular_Bannerfish_afkffn.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SingularBannerfish/4_Singular_Bannerfish_afkffn.png"
 date: 2025-03-15
 ---
 

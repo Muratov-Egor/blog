@@ -1,7 +1,7 @@
 ---
 title: "Fimbriated moray"
 meta_title: "Fimbriated moray"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330161/Fimbriated_Moray_yw7pmm.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/FimbriatedMoray/Fimbriated_Moray_yw7pmm.png"
 date: 2024-01-17
 ---
 

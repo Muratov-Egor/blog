@@ -2,7 +2,7 @@
 title: "Ёлочный червь"
 title_en: "Christmas tree worm"
 meta_title: "Ёлочный червь. Christmas tree worm. Spirobranchus giganteus"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327693/Christmas_Tree_Worm_y0y6rr.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ChristmasTreeWorm/Christmas_Tree_Worm_y0y6rr.png"
 date: 2024-04-30
 ---
 
@@ -12,7 +12,7 @@ date: 2024-04-30
 
 Многощетинковый червь живет в известковой трубке, которую строит самостоятельно, добывая из воды ионы кальция и скрепляя их слюной. С каждым разом эта трубка пополняется новыми кольцами и увеличивается в размерах.
 
-![Christmas tree worm](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327692/Christmas_Tree_Worm_2_ux7mgk.png "Christmas tree worm")
+![Christmas tree worm](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ChristmasTreeWorm/Christmas_Tree_Worm_2_ux7mgk.png "Christmas tree worm")
 
 Чаще всего рождественские елочные черви населяют крупные виды кораллов, такие как каменистые кораллы, например, пориты, и мозговые кораллы. Когда рождественский елочный червь уходит в трубку, он может запечатать ее, закрывшись с помощью люка, похожего на крышку, называемого оперкулумом, который дополнительно защищен острыми шипами. Очень чувствительные к опасности, при малейшем прикосновении или даже падении тени быстро отступают в свои норки.
 
@@ -20,4 +20,4 @@ date: 2024-04-30
 
 Живут Spirobranchus giganteus по-разному, все зависит от вида: более мелкие черви - несколько месяцев, а виды покрупнее – до 4-8 лет.
 
-![Christmas tree worm](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327695/Christmas_Tree_Worm_3_a7e7ix.png "Christmas tree worm")
+![Christmas tree worm](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ChristmasTreeWorm/Christmas_Tree_Worm_3_a7e7ix.png "Christmas tree worm")

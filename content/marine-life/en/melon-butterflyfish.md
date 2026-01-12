@@ -1,7 +1,7 @@
 ---
 title: "Melon butterflyfish"
 meta_title: "Melon butterflyfish (Chaetodon trifasciatus)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332626/Melon_Butterflyfish_2634x1482_hgallk.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MelonButterflyfish/Melon_Butterflyfish_2634x1482_hgallk.png"
 date: 2024-05-27
 ---
 
@@ -15,4 +15,4 @@ The diet of the Melon butterflyfish primarily consists of coral polyps, making t
 
 They are known for their shy and peaceful nature. Although they may approach divers out of curiosity, they pose no threat.
 
-![Melon butterflyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332626/Melon_Butterflyfish_2_sc6yd7.png "Melon butterflyfish")
+![Melon butterflyfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MelonButterflyfish/Melon_Butterflyfish_2_sc6yd7.png "Melon butterflyfish")

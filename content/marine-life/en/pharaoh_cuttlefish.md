@@ -1,7 +1,7 @@
 ---
 title: "Pharaoh cuttlefish"
 meta_title: "Pharaoh cuttlefish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332855/Pharaoh_Cuttlefish_k3pspu.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PharaohCuttlefish/Pharaoh_Cuttlefish_k3pspu.png"
 date: 2024-03-16
 ---
 
@@ -15,4 +15,4 @@ Cuttlefish have excellent vision, thanks to special filters [likely referring to
 
 Cuttlefish are always hungry and constantly searching for food. They eat fish, marine worms, and their favorite prey are small crabs. They hunt by camouflaging themselves against the environment, but if that isn't enough, they can use their abilities to project colorful light pulsations to hypnotize prey and deftly capture it. These cuttlefish are harmless to humans, and one can safely swim near them.
 
-![Pharaoh cuttlefish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742047850/Pharaoh_cuttlefish_aa7jfk.png "Pharaoh cuttlefish")
+![Pharaoh cuttlefish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PharaohCuttlefish/Pharaoh_cuttlefish_aa7jfk.png "Pharaoh cuttlefish")

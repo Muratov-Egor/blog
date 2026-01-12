@@ -2,7 +2,7 @@
 title: "Трёхпятнистый дасцилл (Домино)"
 title_en: "Three-spot Dascullus"
 meta_title: "Трёхпятнистый дасцилл (Dascyllus trimaculatus). Домино. Three-spot Dascullus"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742054081/3_Three-spot_Dascullus_w3jd49.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/Three-spotDascullus/3_Three-spot_Dascullus_w3jd49.png"
 date: 2025-03-15
 ---
 

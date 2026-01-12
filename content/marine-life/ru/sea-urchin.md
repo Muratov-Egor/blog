@@ -2,7 +2,7 @@
 title: "Длинношипый морской еж"
 title_en: "Long Spined Black Urchin"
 meta_title: "Длинношипый морской еж, Sea urchin, Long Spined Black Urchin, Diadema antillarum"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333612/Sea_Urchin_3096x1740_p0ieod.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LongSpinedBlackUrchin/Sea_Urchin_3096x1740_p0ieod.png"
 date: 2024-07-10
 ---
 
@@ -14,7 +14,7 @@ date: 2024-07-10
 
 Иглы этих ежей очень хрупкие и могут ломаться, застревая в хищниках, которые пытаются на них напасть. Они также покрыты ядовитым веществом, отпугивающим мелких хищников.
 
-![Long Spined Black Urchi](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333612/Sea_Urchin_1_wv5leq.png "Long Spined Black Urchi")
+![Long Spined Black Urchi](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LongSpinedBlackUrchin/Sea_Urchin_1_wv5leq.png "Long Spined Black Urchi")
 
 Морские ежи – одни из древнейших существ в океане, существующие уже более 450 миллионов лет, что на 200 миллионов лет раньше появления динозавров. Они относятся к иглокожим, что означает "колючая кожа" и включает морских звёзд, песчаных долларов и голотурий. Практически все иглокожие имеют пять идентичных частей тела, и длинношипый морской еж не исключение. Под его иглами можно увидеть пять пластинок из карбоната кальция, поддерживающих тело ежа.
 
@@ -24,13 +24,13 @@ date: 2024-07-10
 
 Эти морские ежи являются ненасытными поедателями водорослей, что приносит им прозвище "газонокосилки океана". Ежедневно они очищают рифы от водорослей, создавая условия для роста кораллов и поддерживая экосистему рифа.
 
-![Long Spined Black Urchi](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333606/Sea_Urchin_2_rr5skd.png "Long Spined Black Urchi")
+![Long Spined Black Urchi](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LongSpinedBlackUrchin/Sea_Urchin_2_rr5skd.png "Long Spined Black Urchi")
 
 Diadema antillarum по-прежнему остается одним из самых многочисленных и экологически значимых видов морских ежей на мелководье в тропических регионах. Его можно встретить в тропических водах Западной Атлантики, включая Карибское море, Мексиканский залив и побережье Южной Америки до Бразилии, а также в Восточной Атлантике на Канарских островах и в Индийском океане. Эти ежи помогают контролировать разрастание водорослей, которые могут подавлять коралловые рифы.
 
 Популяция длинношипых морских ежей в Карибском бассейне значительно сократилась в 1983 году, что привело к разрушительным последствиям для рифов. Причины этого вымирания до сих пор обсуждаются, но среди возможных факторов называют изменения климата, проблемы с качеством воды и заболевания, вызванные сбросом неочищенных сточных вод.
 
-![Long Spined Black Urchi](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333614/Sea_Urchin_3_tw4buk.png "Long Spined Black Urchi")
+![Long Spined Black Urchi](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LongSpinedBlackUrchin/Sea_Urchin_3_tw4buk.png "Long Spined Black Urchi")
 
 Массовая гибель ежей привела к разрастанию водорослей, удушающих кораллы и препятствующих оседанию новых коралловых личинок. Это вызвало "смену фазы", когда коралловые рифы покрылись водорослями. Без морских ежей эта ситуация станет необратимой.
 

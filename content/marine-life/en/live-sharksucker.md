@@ -1,7 +1,7 @@
 ---
 title: "Live sharksucker"
 meta_title: "Live sharksucker Echeneis naucrates"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739205637/Live_sharksucker_o27flf.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LiveSharksucker/Live_sharksucker_o27flf.png"
 date: 2025-02-11
 ---
 
@@ -11,7 +11,7 @@ Its body is dorsally flattened, with a small head and teeth. The first dorsal fi
 
 The remora attaches itself to large marine animals, traveling long distances with them, though free-swimming individuals can also be found. Those attached to solitary host animals often form male-female pairs.
 
-![Live sharksucker](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739205640/Live_sharksucker_4_ildizf.png "Live sharksucker")
+![Live sharksucker](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LiveSharksucker/Live_sharksucker_4_ildizf.png "Live sharksucker")
 
 Juveniles initially swim freely but begin attaching to moving objects once they reach a length of 40–80 millimeters. At this stage, their "hosts" are often smaller fish, such as boxfish and pufferfish.
 
@@ -21,4 +21,4 @@ The common remora primarily feeds on small fish, such as sardines, herrings, and
 
 This species plays an important role in marine ecosystems, participating in food chains, cleaning large animals of parasites, and contributing to nutrient redistribution in the water.
 
-![Live sharksucker](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739205637/Live_sharksucker_3_lwx0uj.png "Live sharksucker")
+![Live sharksucker](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/LiveSharksucker/Live_sharksucker_3_lwx0uj.png "Live sharksucker")

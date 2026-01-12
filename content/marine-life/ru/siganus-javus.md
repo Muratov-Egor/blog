@@ -2,7 +2,7 @@
 title: "Пятнистый сиган"
 title_en: "Java rabbitfish"
 meta_title: "Пятнистый сиган. Siganus javus. Яванский кроличий окунь. Java rabbitfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742053123/0_Siganus_javus_lwvi25.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SiganusJavus/0_Siganus_javus_lwvi25.png"
 date: 2025-03-15
 ---
 

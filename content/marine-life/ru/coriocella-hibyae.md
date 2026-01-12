@@ -2,7 +2,7 @@
 title: "Кориоцелла Хиби"
 title_en: "Coriocella hibyae"
 meta_title: "Кориоцелла Хиби (Coriocella hibyae)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739289432/Coriocella_hibyae_kh5fi1.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/CoriocellaHibyae/Coriocella_hibyae_kh5fi1.png"
 date: 2025-02-11
 ---
 

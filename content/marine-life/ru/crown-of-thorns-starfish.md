@@ -2,7 +2,7 @@
 title: "Терновый венец"
 title_en: "Crown-of-thorns starfish"
 meta_title: "Терновый венец. Crown-of-thorns starfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330094/Crown_of_Thorns_Starfish_p7cwhz.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/CrownOfThornsStarfish/Crown_of_Thorns_Starfish_p7cwhz.png"
 date: 2024-06-15
 ---
 
@@ -12,10 +12,10 @@ date: 2024-06-15
 
 Терновый венец является кораллоедной морской звездой. Основным источником пищи для нее являются твердые кораллы, которые она переваривает внешне: выбрасывая свой желудок наружу, она выделяет ферменты, разлагающие коралловую ткань. Это может привести к значительному разрушению коралловых рифов, особенно в периоды вспышек численности.
 
-![Crown-of-thorns starfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330088/Crown_of_Thorns_Starfish_3_wpfin1.png "Crown-of-thorns starfish")
+![Crown-of-thorns starfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/CrownOfThornsStarfish/Crown_of_Thorns_Starfish_3_wpfin1.png "Crown-of-thorns starfish")
 
 Размножение у тернового венца происходит через икрометание. Самки могут производить до 60 миллионов икринок за один нерест. Икра и сперма выбрасываются в воду, где происходит внешнее оплодотворение. Личинки развиваются в планктоне и после нескольких недель оседают на дно, превращаясь в молодую морскую звезду.
 
 Терновый венец представляет опасность для дайверов из-за своих ядовитых шипов. Прикосновение к шипам может вызвать сильную боль, отек, тошноту и даже паралич. Раны от шипов могут заживать очень долго и быть подвержены инфекции.
 
-![Crown-of-thorns starfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330097/Crown_of_Thorns_Starfish_1_o7cvqx.png "Crown-of-thorns starfish")
+![Crown-of-thorns starfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/CrownOfThornsStarfish/Crown_of_Thorns_Starfish_1_o7cvqx.png "Crown-of-thorns starfish")

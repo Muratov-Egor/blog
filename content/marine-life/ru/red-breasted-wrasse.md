@@ -2,7 +2,7 @@
 title: "Красногрудый губан"
 title_en: "Red-breasted wrasse"
 meta_title: "Красногрудый губан. Хейлин красногрудый. Red-breasted wrasse. Cheilinus fasciatus"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332940/Red_Breasted_Wrasse_lc3ysz.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedBreastedWrasse/Red_Breasted_Wrasse_lc3ysz.png"
 date: 2024-04-30
 ---
 
@@ -14,4 +14,4 @@ date: 2024-04-30
 
 Красногрудый брасс является протогинным гермафродитом, начиная свою жизнь как самка и в определенных условиях превращаясь в самца. Он осуществляет нерест в специальных территориях, и самцы посещают эти места, чтобы проверить готовность самок к спариванию.
 
-![Red-breasted wrasse](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332952/Red_Breasted_Wrasse_2_lwnnjq.png "Red-breasted wrasse")
+![Red-breasted wrasse](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedBreastedWrasse/Red_Breasted_Wrasse_2_lwnnjq.png "Red-breasted wrasse")

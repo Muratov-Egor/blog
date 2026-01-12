@@ -1,7 +1,7 @@
 ---
 title: "Phantom Bannerfish"
 meta_title: "Phantom Bannerfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332818/Phantom_Banerfish_pqshp1.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PhantomBannerfish/Phantom_Banerfish_pqshp1.png"
 date: 2024-01-08
 ---
 The **Phantom Bannerfish (Heniochus pleurotaenia)** is a marine fish of the butterflyfish family (Chaetodontidae), found in the central Indo-Pacific region. It inhabits coral-rich areas of lagoons and coastal reefs, where it is found in pairs or aggregations.

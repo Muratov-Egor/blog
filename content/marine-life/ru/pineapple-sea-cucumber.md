@@ -2,7 +2,7 @@
 title: "Ананасовый морской огурец"
 title_en: "Pineapple sea cucumber"
 meta_title: "Ананасовый морской огурец (Thelenota ananas) Pineapple sea cucumber"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739291562/Pineapple_sea_cucumber_hcyqhh.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PineappleSeaCucumber/Pineapple_sea_cucumber_hcyqhh.png"
 date: 2025-02-11
 ---
 

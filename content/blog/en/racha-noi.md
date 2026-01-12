@@ -48,13 +48,13 @@ Further south from Marita's Rock lies a small wooden fishing boat that can be ex
 
 ## North Tip
 
-![North Tip](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Marina_Bay_bhmrdb.png "North Tip") {/* Note: Image URL seems duplicated from Marina Bay in original */}
+![North Tip](https://diversnotes-images.s3.eu-central-003.backblazeb2.com/rachaNoi/Racha_Noi_North_Tip_kgqgai.png "North Tip") 
 
 In the northern part of Racha Noi island is the dive site called North Tip. The bay offers three dive options. On the surface, this dive spot is bordered by beautiful, tree-covered cliffs. The bay itself is quite shallow and usually well-sheltered, making it ideal for beginner divers. On the east side of the bay is a formation of granite boulders which takes up a large part of the dive, ending in a large drop-off descending to over 40 meters. On the west side, you can see very interesting rock formations unlike other Racha Noi dive sites. The shallow part of the bay consists mainly of a sandy bottom with scattered small hard coral bommies. The hard coral reef slopes gently down to about 20 meters and attracts numerous reef fish, giant morays, and octopuses. In deeper areas along the granite boulders on the east side, small schools of chevron barracuda can sometimes be spotted. It's important to be cautious when reaching the end of the boulders on either side, as there can sometimes be strong downcurrents pushing deeper.
 
 ## South Tip
 
-![South Tip](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Marina_Bay_bhmrdb.png "South Tip") {/* Note: Image URL seems duplicated from Marina Bay in original */}
+![South Tip](https://f003.backblazeb2.com/file/diversnotes-images/rachaNoi/Racha_Noi_Marina_Bay_bhmrdb.png "South Tip") 
 
 On the southern part of the island lies the jewel of Racha Noi - **South Tip** or **South Pinnacle**. From October to April, giant manta rays can regularly be encountered here.
 

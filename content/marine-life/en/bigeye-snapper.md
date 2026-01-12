@@ -1,7 +1,7 @@
 ---
 title: "Bigeye snapper"
 meta_title: "Bigeye snapper"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738325400/Bigeye_Snapper_2477x1394_amj3km.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BigeyeSnapper/Bigeye_Snapper_2477x1394_amj3km.png"
 date: 2024-06-15
 tags: ["Racha Yai", "Koh Bida Nok", "Koh Tao", "Similan Islands", "Phi-Phi"]
 ---
@@ -14,4 +14,4 @@ The Bigeye snapper reproduces through external fertilization. During the spawnin
 
 It feeds mainly on small fish and crustaceans. They often hunt in groups, using their large eyes to detect prey in low-light conditions. They also consume various invertebrates.
 
-![Bigeye snapper](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738325386/Bigeye_Snapper_2_xnsxnk.png "Bigeye snapper")
+![Bigeye snapper](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BigeyeSnapper/Bigeye_Snapper_2_xnsxnk.png "Bigeye snapper")

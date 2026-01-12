@@ -2,13 +2,13 @@
 title: "Рыба-скорпион"
 meta_title: "Рыба-скорпион"
 title_en: "Scorpionfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333276/Scorpionfish_1366x768_espggi.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/Scorpionfish/Scorpionfish_1366x768_espggi.png"
 date: 2024-01-08
 ---
 Рыба-скорпион считается одним из наиболее ядовитых и, в то же время, неприметных представителей морской фауны. Эти хищники, предпочитающие оставаться незаметными, умеют искусно приспосабливаться к окружающей среде. Они предпочитают скрываться, выжидая своей добычи на вершине рифа, где они могут легко сливаться с окружающей природой. Окраска рыб-скорпионов варьирует от приглушенных коричневых и желтых оттенков до ярких красных и оранжевых. Эти цвета прекрасно сочетаются с местным рифом, а также позволяют рыбам демонстрировать перьевые плавники или кожные щитки для более эффективного маскирования среди соседних кораллов.
 
-![Scorpionfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333288/Scorpionfish_2400x1349_e1z11c.png "Scorpionfish")
+![Scorpionfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/Scorpionfish/Scorpionfish_2400x1349_e1z11c.png "Scorpionfish")
 
 В прибрежных водах Индийского и Тихого океанов обитает более 200 известных видов рыб-скорпионов, и наибольшая их плотность наблюдается в теплых, богатых кораллями районах этих океанов. Погружение среди рыб-скорпионов предоставляет уникальную возможность наблюдать за их поведением, однако важно соблюдать предосторожность и поддерживать безопасное расстояние, учитывая, что их ядовитые шипы делают их одними из самых опасных существ в океане.
 
-![Scorpionfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333288/Scorpionfish_3_wldxjb.png "Scorpionfish")
+![Scorpionfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/Scorpionfish/Scorpionfish_3_wldxjb.png "Scorpionfish")

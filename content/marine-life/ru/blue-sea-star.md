@@ -2,7 +2,7 @@
 title: "Линкия. Голубая морская звезда"
 title_en: "Blue sea star"
 meta_title: "Blue sea star"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326307/Blue_Sea_Star_ced6cn.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueSeaStar/Blue_Sea_Star_ced6cn.png"
 date: 2024-06-15
 ---
 
@@ -16,4 +16,4 @@ date: 2024-06-15
 
 Она не ядовита и не агрессивна. Эти морские звезды обычно медлительные и не причиняют вреда человеку. Однако дайверам рекомендуется не трогать морских звезд и других морских обитателей, чтобы избежать стресса для животных и потенциального повреждения их деликатной кожи.
 
-![Blue sea star](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326308/Blue_Sea_Star_2_bygmml.png "Blue sea star")
+![Blue sea star](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueSeaStar/Blue_Sea_Star_2_bygmml.png "Blue sea star")

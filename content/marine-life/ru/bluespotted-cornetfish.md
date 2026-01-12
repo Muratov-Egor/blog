@@ -2,7 +2,7 @@
 title: "Cинепятнистая флейта"
 title_en: "Bluespotted сornetfish"
 meta_title: "Cинепятнистая флейта. Bluespotted сornetfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327558/Bluespotted_Cornetfish_h8cpwr.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BluespottedCornetfish/Bluespotted_Cornetfish_h8cpwr.png"
 date: 2024-05-27
 ---
 
@@ -14,6 +14,6 @@ date: 2024-05-27
 
 Флейты - хищники и питаются в основном мелкими рыбами и ракообразными. Они используют свои вытянутые рылки для быстрого всасывания добычи.
 
-![Bluespotted сornetfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327565/Bluespotted_Cornetfish_4783x2690_haibtl.png "Bluespotted сornetfish")
+![Bluespotted сornetfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BluespottedCornetfish/Bluespotted_Cornetfish_4783x2690_haibtl.png "Bluespotted сornetfish")
 
 Синепятнистая флейта обычно не представляет опасности для дайверов. Они пугливы и склонны избегать контакта с людьми. Тем не менее, как и все морские обитатели, их следует наблюдать на расстоянии, чтобы избежать стресса у животного или непреднамеренной реакции.

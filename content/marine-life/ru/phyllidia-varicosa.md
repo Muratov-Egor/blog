@@ -2,7 +2,7 @@
 title: "Варикозная филлидия"
 title_en: "Phyllidia varicosa"
 meta_title: "Варикозная филлидия (Phyllidia varicosa)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739119716/Phyllidia_varicosa_2_k3squx.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PhyllidiaVaricosa/Phyllidia_varicosa_2_k3squx.png"
 date: 2025-02-11
 ---
 
@@ -12,7 +12,7 @@ date: 2025-02-11
 
 Кроме широкого ареала, варикозная филлидия впечатляет и своими размерами. Средняя длина варикозной филлидии составляет 8–10 см, но отдельные особи вырастают до 12 см.
 
-![Phyllidia varicosa](https://res.cloudinary.com/dkm2zslzr/image/upload/v1739119717/Phyllidia_varicosa_bo6ozi.png "Phyllidia varicosa")
+![Phyllidia varicosa](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PhyllidiaVaricosa/Phyllidia_varicosa_bo6ozi.png "Phyllidia varicosa")
 
 Варикозная филлидия имеет удлинённое овальное тело, покрытое характерными продольными гребнями, которые делают её легко узнаваемой. Гребни и основания бугорков окрашены в серо-голубой или синий цвет, а верхушки бугорков имеют яркий жёлтый оттенок. Гребни бывают как сплошными, так и прерывистыми, с чёрным пространством между ними. На краях мантии также расположены полукруглые гребни с жёлтыми бугорками. Ринофоры (чувствительные органы моллюска) окрашены в яркий жёлтый цвет. Подошва ноги имеет чёрную продольную полосу.
 

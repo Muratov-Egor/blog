@@ -2,7 +2,7 @@
 title: "Мозаичная медуза"
 title_en: "Mosaic jellyfish"
 meta_title: "Мозаичная медуза (Catostylus mosaicus) Mosaic jellyfish. Blubber jellyfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332700/Blubber_Jellyfish_h6mfnd.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MosaicJellyfish/Blubber_Jellyfish_h6mfnd.png"
 date: 2024-10-21
 ---
 
@@ -10,7 +10,7 @@ date: 2024-10-21
 
 Обитает в тёплых водах Индо-Тихоокеанского региона, особенно у берегов Австралии, Японии и Индии. Она населяет мелководные лагуны и внешние склоны коралловых рифов на глубинах от 2 до 55 метров.
 
-![Mosaic jellyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332703/Blubber_Jellyfish_2400x1350_ina0fx.png "Mosaic jellyfish")
+![Mosaic jellyfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MosaicJellyfish/Blubber_Jellyfish_2400x1350_ina0fx.png "Mosaic jellyfish")
 
 Питается планктоном, мелкими рыбами и ракообразными. Мозаичная медуза фильтрует воду своими щупальцами, захватывая пищу.
 
@@ -18,4 +18,4 @@ date: 2024-10-21
 
 Мозаичные медузы считаются важной частью экосистемы коралловых рифов, так как участвуют в питании и движении питательных веществ.
 
-![Mosaic jellyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332703/Blubber_Jellyfish_3_cc5e6w.png "Mosaic jellyfish")
+![Mosaic jellyfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MosaicJellyfish/Blubber_Jellyfish_3_cc5e6w.png "Mosaic jellyfish")

@@ -1,7 +1,7 @@
 ---
 title: "Scarus niger"
 meta_title: "Scarus niger. Warthy parrotfish. Dusky parrotfish. Black parrotfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1732812926/dusky-parrotfish_krfzgx.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ScarusNiger/dusky-parrotfish_krfzgx.png"
 date: "2024-03-16"
 tags: ["Racha Yai", "Similan Islands", "Koh Tao"]
 ---
@@ -22,4 +22,4 @@ Individuals of this species are often solitary, although males may live in group
 
 This fish primarily feeds on algae, which it scrapes off coral surfaces. By doing so, the dusky parrotfish helps prevent the overgrowth of algae, which can harm reefs. While feeding, the fish accidentally ingests coral fragments, which are ground into sand in its stomach.
 
-![Dusky parrotfish](https://res.cloudinary.com/danezbcu5/image/upload/v1732812923/dusky-parrotfish-2_fssdvd.png "Dusky parrotfish")
+![Dusky parrotfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ScarusNiger/dusky-parrotfish-2_fssdvd.png "Dusky parrotfish")

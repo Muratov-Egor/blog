@@ -2,7 +2,7 @@
 title: "Желтохвостый губан"
 title_en: "Yellowtail coris wrasse"
 meta_title: "Желтохвостый губан (Coris gaimard) Yellowtail coris wrasse"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742054020/2_Yellowtail_coris_wrasse_xyhh7t.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailCorisWrasse/2_Yellowtail_coris_wrasse_xyhh7t.png"
 date: 2025-03-15
 ---
 

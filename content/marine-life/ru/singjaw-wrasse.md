@@ -2,7 +2,7 @@
 title: "Эпибула"
 title_en: "Singjaw Wrasse"
 meta_title: "Эпибула (Epibulus insidiator). Выбрасывающая челюсть губаню. Singjaw Wrasse"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742053568/1_Singjaw_Wrasse_Female_ztvncz.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SingjawWrasse/1_Singjaw_Wrasse_Female_ztvncz.png"
 date: 2025-03-15
 ---
 
@@ -12,7 +12,7 @@ date: 2025-03-15
 
 Эпибула — хищник, питающийся мелкими рыбами и ракообразными. Её уникальная челюстная структура позволяет мгновенно вытягивать пасть, захватывая добычу с большого расстояния.
 
-![Slingjaw Wrasse](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742053895/1_Singjaw_Wrasse_Male_tdg1o5.png "Slingjaw Wrasse")
+![Slingjaw Wrasse](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SingjawWrasse/1_Singjaw_Wrasse_Male_tdg1o5.png "Slingjaw Wrasse")
 
 Этот вид является гермафродитом, что означает способность изменять пол с женского на мужской в течение жизни. Во время брачного сезона самцы демонстрируют самкам свои яркие цвета и совершают ритуальные круги вокруг партнёрш. Нерест происходит в вечерние часы: самец и самка поднимаются в толщу воды, где выбрасывают икру и молоки.
 

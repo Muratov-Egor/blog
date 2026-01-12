@@ -2,7 +2,7 @@
 title: "Бабочка-фантом"
 meta_title: "Бабочка-фантом"
 title_en: "Phantom Bannerfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332818/Phantom_Banerfish_pqshp1.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PhantomBannerfish/Phantom_Banerfish_pqshp1.png"
 date: 2024-01-08
 ---
 Вымпельная бабочка-фантом (Phantom Bannerfish) - морская рыба семейства Chaetodontidae, обитающая в центральной части Индо-Тихоокеанского региона. Обитает в богатых кораллами районах лагун и прибрежных рифов, где встречается парами или скоплениями.

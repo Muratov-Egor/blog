@@ -1,7 +1,7 @@
 ---
 title: "Crown-of-thorns starfish"
 meta_title: "Crown-of-thorns starfish (Acanthaster planci)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330094/Crown_of_Thorns_Starfish_p7cwhz.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/CrownOfThornsStarfish/Crown_of_Thorns_Starfish_p7cwhz.png"
 date: 2024-06-15
 ---
 
@@ -11,10 +11,10 @@ The Crown-of-thorns starfish inhabits the tropical and subtropical waters of the
 
 The Crown-of-thorns starfish is a corallivore. Its primary food source is hard corals (scleractinians), which it digests externally: by everting its stomach, it releases enzymes that break down coral tissue. This can lead to significant destruction of coral reefs, especially during population outbreaks.
 
-![Crown-of-thorns starfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330088/Crown_of_Thorns_Starfish_3_wpfin1.png "Crown-of-thorns starfish")
+![Crown-of-thorns starfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/CrownOfThornsStarfish/Crown_of_Thorns_Starfish_3_wpfin1.png "Crown-of-thorns starfish")
 
 Reproduction in the Crown-of-thorns starfish occurs through spawning. Females can produce up to 60 million eggs in a single spawning event. Eggs and sperm are released into the water, where external fertilization takes place. The larvae develop in the plankton and, after several weeks, settle on the seabed, transforming into juvenile starfish.
 
 The Crown-of-thorns starfish poses a danger to divers due to its venomous spines. Contact with the spines can cause severe pain, swelling, nausea, and even paralysis. Wounds from the spines can take a very long time to heal and are susceptible to infection.
 
-![Crown-of-thorns starfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330097/Crown_of_Thorns_Starfish_1_o7cvqx.png "Crown-of-thorns starfish")
+![Crown-of-thorns starfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/CrownOfThornsStarfish/Crown_of_Thorns_Starfish_1_o7cvqx.png "Crown-of-thorns starfish")

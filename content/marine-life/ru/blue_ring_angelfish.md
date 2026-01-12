@@ -2,7 +2,7 @@
 title: "Ангел-анулярис"
 title_en: "Bluering angelfish"
 meta_title: "Ангел-анулярис. Bluering angelfish. Pomacanthus annularis. Аnnularis angelfish. King angelfish"
-image: "https://res.cloudinary.com/danezbcu5/image/upload/v1729355087/blue_ring_angelfish_ll4opm.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueringAngelfish/Blue_Ring_Angelfish_masgdm.png"
 date: 2024-04-30
 ---
 

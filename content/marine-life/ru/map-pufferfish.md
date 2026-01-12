@@ -2,7 +2,7 @@
 title: "Мозаичный аротрон"
 title_en: "Map pufferfish"
 meta_title: "Мозаичный аротрон (Arothron mappa) Map pufferfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332530/Map_Pufferfish_idt0bd.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MapPufferfish/Map_Pufferfish_idt0bd.png"
 date: 2024-10-21
 ---
 
@@ -12,7 +12,7 @@ date: 2024-10-21
 
 Питается преимущественно твёрдокожими беспозвоночными, такими как моллюски, крабы и морские ежи. Аротрон использует свои мощные челюсти для разгрызания твёрдых раковин и кораллов.
 
-![Map pufferfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742048144/Map_pufferfish__vf7cw0.png "Map pufferfish")
+![Map pufferfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MapPufferfish/Map_pufferfish__vf7cw0.png "Map pufferfish")
 
 Как и многие рыбы из семейства фугу, мозаичный аротрон может быть опасен для человека из-за содержания в его тканях тетродотоксина. Этот яд смертельно опасен при употреблении в пищу. Однако при встрече под водой аротрон не представляет угрозы для человека, так как не агрессивен.
 
@@ -22,4 +22,4 @@ date: 2024-10-21
 
 В случае опасности аротрон способен раздуваться, увеличиваясь в размерах и отпугивая потенциальных хищников.
 
-![Map pufferfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742048142/Map_pufferfish_2_jb5faz.png "Map pufferfish")
+![Map pufferfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MapPufferfish/Map_pufferfish_2_jb5faz.png "Map pufferfish")

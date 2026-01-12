@@ -1,7 +1,7 @@
 ---
 title: "Blue sea star"
 meta_title: "Blue sea star"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326307/Blue_Sea_Star_ced6cn.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueSeaStar/Blue_Sea_Star_ced6cn.png"
 date: 2024-06-15
 ---
 
@@ -15,4 +15,4 @@ Linckia reproduces both sexually and asexually. Sexual reproduction occurs throu
 
 It is not venomous or aggressive. These sea stars are generally slow-moving and harmless to humans. However, divers are advised not to touch sea stars or other marine life to avoid causing stress to the animals and potentially damaging their delicate skin.
 
-![Blue sea star](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326308/Blue_Sea_Star_2_bygmml.png "Blue sea star")
+![Blue sea star](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlueSeaStar/Blue_Sea_Star_2_bygmml.png "Blue sea star")

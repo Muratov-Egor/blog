@@ -1,7 +1,7 @@
 ---
 title: "Singjaw Wrasse"
 meta_title: "Singjaw Wrasse (Epibulus insidiator)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1742053568/1_Singjaw_Wrasse_Female_ztvncz.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SingjawWrasse/1_Singjaw_Wrasse_Female_ztvncz.png"
 date: 2025-03-15
 ---
 
@@ -11,7 +11,7 @@ Its coloration changes with age and sex. Juveniles are typically brown with thin
 
 The slingjaw wrasse is a predator, feeding on small fish and crustaceans. Its unique jaw structure enables it to extend its mouth instantly, capturing prey from a distance.
 
-![Slingjaw Wrasse](https://res.cloudinary.com/dkm2zslzr/image/upload/v1742053895/1_Singjaw_Wrasse_Male_tdg1o5.png "Slingjaw Wrasse")
+![Slingjaw Wrasse](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SingjawWrasse/1_Singjaw_Wrasse_Male_tdg1o5.png "Slingjaw Wrasse")
 
 This species is a protogynous hermaphrodite, meaning it has the ability to change from female to male during its lifetime. During the breeding season, males display vibrant colors and perform ritualistic circling around females. Spawning occurs in the evening, with the male and female ascending into the water column to release eggs and sperm.
 

@@ -2,7 +2,7 @@
 title: "Большеглазая рыба-солдат"
 meta_title: "Большеглазая рыба-солдат"
 title_en: "Blotcheye soldierfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738326225/Blotcheye_Soldierfish_hq8ct5.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BlotcheyeSoldierfish/Blotcheye_Soldierfish_hq8ct5.png"
 date: 2024-03-16
 ---
 

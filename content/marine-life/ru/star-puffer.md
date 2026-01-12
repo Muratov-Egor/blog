@@ -2,7 +2,7 @@
 title: "Звёздчатый иглобрюх"
 meta_title: "Звёздчатый иглобрюх"
 title_en: "Star puffer"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334643/Star_Puffer_1366x768_ex0qsq.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/StarPuffer/Star_Puffer_1366x768_ex0qsq.png"
 date: 2023-07-01
 ---
 

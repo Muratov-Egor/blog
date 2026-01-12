@@ -1,7 +1,7 @@
 ---
 title: "Giant moray"
 meta_title: "Giant moray"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738331055/Giant_Moray_2722x1532_x84ubq.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/GiantMoray/Giant_Moray_2722x1532_x84ubq.png"
 date: 2024-01-17
 ---
 
@@ -11,7 +11,7 @@ Juveniles have a brownish-yellow coloration with numerous large black spots. Adu
 
 The moray's body is laterally compressed and covered with a layer of mucus, which allows for safe gliding and entry into shelters, and also protects against mechanical damage and parasites.
 
-![Giant Moray](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738331062/Giant_Moray_3096x1740_ox8oa5.png "Giant Moray")
+![Giant Moray](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/GiantMoray/Giant_Moray_3096x1740_ox8oa5.png "Giant Moray")
 
 The dorsal fin extends along the entire body, aiding in propulsion and maneuverability.
 

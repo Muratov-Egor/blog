@@ -2,7 +2,7 @@
 title: "Teira batfish"
 title_en: "Platax teira (Teira batfish)"
 meta_title: "Teira batfish (Platax teira)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334739/Teira_Batfish_mbtnhe.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/TeiraBatfish/Teira_Batfish_mbtnhe.png"
 date: 2024-07-10
 ---
 
@@ -14,7 +14,7 @@ Juvenile batfish possess unique defense mechanisms. The first mechanism involves
 
 With age, batfish change their shape and coloration (ontogenetic changes). Young fish have elongated dorsal and anal fins, and their bodies are colored in yellow or orange tones with three black bars. As they mature, the fins shorten, the bars fade, and the body takes on a silvery color with vertical bars on the front part.
 
-![Teira batfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334740/Teira_Batfish_2_mjazgx.png "Teira batfish")
+![Teira batfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/TeiraBatfish/Teira_Batfish_2_mjazgx.png "Teira batfish")
 
 Batfish pose no danger to divers and often show curiosity towards them. They readily allow humans to approach, making them popular subjects for underwater observation.
 

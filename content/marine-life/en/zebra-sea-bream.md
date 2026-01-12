@@ -1,7 +1,7 @@
 ---
 title: "Zebra sea-bream"
 meta_title: "Zebra sea-bream"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738335749/Zebra_Sea_Bream_wszzpi.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ZebraSeaBream/Zebra_Sea_Bream_wszzpi.png"
 date: 2023-12-16
 ---
 The **Zebra sea-bream (Diplodus cervinus)**, also known in Russian as 'toothed seabream' or 'toothed sargo', belongs to the seabream family (Sparidae) and is distributed across various regions of the world's oceans. The species can be classified into three subspecies based on their habitats, sometimes considered separate species:

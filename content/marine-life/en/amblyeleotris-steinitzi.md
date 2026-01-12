@@ -1,7 +1,7 @@
 ---
 title: "Steinitz’ Prawn-goby"
 meta_title: "Steinitz’ Prawn-goby (Amblyeleotris steinitzi)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738325159/Amblyeleotris_Steinitzi_vkukxv.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/AmblyeleotrisSteinitzi/Amblyeleotris_Steinitzi_vkukxv.png"
 date: 2024-05-27
 ---
 
@@ -9,7 +9,7 @@ The **Steinitz’ Prawn-goby (Amblyeleotris steinitzi)** is a small fish, typica
 
 The Steinitz’ Prawn-goby inhabits the Indo-Pacific region, particularly in shallow coastal waters and on coral reefs. It prefers sandy or gravelly substrates where it can easily dig burrows. This species is known for its symbiotic relationship with alpheid shrimps, also known as pistol shrimps. The goby and the shrimp share a burrow: the shrimp maintains the burrow, while the fish acts as a lookout, warning of predators.
 
-![Steinitz’ Prawn-goby](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738325160/Amblyeleotris_Steinitzi_2400x1350_uvkxaw.png "Steinitz’ Prawn-goby")
+![Steinitz’ Prawn-goby](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/AmblyeleotrisSteinitzi/Amblyeleotris_Steinitzi_2400x1350_uvkxaw.png "Steinitz’ Prawn-goby")
 
 *Amblyeleotris steinitzi* reproduces through external fertilization. During the breeding season, males and females form pairs, and the female lays eggs in a protected area within the burrow. The male fertilizes the eggs, and both parents guard them until hatching. The larvae are pelagic, drifting in open water before settling and transforming into juveniles.
 
@@ -17,4 +17,4 @@ The goby feeds mainly on small invertebrates, such as crustaceans and worms. It 
 
 This is a shy fish that quickly retreats into its burrow at the first sign of danger. Its small size and peaceful nature make it completely harmless to humans.
 
-![Steinitz’ Prawn-goby](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738325163/Amblyeleotris_Steinitzi_1_rb3hyj.png "Steinitz’ Prawn-goby")
+![Steinitz’ Prawn-goby](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/AmblyeleotrisSteinitzi/Amblyeleotris_Steinitzi_1_rb3hyj.png "Steinitz’ Prawn-goby")

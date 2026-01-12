@@ -1,7 +1,7 @@
 ---
 title: "Raccoon butterflyfish"
 meta_title: "Raccoon butterflyfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332891/Raccoon_Butterflyfish_mxrwh7.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RaccoonButterflyfish/Raccoon_Butterflyfish_mxrwh7.png"
 date: 2023-12-16
 ---
 

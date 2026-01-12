@@ -2,7 +2,7 @@
 title: "Бабочка пакистанская"
 meta_title: "Бабочка пакистанская"
 title_en: "Redtail butterflyfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333140/Redtail_Butterflyfish_z2kgue.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedtailButterflyfish/Redtail_Butterflyfish_z2kgue.png"
 date: 2023-12-15
 ---
 
@@ -10,4 +10,4 @@ date: 2023-12-15
 
 Бабочка пакистанская представляет собой довольно крупную бабочку с высоким телом и коротким рострумом, обладающую элегантной окраской, напоминающей некрупных ангелов. Её характерным признаком является сетчатый узор на теле, образованный широкими темными каймами чешуи. Передняя часть туловища имеет более темную шоколадную окраску, которая постепенно переходит в светлую золотисто-коричневую окраску в задней части. Спинные и анальные плавники украшены тонкими сине-черно-красными окантовками, а хвостовое оперение красное с черно-голубой каймой. Голова черная с серым лбом и вертикальной белой полосой за глазом. Рострум также окружен полулунной белой полоской, а брови над глазами черные. Молодые рыбы отличаются черной полосой через глаз и темным пятном на задней лопасти спинного плавника.
 
-![Redtail butterflyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333136/Redtail_Butterflyfish_1_g8tooj.png "Redtail butterflyfish")
+![Redtail butterflyfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedtailButterflyfish/Redtail_Butterflyfish_1_g8tooj.png "Redtail butterflyfish")

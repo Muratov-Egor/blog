@@ -2,7 +2,7 @@
 title: "Желтохвостый корась (Атуле)"
 meta_title: "Желтохвостый корась (Атуле)"
 title_en: "Yellowtail scad"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739286646/Yellowtail_scad_v4i420.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailScad/Yellowtail_scad_v4i420.png"
 date: 2024-04-22
 ---
 
@@ -12,4 +12,4 @@ date: 2024-04-22
 
 Окраска желтохвостого корася характеризуется оливково-зеленым оттенком сверху, который постепенно переходит в золотисто-зеленый на брюшной стороне, а затем становится серебристо-белым. По бокам рыбы проходят вертикальные полосы серого цвета в количестве от девяти до 16 штук, а также присутствует черное пятно, меньшего размера по сравнению с глазом, на верхнем крае оперкуля и плечевой области. Хвостовой и спинной плавники имеют характерный зеленовато-желтый оттенок, брюшные плавники белого цвета, а остальные плавники прозрачные.
 
-![Желтохвостый корась](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334996/Yellowtail_Scad_rqrspi.png "Желтохвостый корась")
+![Желтохвостый корась](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailScad/Yellowtail_Scad_rqrspi.png "Желтохвостый корась")

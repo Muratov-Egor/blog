@@ -1,7 +1,7 @@
 ---
 title: "Painted spiny lobster"
 meta_title: "Painted spiny lobster"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332781/Panulirus_Versicolor_zsp0en.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/PanulirusVersicolor/Panulirus_Versicolor_zsp0en.png"
 date: 2024-03-16
 ---
 The **Painted spiny lobster (Panulirus versicolor)** is a species of spiny lobster found on tropical reefs in the Indo-Pacific region. Other common names include Painted rock lobster, Common rock lobster, Bamboo lobster, Blue lobster, and Blue spiny lobster.

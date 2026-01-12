@@ -1,7 +1,7 @@
 ---
 title: "Yellowtail scad"
 meta_title: "Yellowtail scad (Atule mate)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1739286646/Yellowtail_scad_v4i420.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailScad/Yellowtail_scad_v4i420.png"
 date: 2024-04-22
 ---
 
@@ -11,4 +11,4 @@ The Yellowtail scad is the only species in the genus *Atule*, characterized by a
 
 The coloration of the Yellowtail scad is characterized by an olive-green hue on top, gradually transitioning to golden-green on the sides [Note: Original text specified ventral side], and then becoming silvery-white below. The fish has nine to 16 vertical gray bars along its sides, as well as a black spot, smaller than the eye, on the upper edge of the operculum and the shoulder area. The caudal and dorsal fins have a characteristic greenish-yellow hue, the pelvic fins are white, and the remaining fins are transparent.
 
-![Желтохвостый корась](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334996/Yellowtail_Scad_rqrspi.png "Желтохвостый корась")
+![Желтохвостый корась](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/YellowtailScad/Yellowtail_Scad_rqrspi.png "Желтохвостый корась")

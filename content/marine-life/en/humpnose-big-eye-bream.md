@@ -1,7 +1,7 @@
 ---
 title: "Humpnose big-eye bream"
 meta_title: "Humpnose big-eye bream"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332225/Humpnose_Big_Eye_Bream_hqkvra.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/HumpnoseBigEyeBream/Humpnose_Big_Eye_Bream_hqkvra.png"
 date: 2023-12-16
 ---
 

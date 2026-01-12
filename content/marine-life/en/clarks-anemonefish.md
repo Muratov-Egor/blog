@@ -1,7 +1,7 @@
 ---
 title: "Clark's anemonefish"
 meta_title: "Clark's anemonefish (Amphiprion clarkii)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738329997/Clarks_Anemonefish_jsp7bs.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ClarksAnemonefish/Clarks_Anemonefish_jsp7bs.png"
 date: 2024-06-15
 ---
 
@@ -15,4 +15,4 @@ Clark's anemonefish are protandrous hermaphrodites, meaning they can change sex 
 
 Clark's anemonefish can become aggressive when defending their territory if they feel threatened. Bites can be unpleasant, but they are not venomous and do not pose a serious threat.
 
-![Clark's anemonefish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738330000/Clarks_Anemonefish_2477x1392_yqzuzi.png "Clark's anemonefish")
+![Clark's anemonefish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ClarksAnemonefish/Clarks_Anemonefish_2477x1392_yqzuzi.png "Clark's anemonefish")

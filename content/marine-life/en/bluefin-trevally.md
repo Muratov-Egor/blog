@@ -1,7 +1,7 @@
 ---
 title: "Bluefin trevally"
 meta_title: "Bluefin trevally"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738327428/Bluefin_Trevally_wopwnb.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/BluefinTrevally/Bluefin_Trevally_wopwnb.png"
 date: 2023-12-16
 ---
 The **Bluefin trevally**, also known as the Spotted or Starry trevally (scientific name *Caranx melampygus*), is a species of marine ray-finned fish from the jack family (Carangidae). They inhabit the waters of the Indian and Pacific Oceans, ranging from the eastern coast of Africa to the western coast of Central America, including Japan to the north and Australia to the south. Diverse in their lifestyle, these fish can be found in bays, lagoons, near reefs, as well as around atolls and oceanic islands.

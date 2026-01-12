@@ -2,7 +2,7 @@
 title: "Богряная рыба-бабочка"
 meta_title: "Богряная рыба-бабочка (Chaetodon trifasciatus). Melon butterflyfish"
 title_en: "Melon butterflyfish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332626/Melon_Butterflyfish_2634x1482_hgallk.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MelonButterflyfish/Melon_Butterflyfish_2634x1482_hgallk.png"
 date: 2024-05-27
 ---
 
@@ -16,4 +16,4 @@ date: 2024-05-27
 
 Они известны своей робкой и мирной натурой. Хотя они могут приближаться к дайверам из любопытства, они не представляют угрозы.
 
-![Melon butterflyfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332626/Melon_Butterflyfish_2_sc6yd7.png "Melon butterflyfish")
+![Melon butterflyfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/MelonButterflyfish/Melon_Butterflyfish_2_sc6yd7.png "Melon butterflyfish")

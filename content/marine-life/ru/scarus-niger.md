@@ -2,7 +2,7 @@
 title: "Тёмный скар"
 meta_title: "Тёмный скар. Смуглая рыба-попугай. Scarus niger. Warthy parrotfish. Dusky parrotfish. Black parrotfish"
 title_en: "Scarus niger"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333213/Dusky_Parrotfish_ez51oy.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ScarusNiger/Dusky_Parrotfish_ez51oy.png"
 date: "2024-12-20"
 ---
 
@@ -14,7 +14,7 @@ date: "2024-12-20"
 
 Тёмный скар имеет продолговатое тело, покрытое крупной чешуей. Окраска варьируется в зависимости от возраста и пола, но часто включает оттенки синего, зелёного, фиолетового и чёрного. Молодые особи окрашены более тускло, а взрослые самцы обладают яркими цветами.
 
-![Dusky parrotfish](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738333209/Dusky_Parrotfish_2400x1349_vioyrh.png "Dusky parrotfish")
+![Dusky parrotfish](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/ScarusNiger/Dusky_Parrotfish_2400x1349_vioyrh.png "Dusky parrotfish")
 
 В спинном плавнике насчитывается 9 колючих и 10 мягких лучей, а в анальном плавнике — 3 колючих и 9 мягких лучей.
 

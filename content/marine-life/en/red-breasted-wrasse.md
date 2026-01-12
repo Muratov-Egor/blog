@@ -1,7 +1,7 @@
 ---
 title: "Red-breasted wrasse"
 meta_title: "Red-breasted wrasse (Cheilinus fasciatus)"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332940/Red_Breasted_Wrasse_lc3ysz.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedBreastedWrasse/Red_Breasted_Wrasse_lc3ysz.png"
 date: 2024-04-30
 ---
 
@@ -13,4 +13,4 @@ The Red-breasted wrasse possesses strong jaws used for crushing shells, and its 
 
 The Red-breasted wrasse is a protogynous hermaphrodite, starting life as a female and transforming into a male under certain conditions. It spawns in specific territories, and males visit these areas to check the readiness of females for mating.
 
-![Red-breasted wrasse](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738332952/Red_Breasted_Wrasse_2_lwnnjq.png "Red-breasted wrasse")
+![Red-breasted wrasse](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/RedBreastedWrasse/Red_Breasted_Wrasse_2_lwnnjq.png "Red-breasted wrasse")

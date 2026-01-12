@@ -2,7 +2,7 @@
 title: "Spot-fin porcupinefish"
 meta_title: "Spot-fin porcupinefish"
 title_en: "Spot-fin porcupinefish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334451/spot-fin-porcupinefish_bluwhj_g6ysss.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SpotFinPorcupinefish/spot-fin-porcupinefish_bluwhj_g6ysss.png"
 date: 2023-07-01
 ---
 
@@ -12,10 +12,10 @@ A characteristic feature is that the dorsal and anal fins are set far back, appr
 
 The appearance of the Spot-fin porcupinefish is impressive due to its long, sharp spines, which are folded back against the body when at rest. If threatened, the fish inflates its body into a spherical shape, causing its spines to stand erect. There are 16 to 20 spines on the back, between the head and the dorsal fin. Body coloration varies from light brown to light violet, with numerous dark spots, and the belly is white.
 
-![Spot-fin porcupinefishl](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334440/spot-fin-porcupinefish-3_i0sykg_wldjfq.png "Spot-fin porcupinefish")
+![Spot-fin porcupinefishl](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SpotFinPorcupinefish/spot-fin-porcupinefish-3_i0sykg_wldjfq.png "Spot-fin porcupinefish")
 
 This species inhabits tropical and subtropical zones of the Indo-Pacific region, preferring lagoons and outer slopes of coral reefs at depths ranging from 2 to 50 meters. It is often found in caves and crevices of shallow reefs. Juveniles, up to about 20 cm, prefer a pelagic lifestyle, swimming in open water.
 
 These fish are usually solitary and actively hunt for invertebrates such as sea urchins, gastropods, and hermit crabs, especially at night.
 
-![Spot-fin porcupinefishl](https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334452/spot-fin-porcupinefish-2_gringi_cyidbg.png "Spot-fin porcupinefish")
+![Spot-fin porcupinefishl](https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/SpotFinPorcupinefish/spot-fin-porcupinefish-2_gringi_cyidbg.png "Spot-fin porcupinefish")

@@ -1,7 +1,7 @@
 ---
 title: "Stonefish"
 meta_title: "Stonefish"
-image: "https://res.cloudinary.com/dkm2zslzr/image/upload/v1738334683/Stonefish_1366x768_ju9bmb.png"
+image: "https://f003.backblazeb2.com/file/diversnotes-images/0_maineLife/Stonefish/Stonefish_1366x768_ju9bmb.png"
 date: 2024-01-08
 ---
 
