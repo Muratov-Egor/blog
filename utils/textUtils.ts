@@ -18,7 +18,7 @@ export const IGNORED_CHARS = [
 export function cleanText(text: string): string {
   let cleanedText = text;
 
-  // Удаляем URL-адреса Cloudinary и другие URL
+  // Удаляем URL-адреса
   cleanedText = cleanedText.replace(/res\.cloudinary\.com[^\s]*/g, '');
   cleanedText = cleanedText.replace(/https?:\/\/[^\s]*/g, '');
   
